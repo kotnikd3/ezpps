@@ -1,2 +1,46 @@
-# ezpps
-Website in Vuejs
+# www.ezpps.kotnik.si
+
+## Update node on MacOS
+```sh
+brew update
+```
+
+## Update npm
+```sh
+npm install -g npm@latest
+```
+
+## Update packages
+```sh
+# Check for updates
+ncu
+# Update packages by modifying package.json
+ncu -u
+# Install new packages
+npm install
+```
+
+## Project setup
+```sh
+npm install
+```
+
+### Compiles and hot-reloads for development
+```sh
+npm run dev
+```
+
+### Compile and Minify for Production
+
+```sh
+npm run build
+```
+
+### Lint with [ESLint](https://eslint.org/)
+
+```sh
+npm run lint
+```
+
+## Hosting
+- **Static website hosting provider**: Cloudflare Pages (hosts the static website)
