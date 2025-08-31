@@ -25,28 +25,28 @@
                 <div class="navbar-item has-dropdown is-hoverable">
                     <a class="navbar-link">O društvu</a>
                     <div class="navbar-dropdown">
-                        <RouterLink to="/clani" class="navbar-item">O EZPPS</RouterLink>
-                        <RouterLink to="/clani" class="navbar-item">O zvezah društev ECPP, SKZP in EAP</RouterLink>
-                        <RouterLink to="/clani" class="navbar-item">Organi društva</RouterLink>
+                        <RouterLink :to="{ name: 'ezpps_view' }" class="navbar-item">O EZPPS</RouterLink>
+                        <RouterLink :to="{ name: 'relationships_view' }" class="navbar-item">O zvezah društev ECPP, SKZP in EAP</RouterLink>
+                        <RouterLink :to="{ name: 'parties_view' }" class="navbar-item">Organi društva</RouterLink>
                         <hr class="navbar-divider">
-                        <RouterLink to="/clani" class="navbar-item">Včlanitev</RouterLink>
-                        <RouterLink to="/clani" class="navbar-item">Certifikacija</RouterLink>
+                        <RouterLink :to="{ name: 'enrollment_view' }" class="navbar-item">Včlanitev</RouterLink>
+                        <RouterLink :to="{ name: 'certification_view' }" class="navbar-item">Certifikacija</RouterLink>
                     </div>
                 </div>
+                <RouterLink class="navbar-item" :to="{ name: 'members_view' }" @click="isMenuActive = false;">Člani</RouterLink>
                 <div class="navbar-item has-dropdown is-hoverable">
                     <a class="navbar-link">O psihoterapiji</a>
                     <div class="navbar-dropdown">
-                        <RouterLink to="/clani" class="navbar-item">O psihoanalitični psihoterapiji</RouterLink>
-                        <RouterLink to="/clani" class="navbar-item">Psihoanalitično izobraževanje</RouterLink>
-                        <RouterLink to="/clani" class="navbar-item">O psihodinamski psihoterapiji</RouterLink>
-                        <RouterLink to="/clani" class="navbar-item">Psihodinamsko izobraževanje</RouterLink>
-                        <RouterLink to="/clani" class="navbar-item">Povezave</RouterLink>
+                        <RouterLink :to="{ name: 'psychoanalytic_psychotherapy_view' }" class="navbar-item">O psihoanalitični psihoterapiji</RouterLink>
+                        <RouterLink :to="{ name: 'psychoanalytic_education_view' }" class="navbar-item">Psihoanalitično izobraževanje</RouterLink>
+                        <RouterLink :to="{ name: 'psychodynamic_psychotherapy_view' }" class="navbar-item">O psihodinamski psihoterapiji</RouterLink>
+                        <RouterLink :to="{ name: 'psychodynamic_education_view' }" class="navbar-item">Psihodinamsko izobraževanje</RouterLink>
+                        <RouterLink :to="{ name: 'connections_view' }" class="navbar-item">Povezave</RouterLink>
                     </div>
                 </div>
-                <RouterLink class="navbar-item" :to="{ name: 'members' }" @click="isMenuActive = false;">Clani</RouterLink>
-                <RouterLink class="navbar-item" :to="{ name: 'members' }" @click="isMenuActive = false;">Prispevki</RouterLink>
-                <RouterLink class="navbar-item" :to="{ name: 'members' }" @click="isMenuActive = false;">Dogodki</RouterLink>
-                <RouterLink class="navbar-item" :to="{ name: 'members' }" @click="isMenuActive = false;">Kontakt</RouterLink>
+                <RouterLink class="navbar-item" :to="{ name: 'library_view' }" @click="isMenuActive = false;">Knjižnica</RouterLink>
+                <RouterLink class="navbar-item" :to="{ name: 'events_view' }" @click="isMenuActive = false;">Dogodki</RouterLink>
+                <RouterLink class="navbar-item" :to="{ name: 'contact_view' }" @click="isMenuActive = false;">Kontakt</RouterLink>
             </div>
         </div>
     </nav>
@@ -99,28 +99,28 @@
                     <h5 class="title is-5"><strong>O društvu</strong></h5>
                     <ul>
                         <li>
-                            <RouterLink to="/clani">O EZPPS</RouterLink>
+                            <RouterLink :to="{ name: 'ezpps_view' }">O EZPPS</RouterLink>
                         </li>
                         <li>
-                            <RouterLink to="/clani">O zvezah društev ECPP, SKZP in EAP</RouterLink>
+                            <RouterLink :to="{ name: 'relationships_view' }">O zvezah društev ECPP, SKZP in EAP</RouterLink>
                         </li>
                         <li>
-                            <RouterLink to="/clani">Organi društva</RouterLink>
+                            <RouterLink :to="{ name: 'parties_view' }">Organi društva</RouterLink>
                         </li>
                         <li>
-                            <RouterLink to="/clani">Včlanitev</RouterLink>
+                            <RouterLink :to="{ name: 'enrollment_view' }">Včlanitev</RouterLink>
                         </li>
                         <li>
-                            <RouterLink to="/clani">Certifikacija</RouterLink>
+                            <RouterLink :to="{ name: 'certification_view' }">Certifikacija</RouterLink>
                         </li>
                         <li>
-                            <RouterLink to="/clani">Člani</RouterLink>
+                            <RouterLink :to="{ name: 'members_view' }">Člani</RouterLink>
                         </li>
                         <li>
-                            <RouterLink to="/clani">Prispevki</RouterLink>
+                            <RouterLink :to="{ name: 'library_view' }">Knjižnica</RouterLink>
                         </li>
                         <li>
-                            <RouterLink to="/clani">Dogodki</RouterLink>
+                            <RouterLink :to="{ name: 'events_view' }">Dogodki</RouterLink>
                         </li>
                     </ul>
                 </div>
@@ -128,19 +128,19 @@
                     <h5 class="title is-5"><strong>O psihoterapiji</strong></h5>
                     <ul>
                         <li>
-                            <RouterLink to="/clani">O psihoanalitični psihoterapiji</RouterLink>
+                            <RouterLink :to="{ name: 'psychoanalytic_psychotherapy_view' }">O psihoanalitični psihoterapiji</RouterLink>
                         </li>
                         <li>
-                            <RouterLink to="/clani">Psihoanalitično izobraževanje</RouterLink>
+                            <RouterLink :to="{ name: 'psychoanalytic_education_view' }">Psihoanalitično izobraževanje</RouterLink>
                         </li>
                         <li>
-                            <RouterLink to="/clani">O psihodinamski psihoterapiji</RouterLink>
+                            <RouterLink :to="{ name: 'psychodynamic_psychotherapy_view' }">O psihodinamski psihoterapiji</RouterLink>
                         </li>
                         <li>
-                            <RouterLink to="/clani">Psihodinamsko izobraževanje</RouterLink>
+                            <RouterLink :to="{ name: 'psychodynamic_education_view' }">Psihodinamsko izobraževanje</RouterLink>
                         </li>
                         <li>
-                            <RouterLink to="/clani">Povezave</RouterLink>
+                            <RouterLink :to="{ name: 'connections_view' }">Povezave</RouterLink>
                         </li>
                     </ul>
                 </div>
@@ -159,17 +159,12 @@
                         </div>
                         <div class="field">
                             <div class="control">
-                                <input class="input" type="text" placeholder="Zadeva" required>
-                            </div>
-                        </div>
-                        <div class="field">
-                            <div class="control">
                                 <textarea class="textarea" type="text" placeholder="Sporočilo ..." required></textarea>
                             </div>
                         </div>
                         <div class="field has-text-centered">
                             <div class="control">
-                                <button class="button is-outlined is-link">Pošlji</button>
+                                <button class="button is-outlined is-primary">Pošlji</button>
                             </div>
                         </div>
                     </form>

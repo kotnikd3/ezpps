@@ -1,4 +1,6 @@
 # www.ezpps.kotnik.si
+A Vue.js website for European Confederation of Psychoanalytic Psychotherapies - Slovenia.
+
 
 ## Update node on MacOS
 ```sh

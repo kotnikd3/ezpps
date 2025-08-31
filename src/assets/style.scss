@@ -9,9 +9,8 @@
 
 // Override global Sass variables from the /utilities folder
 @use "bulma/sass/utilities" with(
+    $primary: $color-blue-main,
     $link: $color-blue-main,
-    $warning: $color-blue-main,
-    $info: $color-blue-main,
 );
 
 // Load Bulma's base styles and themes (including the minireset)
