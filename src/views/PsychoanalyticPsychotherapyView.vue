@@ -58,13 +58,6 @@
         <div class="block">
             Psihoanaliza se ne osredotoča na same simptome, temveč išče vzroke, ki so do simptomov pripeljali ter jih iz globin nezavednega vseskozi hranijo. V zaupnem odnosu s psihoanalitikom se posamezniku skozi ozaveščanje in razumevanje nezavednih konfliktov blažijo notranje napetosti in simptomi izgubljajo svojo moč. Z osvoboditvijo pa lahko prične posameznik razvijati lastne potenciale.
         </div>
-        <section class="hero is-small is-primary mt-5 mb-5">
-            <div class="hero-body">
-                <h5 class="subtitle is-5">
-                    Psihoanaliza je odpuščanje preteklosti za spremembe v prihodnosti.
-                </h5>
-            </div>
-        </section>
         <div class="has-text-right">
             <div class="block">
                 Zapisala Ana Matijevič
@@ -73,5 +66,12 @@
                 <RouterLink class="button is-primary is-outlined" :to="{ name: 'contact_view' }">Kontakt</RouterLink>
             </div>
         </div>
+        <section class="hero is-small is-primary mt-5">
+            <div class="hero-body">
+                <h5 class="subtitle is-5">
+                    Psihoanaliza je odpuščanje preteklosti za spremembe v prihodnosti.
+                </h5>
+            </div>
+        </section>
     </section>
 </template>
