@@ -11,8 +11,8 @@
                     Takrat se je pri nas odprla prva psihoterapevtska skupina pod vodstvom nizozemskih in nemških psihoterapevtov. Le ti so pri svojem delu psihoanalitično teorijo razumevanja psihološkega razvoja posameznika obogatili s kreativnimi tehnikami in telesno psihoterapijo ter tako v Slovenijo pripeljali nov pogled in način dela na sebi.
                 </div>
             </div>
-            <div class="column">
-                <figure style="width: 80%;">
+            <div class="column has-text-centered">
+                <figure class="is-inline-block" style="width: 80%;">
                     <img src="@/assets/images/psihodinamska_psihoterapija.jpg" alt="psihoanaliza">
                 </figure>
             </div>

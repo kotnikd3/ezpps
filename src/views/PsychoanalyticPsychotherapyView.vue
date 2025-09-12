@@ -9,8 +9,8 @@
                     Freud je postavil njene temelje, na katerih pa se vseskozi razvija. Freud je prvi proučeval nezavedno in principe njegovega delovanja. Ugotavljal je, da je naša zavest le vrh ledene gore, medtem ko se v potopljeni globini skriva naše nezavedno, polno primarnih želja in impulzov. Skozi psihološki razvoj posameznika so se neprijetni spomini, občutki in nerazrešeni konflikti iz otroštva z obrambnim mehanizmom izrinili iz zavesti. Kljub temu, da se nezavedni procesi odvijajo izven zavesti, pa vplivajo na naše delovanje.
                 </div>
             </div>
-            <div class="column">
-                <figure style="width: 80%;">
+            <div class="column has-text-centered">
+                <figure class="is-inline-block" style="width: 80%;">
                     <img src="@/assets/images/psihoanaliza.jpg" alt="psihoanaliza">
                 </figure>
             </div>

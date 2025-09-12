@@ -6,7 +6,7 @@
     <section class="section">
         <div class="columns is-vcentered">
             <div class="column has-text-centered">
-                <figure style="width: 80%;">
+                <figure class="is-inline-block" style="width: 80%;">
                     <img src="@/assets/images/psihoanaliza_studij.png" alt="psihoanaliza">
                 </figure>
             </div>
