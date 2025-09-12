@@ -1,9 +1,9 @@
 <template>
-    <div class="section">
+    <section class="section">
         <h2 class="title is-2">O zvezah društev ECPP, SKZP in EAP</h2>
-    </div>
+    </section>
 
-    <div class="section">
+    <section class="section">
         <div class="columns is-vcentered">
             <div class="column has-text-centered">
                 <figure>
@@ -24,9 +24,9 @@
                 </div>
             </div>
         </div>
-    </div>
+    </section>
     <hr>
-    <div class="section">
+    <section class="section">
         <div class="columns is-vcentered">
             <div class="column has-text-centered">
                 <figure>
@@ -49,9 +49,9 @@
                 </div>
             </div>
         </div>
-    </div>
+    </section>
     <hr>
-    <div class="section">
+    <section class="section">
         <div class="columns is-vcentered">
             <div class="column has-text-centered">
                 <figure class="is-inline-block" style="width: 50%;">
@@ -71,5 +71,5 @@
                 </div>
             </div>
         </div>
-    </div>
+    </section>
 </template>

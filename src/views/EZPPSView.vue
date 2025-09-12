@@ -1,9 +1,9 @@
 <template>
-    <div class="section">
+    <section class="section">
         <h2 class="title is-2">O EZPPS</h2>
-    </div>
+    </section>
     
-    <div class="section">
+    <section class="section">
         <div class="block">
             Evropsko združenje psihoanalitičnih pristopov – Slovenija (EZPPS) je prostovoljno, samostojno, nepridobitno združenje psihoterapevtov in edukantov, ki delujejo na področju psihoanalitično usmerjenih pristopov (psihoanaliza, psihodinamska psihoterapija, razvojno analitična psihoterapija). EZPPS sodeluje tudi z drugimi organizacijami v Republiki Sloveniji ter z mednarodnimi organizacijami, ki se strokovno, znanstveno in raziskovalno ukvarjajo s psihoterapijo.
         </div>
@@ -16,8 +16,8 @@
         <div class="block">
             EZPPS je pristojen za podeljevanje <RouterLink :to="{ name: 'certification_view' }">certifikatov Evropske konfederacije psihoanalitičnih pristopov (ECPP)</RouterLink>.
         </div>
-    </div>
-    <div class="section">
+    </section>
+    <section class="section">
         <div class="message">
             <div class="message-body content">
                 <h5 class="title is-5">Akti društva EZPPS:</h5>
@@ -29,5 +29,5 @@
                 </ul>
             </div>
         </div>
-    </div>
+    </section>
 </template>

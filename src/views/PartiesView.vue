@@ -1,9 +1,9 @@
 <template>
-    <div class="section">
+    <section class="section">
         <h2 class="title is-2">Organi društva</h2>
-    </div>
+    </section>
 
-    <div class="section">
+    <section class="section">
         <div class="columns">
             <div class="column">
                 <h3 class="title is-3">Skupščina</h3>
@@ -53,8 +53,8 @@
                 </div>
             </div>
         </div>
-    </div>
-    <div class="section">
+    </section>
+    <section class="section">
         <div class="message">
             <div class="message-body">
                 <h3 class="title is-3">Člani organov</h3>
@@ -69,5 +69,5 @@
                 </div>
             </div>
         </div>
-    </div>
+    </section>
 </template>
