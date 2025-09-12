@@ -5,7 +5,7 @@
 ///////////////////////////////////////
 
 // Load everything
-// @use 'bulma/css/bulma.css';
+@use 'bulma/css/bulma.css'; 
 
 // Override global Sass variables from the /utilities folder
 @use "bulma/sass/utilities" with(
@@ -79,4 +79,9 @@ html {
 
 body {
     font-family: 'Cormorant Garamond', sans-serif;
+    font-size: 18px;
+}
+
+.footer {
+    font-size: 16px;
 }
