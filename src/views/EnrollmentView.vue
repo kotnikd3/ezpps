@@ -7,9 +7,7 @@
         <div class="columns is-vcentered">
             <div class="column has-text-centered">
                 <figure>
-                    <a href="https://ecpp.ngo" target="_blank" rel="noopener noreferrer">
-                        <img src="@/assets/images/clanstvo.jpg" alt="ECPP">
-                    </a>
+                    <img src="@/assets/images/clanstvo.jpg" alt="ECPP">
                 </figure>
             </div>
             <div class="column">
