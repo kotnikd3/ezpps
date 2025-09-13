@@ -19,9 +19,9 @@
             </div>
             <!-- ECPP -->
             <div class="column mb-6">
-                <figure class="is-inline-block">
+                <figure class="is-inline-block" style="width: 50%;">
                     <a href="https://ecpp.ngo" target="_blank" rel="noopener noreferrer">
-                        <img src="@/assets/images/ecpp_logo.png" alt="ECPP">
+                        <img src="@/assets/images/ecpp_logo.svg" alt="ECPP">
                     </a>
                 </figure>
                 <h3 class="title is-3">ECPP</h3>

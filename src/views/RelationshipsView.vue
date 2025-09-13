@@ -6,9 +6,9 @@
     <section class="section">
         <div class="columns is-vcentered">
             <div class="column has-text-centered">
-                <figure>
+                <figure class="is-inline-block" style="width: 50%;">
                     <a href="https://ecpp.ngo" target="_blank" rel="noopener noreferrer">
-                        <img src="@/assets/images/ecpp_logo.png" alt="ECPP">
+                        <img src="@/assets/images/ecpp_logo.svg" alt="ECPP">
                     </a>
                 </figure>
             </div>
