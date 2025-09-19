@@ -52,7 +52,7 @@
             </div>
         </div>
     </nav>
-    <div class="container mt-6 mb-6">
+    <div class="container main-section mt-6 mb-6">
         <RouterView />
     </div>
     <footer class="footer">

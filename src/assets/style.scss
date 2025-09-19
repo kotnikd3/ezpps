@@ -82,6 +82,10 @@ body {
     font-size: 18px;
 }
 
+.main-section a[href]:not(.button, .icon-text) {
+  text-decoration: underline;
+}
+
 .footer {
     font-size: 16px;
 }

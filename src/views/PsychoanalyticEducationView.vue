@@ -22,7 +22,7 @@
                     V sklopu SFU se izvaja Ambulanta Univerze Sigmunda Freuda na Dunaju – podružnica Ljubljana (Ambulanta SFU Ljubljana), v okviru katere delujejo <a href="https://sfu-ljubljana.si/sl/sfu-ambulanta/psihoterapevtska-ambulanta" target="_blank" rel="noopener noreferrer">Psihoterapevtska ambulanta</a> in <a href="https://sfu-ljubljana.si/sl/sfu-ambulanta/ambulanta-za-otroke-mladostnike" target="_blank" rel="noopener noreferrer">Ambulanta za otroke in mladostnike</a> ter razvojni projekt <a href="https://www.sfu-ljubljana.si/sl/novice/psiholoska-svetovalnica-novi-projekt-sfu-ljubljana" target="_blank" rel="noopener noreferrer">Psihološka svetovalnica</a>. Nahaja se v centru Ljubljane, na Trubarjevi cesti 65. Izpostave Ambulante SFU Ljubljana pa delujejo tudi v Mariboru, Kopru in Ptuju.
                 </div>
                 <div class="block control">
-                    <a class="button is-outlined is-primary" href="https://www.sfu-ljubljana.si/sl" target="_blank" rel="noopener noreferrer">Več o študiju</a>
+                    <a class="button is-medium is-outlined is-primary" href="https://www.sfu-ljubljana.si/sl" target="_blank" rel="noopener noreferrer">Več o študiju</a>
                 </div>
             </div>
         </div>

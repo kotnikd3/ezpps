@@ -22,7 +22,7 @@
                     <div class="message-body content">
                         <h3 class="title is-3">Vloga za pridobitev certifikata ECPP</h3>
                         <div class="block control">
-                            <a class="button is-outlined is-primary" href="https://ecpp.ngo/certification/#forms" target="_blank" rel="noopener noreferrer">Pridobi vlogo</a>
+                            <a class="button is-medium is-outlined is-primary" href="https://ecpp.ngo/certification/#forms" target="_blank" rel="noopener noreferrer">Pridobi vlogo</a>
                         </div>
                         <div class="block">
                             Vsi kandidati za certifikat ECPP morajo komisiji poslati popolno dokumentacijo v angleškem jeziku v dveh izvodih na e-naslov <a href="mailto:info@ezpps.org" class="icon-text">info@ezpps.org</a>.

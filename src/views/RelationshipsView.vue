@@ -20,7 +20,7 @@
                     ECPP je članica Evropske zveze za psihoterapijo (EAP). Priznana in sprejeta je kot Evropska organizacija za široko modaliteto (EWAO), katere standardi usposabljanja in prakse so na napredni strokovni in znanstveni ravni. Ima svoje mesto v upravnem odboru Evropske zveze za psihoterapijo. ECPP je združenje, ustanovljeno po avstrijski civilni zakonodaji.
                 </div>
                 <div class="block control">
-                    <a class="button is-outlined is-primary" href="https://ecpp.ngo" target="_blank" rel="noopener noreferrer">Več o ECPP</a>
+                    <a class="button is-medium is-outlined is-primary" href="https://ecpp.ngo" target="_blank" rel="noopener noreferrer">Več o ECPP</a>
                 </div>
             </div>
         </div>
@@ -45,7 +45,7 @@
                     Več o postopkih pridobitve EDP in/ali SDP na <a href="https://www.skzp.si/diploma/" target="_blank" rel="noopener noreferrer">spletnih straneh SKZP</a>.
                 </div>
                 <div class="block control">
-                    <a class="button is-outlined is-primary" href="https://skzp.si" target="_blank" rel="noopener noreferrer">Več o SKZP</a>
+                    <a class="button is-medium is-outlined is-primary" href="https://skzp.si" target="_blank" rel="noopener noreferrer">Več o SKZP</a>
                 </div>
             </div>
         </div>
@@ -67,7 +67,7 @@
                     Evropska zveza za psihoterapijo (EAP) je bila ustanovljena 1991 z namenom podpore in promocije psihoterapije v Evropi. Združuje več kot 120.000 psihoterapevtov in 128 psihoterapevtskih organizacij iz 41 evropskih držav. Na podlagi Strasbourške deklaracije o psihoterapiji iz leta 1990 EAP vzdržuje uveljavljanje najvišjih profesionalnih standardov, izobraževalne standarde, kompetence ter etično delovanje psihoterapevtov. V EAP so lahko priključene le organizacije, ki zagotavljajo visoko kredibilnost kompetenc psihoterapevtov.
                 </div>
                 <div class="block control">
-                    <a class="button is-outlined is-primary" href="https://www.europsyche.org/" target="_blank" rel="noopener noreferrer">Več o EAP</a>
+                    <a class="button is-medium is-outlined is-primary" href="https://www.europsyche.org/" target="_blank" rel="noopener noreferrer">Več o EAP</a>
                 </div>
             </div>
         </div>
