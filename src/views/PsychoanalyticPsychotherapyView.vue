@@ -63,7 +63,7 @@
                 Zapisala Ana Matijevič
             </div>
             <div class="block control">
-                <RouterLink class="button is-medium is-primary is-outlined" :to="{ name: 'contact_view' }">Kontakt</RouterLink>
+                <RouterLink class="button is-primary is-outlined" :to="{ name: 'contact_view' }">Kontakt</RouterLink>
             </div>
         </div>
         <section class="hero is-small is-primary mt-5">

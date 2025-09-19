@@ -35,7 +35,7 @@
                     Za vse informacije smo dosegljivi na: <a href="mailto:info.psihodinamska@gmail.com">info.psihodinamska@gmail.com</a>.
                 </div>
                 <div class="block control">
-                    <a class="button is-medium is-outlined is-primary" href="https://www.psihodinamska-psihoterapija.org/" target="_blank" rel="noopener noreferrer">Več o inštitutu</a>
+                    <a class="button is-outlined is-primary" href="https://www.psihodinamska-psihoterapija.org/" target="_blank" rel="noopener noreferrer">Več o inštitutu</a>
                 </div>
             </div>
         </div>
