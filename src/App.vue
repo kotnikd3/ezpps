@@ -170,9 +170,11 @@
                     </form>
                 </div>
             </div>
-            <div class="has-text-centered pt-6">
-				<p class="has-text-grey">EZPPS <font-awesome-icon icon="fa-regular fa-copyright" /> 2025</p>
-				<p style="font-size: x-small;"><i><a class="has-text-grey" href="https://www.kotnik.si" target="_blank">Ustvaril kotnik.si</a></i></p>
+            <div class="has-text-centered">
+				<p class="is-size-5 has-text-grey pt-2">EZPPS <font-awesome-icon icon="fa-regular fa-copyright" /> 2026</p>
+				<p style="font-size: small;">
+                    <RouterLink class="plain-link" :to="{ name: 'cookies_view' }">Piškotki in politika zasebnosti</RouterLink> | <a class="has-text-grey" href="https://www.kotnik.si" target="_blank">Ustvaril kotnik.si</a>
+                </p>
 			</div>
         </div>
     </footer>
@@ -203,5 +205,8 @@ export default {
     }
     .navbar-item.is-hoverable:focus-within .navbar-dropdown {
         display: none;
+    }
+    .plain-link {
+        color: inherit;            /* take parent’s text color */
     }
 </style>

@@ -15,6 +15,7 @@ import ConnectionsView from '@/views/ConnectionsView.vue'
 import LibraryView from '@/views/LibraryView.vue'
 import EventsView from '@/views/EventsView.vue'
 import ContactView from '@/views/ContactView.vue'
+import CookiesView from '@/views/CookiesView.vue'
 
 
 const router = createRouter({
@@ -95,6 +96,11 @@ const router = createRouter({
         path: '/kontakt',
         name: 'contact_view',
         component: ContactView
+    },
+    {
+        path: '/piskotki',
+        name: 'cookies_view',
+        component: CookiesView
     },
   ],
   scrollBehavior(to, from, savedPosition) {

@@ -29,7 +29,7 @@
     </section>
 
     <section class="section">
-        <div class="columns">
+        <div class="columns is-vcentered">
             <div class="column">
                 <div class="message">
                     <div class="message-body">

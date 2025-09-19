@@ -82,8 +82,9 @@ body {
     font-size: 18px;
 }
 
+// All <a> elements within .main-section with href attribute but without .button and .icon.text. classes.
 .main-section a[href]:not(.button, .icon-text) {
-  text-decoration: underline;
+    text-decoration: underline;
 }
 
 .footer {
