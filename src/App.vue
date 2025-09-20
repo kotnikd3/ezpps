@@ -173,7 +173,7 @@
             <div class="has-text-centered">
 				<p class="is-size-5 has-text-grey pt-2">EZPPS <font-awesome-icon icon="fa-regular fa-copyright" /> 2026</p>
 				<p style="font-size: small;">
-                    <RouterLink class="plain-link" :to="{ name: 'cookies_view' }">Piškotki in politika zasebnosti</RouterLink> | <a class="has-text-grey" href="https://www.kotnik.si" target="_blank">Ustvaril kotnik.si</a>
+                    <RouterLink class="plain-link" :to="{ name: 'cookies_view' }">Piškotki in politika zasebnosti</RouterLink> | <a class="has-text-grey" href="https://www.kotnik.si" target="_blank" rel="noopener noreferrer">Ustvaril kotnik.si</a>
                 </p>
 			</div>
         </div>
