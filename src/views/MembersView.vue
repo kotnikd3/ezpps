@@ -2,8 +2,10 @@
     <section class="section">
         <h2 class="title is-2">Člani društva</h2>
     </section>
-    
-    <MembersList />
+
+    <section class="section">
+        <MembersList />
+    </section>    
 </template>
 
 <script>

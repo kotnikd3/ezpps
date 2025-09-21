@@ -3,7 +3,7 @@
         <div 
             v-for="t in therapists" 
             :key="t.name" 
-            class="list-item column is-one-quarter"
+            class="list-item column is-full-mobile is-half-tablet is-one-quarter-widescreen"
         >
             <div class="card">
                 <div class="card-image">
@@ -18,7 +18,7 @@
                 </div>
                 <div class="card-content">
                     <h4 class="title is-4" v-text="t.name"></h4>
-                    <h5 class="subtitle is-5" v-text="t.bio"></h5>
+                    <h5 class="subtitle is-5" v-text="t.title"></h5>
 
                     <div v-if="t.location.city" class="icon-text">
                         <span class="icon">
@@ -80,5 +80,25 @@
     .list-item:hover .card {
         transform: scale(1.03);
         box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.15);
+    }
+    
+    /* Wrap text */
+    a.icon-text {
+        margin-top: 5px;
+        display: flex;
+        align-items: flex-start;
+        word-break: break-all;
+        overflow-wrap: break-word;
+        line-height: 1.5;
+    }
+
+    a.icon-text .icon {
+        flex-shrink: 0;
+        /* margin-right: 0.5rem; */
+        margin-top: 0.125rem; /* Aligns icon with first line of text */
+    }
+
+    a.icon-text span:last-child {
+        flex: 1;
     }
 </style>

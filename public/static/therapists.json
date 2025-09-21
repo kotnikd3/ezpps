@@ -1,7 +1,7 @@
 [
   {
     "name": "Aisha Kandare",
-    "bio": "Psihoanalitična psihoterapija (specializantka)",
+    "title": "Psihoanalitična psihoterapija (specializantka)",
     "image_source": "https://ezpps.org/wp-content/uploads/2023/11/IMG_7228_edited_edited-e1708985796605-1024x1024.jpeg",
     "website": "https://www.psihoterapija-ak.si/",
     "location": {
@@ -17,7 +17,7 @@
   },
   {
     "name": "Aleksander Lavrini",
-    "bio": "Psihoanalitična psihoterapija (psihoterapevt, učni terapevt, supervizor)",
+    "title": "Psihoanalitična psihoterapija (psihoterapevt, učni terapevt, supervizor)",
     "image_source": "https://ezpps.org/wp-content/uploads/2024/02/IMG_1419-1-1024x1024.jpeg",
     "website": "http://psihoterapija-lavrini.si/",
     "location": {
@@ -33,7 +33,7 @@
   },
   {
     "name": "Aleksandra Strne",
-    "bio": "Psihoanalitična psihoterapija (psihoterapevtka)",
+    "title": "Psihoanalitična psihoterapija (psihoterapevtka)",
     "image_source": "https://ezpps.org/wp-content/uploads/2019/07/Aleksandra-Strne-fotka-opcija-2-e1708986093564.jpg",
     "website": null,
     "location": {
@@ -49,7 +49,7 @@
   },
   {
     "name": "Alenka Podlogar",
-    "bio": "Psihoanalitična psihoterapija (psihoterapevtka)",
+    "title": "Psihoanalitična psihoterapija (psihoterapevtka)",
     "image_source": "https://ezpps.org/wp-content/uploads/2023/03/AP-e1708986241578.jpg",
     "website": null,
     "location": {
@@ -65,7 +65,7 @@
   },
   {
     "name": "Alenka Turičnik",
-    "bio": "Psihoanalitična psihoterapija (psihoterapevtka)",
+    "title": "Psihoanalitična psihoterapija (psihoterapevtka)",
     "image_source": "https://ezpps.org/wp-content/uploads/2025/06/005_Turicnik_Alenka-1024x1024.jpg",
     "website": "https://www.psihoterapija-turicnik.si/",
     "location": {
@@ -81,7 +81,7 @@
   },
   {
     "name": "Ana Kocjančič",
-    "bio": "Psihodinamska psihoterapija (psihoterapevtka, učna terapevtka)",
+    "title": "Psihodinamska psihoterapija (psihoterapevtka, učna terapevtka)",
     "image_source": "https://ezpps.org/wp-content/uploads/2019/02/Ana-za-EZPPS-e1708983918632.jpg",
     "website": "https://psihoterapija-anakocjancic.com/",
     "location": {
@@ -97,7 +97,7 @@
   },
   {
     "name": "Ana Matijević",
-    "bio": "Psihoanalitična psihoterapija (psihoterapevtka)",
+    "title": "Psihoanalitična psihoterapija (psihoterapevtka)",
     "image_source": "https://ezpps.org/wp-content/uploads/2019/02/Ana-Matijevic-1a-ilovepdf-web-e1708985043784.jpg",
     "website": "http://www.psihoterapija-matijevic.si/",
     "location": {
@@ -113,7 +113,7 @@
   },
   {
     "name": "Ana Mrovlje",
-    "bio": "Psihoanalitična psihoterapija (psihoterapevtka)",
+    "title": "Psihoanalitična psihoterapija (psihoterapevtka)",
     "image_source": "https://ezpps.org/wp-content/uploads/2019/07/Ana-Mrovlje-slika-e1708985154451.jpg",
     "website": "https://www.psihoterapija-mrovlje.si",
     "location": {
@@ -129,7 +129,7 @@
   },
   {
     "name": "Ana Zore",
-    "bio": "Psihodinamska psihoterapija (psihoterapevtka)",
+    "title": "Psihodinamska psihoterapija (psihoterapevtka)",
     "image_source": "https://ezpps.org/wp-content/uploads/2022/11/AZ1-1-e1708986165167.jpg",
     "website": "https://www.psihoterapija-anazore.com/",
     "location": {
@@ -145,7 +145,7 @@
   },
   {
     "name": "Anamarija Rabič",
-    "bio": "Psihoanalitična psihoterapija (specializantka)",
+    "title": "Psihoanalitična psihoterapija (specializantka)",
     "image_source": "https://ezpps.org/wp-content/uploads/2023/03/Untitled-1024x1024.png",
     "website": "https://www.psihoterapija-inside.si/",
     "location": {
@@ -161,7 +161,7 @@
   },
   {
     "name": "Andrejka Kozlevčar",
-    "bio": "Psihodinamska psihoterapija (psihoterapevtka)",
+    "title": "Psihodinamska psihoterapija (psihoterapevtka)",
     "image_source": "https://ezpps.org/wp-content/uploads/2021/02/Andrejka-Kozlevcar-e1708984467758.jpg",
     "website": "https://www.peskovnik-zivljenja.si/",
     "location": {
@@ -177,7 +177,7 @@
   },
   {
     "name": "Anela Klemenc Bešo",
-    "bio": "Psihoanalitična psihoterapija (specializantka)",
+    "title": "Psihoanalitična psihoterapija (specializantka)",
     "image_source": "https://ezpps.org/wp-content/uploads/2023/12/fotka_ezpps.jpeg",
     "website": null,
     "location": {
@@ -193,7 +193,7 @@
   },
   {
     "name": "Aneta Kovačič",
-    "bio": "Psihodinamska psihoterapija (specializantka)",
+    "title": "Psihodinamska psihoterapija (specializantka)",
     "image_source": "https://ezpps.org/wp-content/uploads/2023/02/Rectangle-1.png",
     "website": "https://www.razpri-krila.si/",
     "location": {
@@ -209,7 +209,7 @@
   },
   {
     "name": "Anja Košir Romandini",
-    "bio": "Psihoanalitična psihoterapija (specializantka pod supervizijo)",
+    "title": "Psihoanalitična psihoterapija (specializantka pod supervizijo)",
     "image_source": "https://ezpps.org/wp-content/uploads/2024/02/slika-Anja.png",
     "website": null,
     "location": {
@@ -225,7 +225,7 @@
   },
   {
     "name": "Barbara Ivič",
-    "bio": "Psihoanalitična psihoterapija (psihoterapevtka)",
+    "title": "Psihoanalitična psihoterapija (psihoterapevtka)",
     "image_source": null,
     "website": "https://psihoterapija-barbara-ivic.si/",
     "location": {
@@ -241,7 +241,7 @@
   },
   {
     "name": "Barbara Otoničar",
-    "bio": "Psihodinamska psihoterapija (specializantka)",
+    "title": "Psihodinamska psihoterapija (specializantka)",
     "image_source": null,
     "website": null,
     "location": {
@@ -257,7 +257,7 @@
   },
   {
     "name": "Barbara Šinkar",
-    "bio": "Psihoanalitična psihoterapija (psihoterapevtka)",
+    "title": "Psihoanalitična psihoterapija (psihoterapevtka)",
     "image_source": null,
     "website": "https://sinkar.si/",
     "location": {
@@ -273,7 +273,7 @@
   },
   {
     "name": "Bojan Filipic",
-    "bio": "Psihoanalitična psihoterapija (psihoterapevt, supervizor)",
+    "title": "Psihoanalitična psihoterapija (psihoterapevt, supervizor)",
     "image_source": "https://ezpps.org/wp-content/uploads/2021/02/Filipcic-Bojan-e1708984704624.jpg",
     "website": null,
     "location": {
@@ -289,7 +289,7 @@
   },
   {
     "name": "Brigita Korpar",
-    "bio": "Psihoanalitična psihoterapija (psihoterapevtka)",
+    "title": "Psihoanalitična psihoterapija (psihoterapevtka)",
     "image_source": "https://ezpps.org/wp-content/uploads/2021/02/Brigita-Korpar-e1708984358165.jpg",
     "website": "https://psihoterapije.si/",
     "location": {
@@ -305,7 +305,7 @@
   },
   {
     "name": "Damijan Sever",
-    "bio": "Psihoanalitična psihoterapija (psihoterapevt, učni terapevt, supervizor)",
+    "title": "Psihoanalitična psihoterapija (psihoterapevt, učni terapevt, supervizor)",
     "image_source": null,
     "website": "https://www.cpmb.si/slovensko/domacaStran/default.html",
     "location": {
@@ -321,7 +321,7 @@
   },
   {
     "name": "Darija Štajdohar",
-    "bio": "Psihoanalitična psihoterapija (specializantka)",
+    "title": "Psihoanalitična psihoterapija (specializantka)",
     "image_source": "https://ezpps.org/wp-content/uploads/2025/05/12-scaled-e1747057152796-1019x1024.jpg",
     "website": null,
     "location": {
@@ -337,7 +337,7 @@
   },
   {
     "name": "Darja Trivan Gril",
-    "bio": "Psihodinamska in psihoanalitična psihoterapija (psihoterapevtka)",
+    "title": "Psihodinamska in psihoanalitična psihoterapija (psihoterapevtka)",
     "image_source": null,
     "website": null,
     "location": {
@@ -353,7 +353,7 @@
   },
   {
     "name": "Diana Ploj Zec",
-    "bio": "Psihoanalitična psihoterapija (specializantka)",
+    "title": "Psihoanalitična psihoterapija (specializantka)",
     "image_source": "https://ezpps.org/wp-content/uploads/2021/02/Diana-Ploj-Zec-e1708986365405.jpg",
     "website": "https://www.centerzapsihoterapijo.si/",
     "location": {
@@ -369,7 +369,7 @@
   },
   {
     "name": "dr. Lea Bernik",
-    "bio": "Psihodinamska psihoterapija (specializantka)",
+    "title": "Psihodinamska psihoterapija (specializantka)",
     "image_source": "https://ezpps.org/wp-content/uploads/2024/01/1000014275-1024x1024.jpg",
     "website": "https://www.psihoterapija-leabernik.com/",
     "location": {
@@ -385,7 +385,7 @@
   },
   {
     "name": "Dr. Nika Nikolič",
-    "bio": "Psihodinamska psihoterapija (psihoterapevtka)",
+    "title": "Psihodinamska psihoterapija (psihoterapevtka)",
     "image_source": "https://ezpps.org/wp-content/uploads/2019/02/Nika-Nikolic_profilna_web-e1708985694517.jpg",
     "website": "https://www.czp.si/",
     "location": {
@@ -401,7 +401,7 @@
   },
   {
     "name": "Dr. Nuša Kovačević Tojnko",
-    "bio": "Psihoanalitična psihoterapija (psihoterapevtka, supervizorka pod supervizijo)",
+    "title": "Psihoanalitična psihoterapija (psihoterapevtka, supervizorka pod supervizijo)",
     "image_source": "https://ezpps.org/wp-content/uploads/2019/02/Nuša-Kovačević-Tojnko-e1708986442727.jpg",
     "website": "https://pamina.si/",
     "location": {
@@ -417,7 +417,7 @@
   },
   {
     "name": "Emil Benedik",
-    "bio": "Psihoanalitična psihoterapija (psihoterapevt, supervizor)",
+    "title": "Psihoanalitična psihoterapija (psihoterapevt, supervizor)",
     "image_source": null,
     "website": null,
     "location": {
@@ -433,7 +433,7 @@
   },
   {
     "name": "Gašper Lesar",
-    "bio": "Psihoanalitična psihoterapija (psihoterapevt)",
+    "title": "Psihoanalitična psihoterapija (psihoterapevt)",
     "image_source": "https://ezpps.org/wp-content/uploads/2023/04/Untitled-6-1020x1024.png",
     "website": "https://www.psihoterapija-lesar.si",
     "location": {
@@ -449,7 +449,7 @@
   },
   {
     "name": "Gregor Knežič",
-    "bio": "Psihoanalitična psihoterapija (specializant)",
+    "title": "Psihoanalitična psihoterapija (specializant)",
     "image_source": "https://ezpps.org/wp-content/uploads/2023/04/Untitled-2-1012x1024.png",
     "website": null,
     "location": {
@@ -465,7 +465,7 @@
   },
   {
     "name": "Ines Majcen",
-    "bio": "Psihodinamska psihoterapija (specializantka)",
+    "title": "Psihodinamska psihoterapija (specializantka)",
     "image_source": "https://ezpps.org/wp-content/uploads/2023/10/IMG_20230612_125932-1-1024x1024.jpg",
     "website": "https://inesmajcen.si/",
     "location": {
@@ -481,7 +481,7 @@
   },
   {
     "name": "Irena Zagajšek",
-    "bio": "Psihoanalitična psihoterapija (psihoterapevtka)",
+    "title": "Psihoanalitična psihoterapija (psihoterapevtka)",
     "image_source": "https://ezpps.org/wp-content/uploads/2025/02/sedeca-best.jpeg",
     "website": null,
     "location": {
@@ -497,7 +497,7 @@
   },
   {
     "name": "Iza Valič",
-    "bio": "Psihoanalitična psihoterapija (specializantka)",
+    "title": "Psihoanalitična psihoterapija (specializantka)",
     "image_source": "https://ezpps.org/wp-content/uploads/2025/02/IMG_3201-1024x1024.jpg",
     "website": null,
     "location": {
@@ -513,7 +513,7 @@
   },
   {
     "name": "Iztok Zver",
-    "bio": "Psihoanalitična psihoterapija (psihoterapevt)",
+    "title": "Psihoanalitična psihoterapija (psihoterapevt)",
     "image_source": "https://ezpps.org/wp-content/uploads/2019/01/Iztok-Zver-e1709043610512.jpg",
     "website": "https://www.animavita.si/",
     "location": {
@@ -529,7 +529,7 @@
   },
   {
     "name": "Jaka Henigman",
-    "bio": "Psihoanalitična psihoterapija (psihoterapevt)",
+    "title": "Psihoanalitična psihoterapija (psihoterapevt)",
     "image_source": "https://ezpps.org/wp-content/uploads/2021/02/Jaka-Heningman-e1708984557715.jpg",
     "website": "https://www.psihoterapija-henigman.si/",
     "location": {
@@ -545,7 +545,7 @@
   },
   {
     "name": "Jakica Kristovski",
-    "bio": "Psihoanalitična psihoterapija (psihoterapevtka)",
+    "title": "Psihoanalitična psihoterapija (psihoterapevtka)",
     "image_source": "https://ezpps.org/wp-content/uploads/2022/11/Screenshot_20220321-221512_Facebook-1-e1709043687683.jpg",
     "website": "https://psihoterapija-jk.si/",
     "location": {
@@ -561,7 +561,7 @@
   },
   {
     "name": "Jana Vodlan",
-    "bio": "Psihodinamska psihoterapija (specializantka)",
+    "title": "Psihodinamska psihoterapija (specializantka)",
     "image_source": null,
     "website": "https://www.indi.si/",
     "location": {
@@ -577,7 +577,7 @@
   },
   {
     "name": "Kaja Leskovšek Nagode",
-    "bio": "Psihodinamska psihoterapija (specializantka)",
+    "title": "Psihodinamska psihoterapija (specializantka)",
     "image_source": "https://ezpps.org/wp-content/uploads/2023/04/Untitled-5-1024x1022.png",
     "website": null,
     "location": {
@@ -593,7 +593,7 @@
   },
   {
     "name": "Kaja Širok",
-    "bio": "Psihodinamska psihoterapija (specializantka)",
+    "title": "Psihodinamska psihoterapija (specializantka)",
     "image_source": "https://ezpps.org/wp-content/uploads/2021/02/Kaja-Sirok_2-1-e1709043836190.jpg",
     "website": "https://psihoterapija-sirok.si/",
     "location": {
@@ -609,7 +609,7 @@
   },
   {
     "name": "Katja Biščak",
-    "bio": "Psihodinamska psihoterapija (psihoterapevtka)",
+    "title": "Psihodinamska psihoterapija (psihoterapevtka)",
     "image_source": null,
     "website": "https://www.psihoterapija-katja-biscak.com/",
     "location": {
@@ -625,7 +625,7 @@
   },
   {
     "name": "Katja Lesar",
-    "bio": "Psihodinamska psihoterapija (psihoterapevtka)",
+    "title": "Psihodinamska psihoterapija (psihoterapevtka)",
     "image_source": "https://ezpps.org/wp-content/uploads/2023/04/Katja_Lesar-2-scaled-e1709043937675-1024x1024.jpg",
     "website": "https://psihoterapijalesar.si/",
     "location": {
@@ -641,7 +641,7 @@
   },
   {
     "name": "Kristijan Senekovič",
-    "bio": "Psihoanalitična psihoterapija (psihoterapevt)",
+    "title": "Psihoanalitična psihoterapija (psihoterapevt)",
     "image_source": "https://ezpps.org/wp-content/uploads/2022/11/osebna_m-1-e1709044035870.png",
     "website": "https://meipso.si/",
     "location": {
@@ -657,7 +657,7 @@
   },
   {
     "name": "Kristina Kosmač",
-    "bio": "Psihodinamska psihoterapija (psihoterapevtka)",
+    "title": "Psihodinamska psihoterapija (psihoterapevtka)",
     "image_source": "https://ezpps.org/wp-content/uploads/2019/07/Kristina-Kosmač-e1708983710404.jpg",
     "website": "https://drevozivljenja.net/",
     "location": {
@@ -673,7 +673,7 @@
   },
   {
     "name": "Lara Pečjak",
-    "bio": "Psihodinamska psihoterapija (specializantka)",
+    "title": "Psihodinamska psihoterapija (specializantka)",
     "image_source": null,
     "website": "https://www.psihoterapija-larapecjak.si/",
     "location": {
@@ -689,7 +689,7 @@
   },
   {
     "name": "Lea Hošnjak",
-    "bio": "Psihoanalitična psihoterapija (specializantka)",
+    "title": "Psihoanalitična psihoterapija (specializantka)",
     "image_source": "https://ezpps.org/wp-content/uploads/2023/10/Hosnjak-L-1024x1024.jpg",
     "website": null,
     "location": {
@@ -705,7 +705,7 @@
   },
   {
     "name": "Lea Prešern McCann",
-    "bio": "Psihoanalitična psihoterapija (specializantka)",
+    "title": "Psihoanalitična psihoterapija (specializantka)",
     "image_source": "https://ezpps.org/wp-content/uploads/2024/11/IMG_8530-scaled-e1731577421278-1024x1024.jpg",
     "website": "https://psihoterapija-presern.si",
     "location": {
@@ -721,7 +721,7 @@
   },
   {
     "name": "Leja Lončar Mikić",
-    "bio": "Psihoanalitična psihoterapija (specializantka)",
+    "title": "Psihoanalitična psihoterapija (specializantka)",
     "image_source": "https://ezpps.org/wp-content/uploads/2025/02/slika-obrazec-za-prijavo.jpg",
     "website": "https://igorokorn.si/psihoanaliza/leja-loncar-mikic/%20",
     "location": {
@@ -737,7 +737,7 @@
   },
   {
     "name": "Lina Debeljak",
-    "bio": "Psihoanalitična psihoterapija (psihoterapevtka)",
+    "title": "Psihoanalitična psihoterapija (psihoterapevtka)",
     "image_source": null,
     "website": null,
     "location": {
@@ -753,7 +753,7 @@
   },
   {
     "name": "Lina Ogris",
-    "bio": "Psihoanalitična psihoterapija (psihoterapevtka)",
+    "title": "Psihoanalitična psihoterapija (psihoterapevtka)",
     "image_source": "https://ezpps.org/wp-content/uploads/2022/11/fotografija3.1-1-e1709044286334.jpg",
     "website": "https://linaogris.si/",
     "location": {
@@ -769,7 +769,7 @@
   },
   {
     "name": "Ljudmila Brezigar",
-    "bio": "Psihodinamska psihoterapija in plesno-gibalna terapija (psihoterapevtka)",
+    "title": "Psihodinamska psihoterapija in plesno-gibalna terapija (psihoterapevtka)",
     "image_source": "https://ezpps.org/wp-content/uploads/2022/11/116A2007-400x600-1-e1709044368113.jpg",
     "website": "https://trojstvo-poti.si/",
     "location": {
@@ -785,7 +785,7 @@
   },
   {
     "name": "Luka Agrež",
-    "bio": "Psihodinamska psihoterapija (psihoterapevt)",
+    "title": "Psihodinamska psihoterapija (psihoterapevt)",
     "image_source": "https://ezpps.org/wp-content/uploads/2022/11/spletna-stran-BW_MG_8621_EDITED-1-e1709044487321.jpg",
     "website": "https://www.psihoterapija-agrez.si/",
     "location": {
@@ -801,7 +801,7 @@
   },
   {
     "name": "Maja Zajc",
-    "bio": "Psihoanalitična psihoterapija (specializantka)",
+    "title": "Psihoanalitična psihoterapija (specializantka)",
     "image_source": null,
     "website": "https://www.psihoterapija-zajc.si",
     "location": {
@@ -817,7 +817,7 @@
   },
   {
     "name": "Marina Louise Rajapakse",
-    "bio": "Psihodinamska psihoterapija (specializantka)",
+    "title": "Psihodinamska psihoterapija (specializantka)",
     "image_source": "https://ezpps.org/wp-content/uploads/2019/07/Marina-Noč-fotografija-e1708985623242.jpg",
     "website": "https://www.psihodinamska-psihoterapija.org/",
     "location": {
@@ -833,7 +833,7 @@
   },
   {
     "name": "Marjeta Baričevič",
-    "bio": "Psihodinamska psihoterapija (specializantka)",
+    "title": "Psihodinamska psihoterapija (specializantka)",
     "image_source": "https://ezpps.org/wp-content/uploads/2019/07/Marjeta-Baričevič-foto-e1709044585181.jpg",
     "website": "https://www.facebook.com/psihoterapijamarjetabaricevic/",
     "location": {
@@ -849,7 +849,7 @@
   },
   {
     "name": "Martina Mihič",
-    "bio": "Psihodinamska psihoterapija (psihoterapevtka)",
+    "title": "Psihodinamska psihoterapija (psihoterapevtka)",
     "image_source": "https://ezpps.org/wp-content/uploads/2019/07/MartinaMihic-e1709044669806.jpg",
     "website": "https://www.sentoria.si/",
     "location": {
@@ -865,7 +865,7 @@
   },
   {
     "name": "Mateja Hajšek Semrajc",
-    "bio": "Psihoanalitična psihoterapija (psihoterapevtka)",
+    "title": "Psihoanalitična psihoterapija (psihoterapevtka)",
     "image_source": "https://ezpps.org/wp-content/uploads/2019/07/Mateja-Hajšek-Semrajc-e1709044813727.jpg",
     "website": "https://www.cpmb.si/slovensko/domacaStran/default.html",
     "location": {
@@ -881,7 +881,7 @@
   },
   {
     "name": "Mateja Kolenc",
-    "bio": "Psihoanalitična psihoterapija (specializantka pod supervizijo)",
+    "title": "Psihoanalitična psihoterapija (specializantka pod supervizijo)",
     "image_source": "https://ezpps.org/wp-content/uploads/2023/04/Mateja-Kolenc-fotografija-za-spletno-stran-EZPPS-1-1024x1017.png",
     "website": "https://mjk-psihoterapija.si/",
     "location": {
@@ -897,7 +897,7 @@
   },
   {
     "name": "Mateja Simčič",
-    "bio": "Psihodinamska psihoterapija (psihoterapevtka)",
+    "title": "Psihodinamska psihoterapija (psihoterapevtka)",
     "image_source": "https://ezpps.org/wp-content/uploads/2021/02/Mateja-Simcic-e1709044894684.jpg",
     "website": "https://psihoterapija-simcic.si/",
     "location": {
@@ -913,7 +913,7 @@
   },
   {
     "name": "Mateja Švetak",
-    "bio": "Psihodinamska psihoterapija (psihoterapevtka)",
+    "title": "Psihodinamska psihoterapija (psihoterapevtka)",
     "image_source": "https://ezpps.org/wp-content/uploads/2019/07/Mateja-Švetak-photo-e1709044984483.jpg",
     "website": "https://www.psihoterapija-ms.si/",
     "location": {
@@ -929,7 +929,7 @@
   },
   {
     "name": "Matija Pajer",
-    "bio": "Psihoanalitična psihoterapija (psihoterapevt)",
+    "title": "Psihoanalitična psihoterapija (psihoterapevt)",
     "image_source": "https://ezpps.org/wp-content/uploads/2019/07/Matija_ZT-e1709045126760.jpg",
     "website": "https://www.psihoanaliza.si/",
     "location": {
@@ -945,7 +945,7 @@
   },
   {
     "name": "Metka Furlani",
-    "bio": "Psihodinamska psihoterapija (psihoterapevtka, učna terapevtka, supervizorka)",
+    "title": "Psihodinamska psihoterapija (psihoterapevtka, učna terapevtka, supervizorka)",
     "image_source": "https://ezpps.org/wp-content/uploads/2019/02/Metka-Furlani-e1708984626467.jpg",
     "website": "https://www.metkafurlani.si/",
     "location": {
@@ -961,7 +961,7 @@
   },
   {
     "name": "Miha Štrukelj",
-    "bio": "Psihoanalitična psihoterapija (psihoterapevt)",
+    "title": "Psihoanalitična psihoterapija (psihoterapevt)",
     "image_source": "https://ezpps.org/wp-content/uploads/2019/07/Miha-Štrukelj-fotografija-e1709045596118.jpg",
     "website": "https://www.psihoterapija-strukelj.si/",
     "location": {
@@ -977,7 +977,7 @@
   },
   {
     "name": "Miloš Židanik",
-    "bio": "Psihoanalitična psihoterapija (psihoterapevt)",
+    "title": "Psihoanalitična psihoterapija (psihoterapevt)",
     "image_source": "https://ezpps.org/wp-content/uploads/2019/07/milos-zidanik-fotka-e1709045743444.jpg",
     "website": null,
     "location": {
@@ -993,7 +993,7 @@
   },
   {
     "name": "Mojca Benko",
-    "bio": "Psihodinamska psihoterapija (specializantka)",
+    "title": "Psihodinamska psihoterapija (specializantka)",
     "image_source": "https://ezpps.org/wp-content/uploads/2023/04/Untitled-1-1024x1021.png",
     "website": "https://www.psihoterapijamojcabenko.com/",
     "location": {
@@ -1009,7 +1009,7 @@
   },
   {
     "name": "Mojca Žirovnik",
-    "bio": "Psihoanalitična psihoterapija (specializantka)",
+    "title": "Psihoanalitična psihoterapija (specializantka)",
     "image_source": "https://ezpps.org/wp-content/uploads/2023/11/Slika-EZPPS4.png",
     "website": "https://animamea.si/",
     "location": {
@@ -1025,7 +1025,7 @@
   },
   {
     "name": "Naja Petek",
-    "bio": "Psihoanalitična psihoterapija (psihoterapevtka)",
+    "title": "Psihoanalitična psihoterapija (psihoterapevtka)",
     "image_source": "https://ezpps.org/wp-content/uploads/2024/03/foto-nv-1021x1024.jpg",
     "website": "https://psihoterapija-videmsek.si/",
     "location": {
@@ -1041,7 +1041,7 @@
   },
   {
     "name": "Nataša Crnkovič",
-    "bio": "Psihoanalitična psihoterapija (specializantka)",
+    "title": "Psihoanalitična psihoterapija (specializantka)",
     "image_source": "https://ezpps.org/wp-content/uploads/2025/07/Natasa_Serenvita.jpg",
     "website": "https://www.serenvita.si",
     "location": {
@@ -1057,7 +1057,7 @@
   },
   {
     "name": "Parov Anzelc",
-    "bio": "Psihoanalitična in psihodinamska psihoterapija (psihoterapevt, supervizor)",
+    "title": "Psihoanalitična in psihodinamska psihoterapija (psihoterapevt, supervizor)",
     "image_source": "https://ezpps.org/wp-content/uploads/2023/04/Untitled-3-1024x1024.png",
     "website": "https://www.psihoterapija-anzelc.si",
     "location": {
@@ -1073,7 +1073,7 @@
   },
   {
     "name": "Petra Česen",
-    "bio": "Psihodinamska psihoterapija (specializantka)",
+    "title": "Psihodinamska psihoterapija (specializantka)",
     "image_source": "https://ezpps.org/wp-content/uploads/2025/05/my-photo1-1.jpg",
     "website": "https://www.petracesen.com/",
     "location": {
@@ -1089,7 +1089,7 @@
   },
   {
     "name": "Petra Furlan Dodič",
-    "bio": "Psihodinamska psihoterapija (psihoterapevtka)",
+    "title": "Psihodinamska psihoterapija (psihoterapevtka)",
     "image_source": "https://ezpps.org/wp-content/uploads/2021/02/Petra-Dodic-e1709045899781.jpg",
     "website": "https://www.psihoterapijaobala.si/",
     "location": {
@@ -1105,7 +1105,7 @@
   },
   {
     "name": "Romana Kress",
-    "bio": "Transpersonalna psihoterapija (psihoterapevtka, supervizorka)",
+    "title": "Transpersonalna psihoterapija (psihoterapevtka, supervizorka)",
     "image_source": null,
     "website": "https://www.transpersonalnapsihoterapija.si/",
     "location": {
@@ -1121,7 +1121,7 @@
   },
   {
     "name": "Sabrina Lever",
-    "bio": "Psihodinamska psihoterapija (specializantka)",
+    "title": "Psihodinamska psihoterapija (specializantka)",
     "image_source": "https://ezpps.org/wp-content/uploads/2023/10/Sabrina-Lever-1024x1024.jpg",
     "website": "https://psihoterapija-sabrinalever.si/",
     "location": {
@@ -1137,7 +1137,7 @@
   },
   {
     "name": "Saga L. Škerlep",
-    "bio": "Psihoanalitična psihoterapija (specializantka)",
+    "title": "Psihoanalitična psihoterapija (specializantka)",
     "image_source": "https://ezpps.org/wp-content/uploads/2022/11/psihoterapevt1-1-1.jpg",
     "website": "https://www.skerlep.com/",
     "location": {
@@ -1153,7 +1153,7 @@
   },
   {
     "name": "Samo Babuder",
-    "bio": "Psihoanalitična psihoterapija (psihoterapevt)",
+    "title": "Psihoanalitična psihoterapija (psihoterapevt)",
     "image_source": "https://ezpps.org/wp-content/uploads/2021/02/Samo-Babuder-e1708984100183.jpg",
     "website": null,
     "location": {
@@ -1169,7 +1169,7 @@
   },
   {
     "name": "Sanja Guček",
-    "bio": "Psihodinamska psihoterapija (specializantka)",
+    "title": "Psihodinamska psihoterapija (specializantka)",
     "image_source": "https://ezpps.org/wp-content/uploads/2023/04/Slika-Psihoterapija-Sanja-Gucek-s.p-1.png",
     "website": "https://subscribepage.io/Psihoterapija-SanjaGucek",
     "location": {
@@ -1185,7 +1185,7 @@
   },
   {
     "name": "Silvana Kokol",
-    "bio": "Psihoanalitična psihoterapija (psihoterapevtka)",
+    "title": "Psihoanalitična psihoterapija (psihoterapevtka)",
     "image_source": "https://ezpps.org/wp-content/uploads/2019/07/Silvana-Kokol-fotografija-e1709045986930.jpg",
     "website": "https://psihoterapija-silvana-kokol.si/",
     "location": {
@@ -1201,7 +1201,7 @@
   },
   {
     "name": "Simon Pevec",
-    "bio": "Psihodinamska psihoterapija (specializant)",
+    "title": "Psihodinamska psihoterapija (specializant)",
     "image_source": "https://ezpps.org/wp-content/uploads/2021/02/Simon-Pevec-e1708985386327.jpg",
     "website": "https://spoznaj.se/",
     "location": {
@@ -1217,7 +1217,7 @@
   },
   {
     "name": "Štefanija Šramel",
-    "bio": "Psihoanalitična psihoterapija (psihoterapevtka)",
+    "title": "Psihoanalitična psihoterapija (psihoterapevtka)",
     "image_source": null,
     "website": "https://cpmb.si",
     "location": {
@@ -1233,7 +1233,7 @@
   },
   {
     "name": "Tanja Maljevac",
-    "bio": "Psihodinamska psihoterapija (psihoterapevtka, učna terapevtka)",
+    "title": "Psihodinamska psihoterapija (psihoterapevtka, učna terapevtka)",
     "image_source": "https://ezpps.org/wp-content/uploads/2019/02/Tanja-Maljevac_portret-e1708985232865.jpg",
     "website": "https://tanjamaljevac.si/",
     "location": {
@@ -1249,7 +1249,7 @@
   },
   {
     "name": "Teja Gašperin",
-    "bio": "Psihodinamska psihoterapija (specializantka)",
+    "title": "Psihodinamska psihoterapija (specializantka)",
     "image_source": "https://ezpps.org/wp-content/uploads/2022/11/slika-rdec-reklc-1-e1709046100627.jpg",
     "website": "https://poslusamsrce.si/",
     "location": {
@@ -1265,7 +1265,7 @@
   },
   {
     "name": "Tina Černe",
-    "bio": "Psihodinamska psihoterapija (specializantka)",
+    "title": "Psihodinamska psihoterapija (specializantka)",
     "image_source": null,
     "website": "https://psihoterapija-tinacerne.eu/",
     "location": {
@@ -1281,7 +1281,7 @@
   },
   {
     "name": "Tina Goluh",
-    "bio": "Psihoanalitična psihoterapija (specializantka)",
+    "title": "Psihoanalitična psihoterapija (specializantka)",
     "image_source": "https://ezpps.org/wp-content/uploads/2023/10/Screenshot_2023-10-02-08-47-55-184_com.android.chrome-edit.jpg",
     "website": "https://www.tinagoluh.si/",
     "location": {
@@ -1297,7 +1297,7 @@
   },
   {
     "name": "Tina Hrovat Kralj",
-    "bio": "Psihoanalitična psihoterapija (psihoterapevtka)",
+    "title": "Psihoanalitična psihoterapija (psihoterapevtka)",
     "image_source": "https://ezpps.org/wp-content/uploads/2022/11/3Y0A8072-1-e1709046184907.jpg",
     "website": "https://tina-horvat-kralj.si/",
     "location": {
@@ -1313,7 +1313,7 @@
   },
   {
     "name": "Urša Pogačar",
-    "bio": "Psihoanalitična psihoterapija (psihoterapevtka)",
+    "title": "Psihoanalitična psihoterapija (psihoterapevtka)",
     "image_source": "https://ezpps.org/wp-content/uploads/2019/07/UrsaPogacar-e1708985487226.jpg",
     "website": "https://psihoterapija-pogacar.si/",
     "location": {
@@ -1329,7 +1329,7 @@
   },
   {
     "name": "Urška Kvas",
-    "bio": "Psihodinamska psihoterapija (specializantka)",
+    "title": "Psihodinamska psihoterapija (specializantka)",
     "image_source": null,
     "website": "https://psihoterapija-urskakvas.si/",
     "location": {
@@ -1345,7 +1345,7 @@
   },
   {
     "name": "Valentina Cigoj",
-    "bio": "Psihoanalitična psihoterapija (psihoterapevtka)",
+    "title": "Psihoanalitična psihoterapija (psihoterapevtka)",
     "image_source": null,
     "website": "https://psihoterapija-cigoj.si/",
     "location": {
@@ -1361,7 +1361,7 @@
   },
   {
     "name": "Vesna Lujinović",
-    "bio": "Psihoanalitična psihoterapija (specializantka)",
+    "title": "Psihoanalitična psihoterapija (specializantka)",
     "image_source": "https://ezpps.org/wp-content/uploads/2023/04/Untitled-4-1022x1024.png",
     "website": "https://psihoterapija-vesna.com/",
     "location": {
@@ -1377,7 +1377,7 @@
   },
   {
     "name": "Vesna Remškar",
-    "bio": "Psihoanalitična psihoterapija (specializantka)",
+    "title": "Psihoanalitična psihoterapija (specializantka)",
     "image_source": null,
     "website": "https://psihoterapija-remikor.si/",
     "location": {
@@ -1393,7 +1393,7 @@
   },
   {
     "name": "Vesna Turk",
-    "bio": "Psihodinamska psihoterapija (specializantka)",
+    "title": "Psihodinamska psihoterapija (specializantka)",
     "image_source": "https://ezpps.org/wp-content/uploads/2019/02/DSC_0269_Vesna-Turk_web-e1709046259957.jpg",
     "website": "https://www.cujecnost.org/psihoterapija/",
     "location": {
@@ -1409,7 +1409,7 @@
   },
   {
     "name": "Viktorija Šušteršič",
-    "bio": "Psihodinamska psihoterapija (specializantka)",
+    "title": "Psihodinamska psihoterapija (specializantka)",
     "image_source": null,
     "website": "https://psihoterapija-sebi.si/",
     "location": {
@@ -1425,7 +1425,7 @@
   },
   {
     "name": "Vitomira Vita Rozman",
-    "bio": "Psihodinamska psihoterapija (psihoterapevtka, učna terapevtka)",
+    "title": "Psihodinamska psihoterapija (psihoterapevtka, učna terapevtka)",
     "image_source": "https://ezpps.org/wp-content/uploads/2021/02/Vita-Rozman-e1708985557752.jpg",
     "website": "https://www.zivljenje.net/",
     "location": {
@@ -1441,7 +1441,7 @@
   },
   {
     "name": "Zala Razpotnik",
-    "bio": "Psihodinamska psihoterapija (specializantka)",
+    "title": "Psihodinamska psihoterapija (specializantka)",
     "image_source": "https://ezpps.org/wp-content/uploads/2019/07/foto-Zala-Razpotnik-e1709046337961.jpg",
     "website": "https://psihoterapija-zalarazpotnik.si/",
     "location": {
@@ -1457,7 +1457,7 @@
   },
   {
     "name": "Zoltan Pap",
-    "bio": "Psihoanalitična psihoterapija (psihoterapevt)",
+    "title": "Psihoanalitična psihoterapija (psihoterapevt)",
     "image_source": "https://ezpps.org/wp-content/uploads/2024/02/IMG_0536-1-1024x1024.jpg",
     "website": "https://psihoanaliticna-ordinacija.si/",
     "location": {
