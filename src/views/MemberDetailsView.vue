@@ -6,7 +6,7 @@
         <!-- Profile Image -->
         <figure class="image is-inline-block mb-4">
             <img v-if="member?.image_name" :src="`/static/members/${member?.image_name}`" :alt="member?.name" class="is-rounded"/>
-            <img v-else src="/static/members/member_placeholder.svg" :alt="member?.name" class="is-rounded"/>
+            <img v-else src="/static/member-placeholder.svg" :alt="member?.name" class="is-rounded"/>
         </figure>
 
         <!-- Name and Title -->

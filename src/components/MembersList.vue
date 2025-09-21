@@ -10,7 +10,7 @@
                 <div class="card-image">
                     <figure class="image is-1by1">
                         <img v-if="t.image_name" :src="`/static/members/${t.image_name}`" :alt="t.name" />
-                        <img v-else src="/static/members/member_placeholder.svg" :alt="t.name" />
+                        <img v-else src="/static/member-placeholder.svg" :alt="t.name" />
                     </figure>
                 </div>
                 <div class="card-content">
