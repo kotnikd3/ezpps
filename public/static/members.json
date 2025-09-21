@@ -13,6 +13,7 @@
     "email": "info@psihoterapija-ak.si",
     "phone": null,
     "show_on_map": false,
+    "id": "aisha-kandare",
     "image_name": "aisha_kandare.jpg"
   },
   {
@@ -29,6 +30,7 @@
     "email": "aleksander.lavrini@gmail.com",
     "phone": "+386 31 568 373",
     "show_on_map": false,
+    "id": "aleksander-lavrini",
     "image_name": "aleksander_lavrini.jpg"
   },
   {
@@ -45,6 +47,7 @@
     "email": "aleksandra.strne@gmail.com",
     "phone": "+386 41 202 602",
     "show_on_map": false,
+    "id": "aleksandra-strne",
     "image_name": "aleksandra_strne.jpg"
   },
   {
@@ -61,6 +64,7 @@
     "email": "alenka.pod@gmail.com",
     "phone": "+386 41 777 622",
     "show_on_map": false,
+    "id": "alenka-podlogar",
     "image_name": "alenka_podlogar.jpg"
   },
   {
@@ -77,6 +81,7 @@
     "email": "alenka@psihoterapija-turicnik.si",
     "phone": null,
     "show_on_map": false,
+    "id": "alenka-turičnik",
     "image_name": "alenka_turičnik.jpg"
   },
   {
@@ -93,6 +98,7 @@
     "email": "info@psihoterapija-anakocjancic.com",
     "phone": "+386 41 890 036",
     "show_on_map": false,
+    "id": "ana-kocjančič",
     "image_name": "ana_kocjančič.jpg"
   },
   {
@@ -109,6 +115,7 @@
     "email": "ana.psihoterapija@gmail.com",
     "phone": "+386 41 284 323",
     "show_on_map": false,
+    "id": "ana-matijević",
     "image_name": "ana_matijević.jpg"
   },
   {
@@ -125,6 +132,7 @@
     "email": "ana.mrovlje@gmail.com",
     "phone": "+386 31 697 450",
     "show_on_map": false,
+    "id": "ana-mrovlje",
     "image_name": "ana_mrovlje.jpg"
   },
   {
@@ -141,6 +149,7 @@
     "email": "info@psihoterapija-anazore.com",
     "phone": null,
     "show_on_map": false,
+    "id": "ana-zore",
     "image_name": "ana_zore.jpg"
   },
   {
@@ -157,6 +166,7 @@
     "email": "info@psihoterapija-inside.si",
     "phone": "+386 30 397 700",
     "show_on_map": false,
+    "id": "anamarija-rabič",
     "image_name": "anamarija_rabič.jpg"
   },
   {
@@ -173,6 +183,7 @@
     "email": "andrejka.kozlevcar@gmail.com",
     "phone": "+386 31 303 234",
     "show_on_map": false,
+    "id": "andrejka-kozlevčar",
     "image_name": "andrejka_kozlevčar.jpg"
   },
   {
@@ -189,6 +200,7 @@
     "email": "anela.klemenc.beso@gmail.com",
     "phone": "+386 64 252 200",
     "show_on_map": false,
+    "id": "anela-klemenc-bešo",
     "image_name": "anela_klemenc_bešo.jpg"
   },
   {
@@ -205,6 +217,7 @@
     "email": "info@razpri-krila.si",
     "phone": "+386 31 358 096",
     "show_on_map": false,
+    "id": "aneta-kovačič",
     "image_name": "aneta_kovačič.jpg"
   },
   {
@@ -221,6 +234,7 @@
     "email": "anjakosir@gmail.com",
     "phone": "+386 41 687 330",
     "show_on_map": false,
+    "id": "anja-košir-romandini",
     "image_name": "anja_košir_romandini.jpg"
   },
   {
@@ -237,6 +251,7 @@
     "email": "barbara.ivic2@gmail.com",
     "phone": "+386 41 224 560",
     "show_on_map": false,
+    "id": "barbara-ivič",
     "image_name": null
   },
   {
@@ -253,6 +268,7 @@
     "email": "otonicar.barbara@siol.net",
     "phone": "+386 51 412 567",
     "show_on_map": false,
+    "id": "barbara-otoničar",
     "image_name": null
   },
   {
@@ -269,6 +285,7 @@
     "email": "info@sinkar.si",
     "phone": "+386 41 385 386",
     "show_on_map": false,
+    "id": "barbara-šinkar",
     "image_name": null
   },
   {
@@ -285,6 +302,7 @@
     "email": "filipic.bojan@siol.net",
     "phone": null,
     "show_on_map": false,
+    "id": "bojan-filipic",
     "image_name": "bojan_filipic.jpg"
   },
   {
@@ -301,6 +319,7 @@
     "email": "brigita.korpar@psihoterapije.si",
     "phone": null,
     "show_on_map": false,
+    "id": "brigita-korpar",
     "image_name": "brigita_korpar.jpg"
   },
   {
@@ -317,6 +336,7 @@
     "email": "damijan.sever@gmail.com",
     "phone": "+386 31 886 257",
     "show_on_map": false,
+    "id": "damijan-sever",
     "image_name": null
   },
   {
@@ -333,6 +353,7 @@
     "email": "darija.stajdohar@gmail.com",
     "phone": "+386 40 709 777",
     "show_on_map": false,
+    "id": "darija-štajdohar",
     "image_name": "darija_štajdohar.jpg"
   },
   {
@@ -349,6 +370,7 @@
     "email": "darja.trivan@cp-celje.si",
     "phone": "+386 31 793 860",
     "show_on_map": false,
+    "id": "darja-trivan-gril",
     "image_name": null
   },
   {
@@ -365,6 +387,7 @@
     "email": "info@centerzapsihoterapijo.si",
     "phone": "+386 40 736 155",
     "show_on_map": false,
+    "id": "diana-ploj-zec",
     "image_name": "diana_ploj_zec.jpg"
   },
   {
@@ -381,6 +404,7 @@
     "email": "psihoterapijaleabernik@gmail.com",
     "phone": "+386 40 165 651",
     "show_on_map": false,
+    "id": "dr-lea-bernik",
     "image_name": "dr_lea_bernik.jpg"
   },
   {
@@ -397,6 +421,7 @@
     "email": "ninanikolic@czp.si",
     "phone": "+386 41 971 265",
     "show_on_map": false,
+    "id": "dr-nika-nikolič",
     "image_name": "dr_nika_nikolič.jpg"
   },
   {
@@ -413,6 +438,7 @@
     "email": "nusa@pamina.si",
     "phone": "+386 31 510 342",
     "show_on_map": false,
+    "id": "dr-nuša-kovačević-tojnko",
     "image_name": "dr_nuša_kovačević_tojnko.jpg"
   },
   {
@@ -429,11 +455,12 @@
     "email": "emil.benedik@gmail.com",
     "phone": "+386 41 591 620",
     "show_on_map": false,
+    "id": "emil-benedik",
     "image_name": null
   },
   {
     "name": "Gašper Lesar",
-    "title": "Psihoanalitična psihoterapija (psihoterapevt)",
+    "title": "Psihoanalitična psihoterapija(psihoterapevt)",
     "image_source": "https://ezpps.org/wp-content/uploads/2023/04/Untitled-6-1020x1024.png",
     "website": "https://www.psihoterapija-lesar.si",
     "location": {
@@ -445,6 +472,7 @@
     "email": "info@psihoterapija-lesar.si",
     "phone": null,
     "show_on_map": false,
+    "id": "gašper-lesar",
     "image_name": "gašper_lesar.jpg"
   },
   {
@@ -461,6 +489,7 @@
     "email": "gregor.knezic@pamina.si",
     "phone": null,
     "show_on_map": false,
+    "id": "gregor-knežič",
     "image_name": "gregor_knežič.jpg"
   },
   {
@@ -477,6 +506,7 @@
     "email": "inesmajcen.pht@gmail.com",
     "phone": "+386 31 678 971",
     "show_on_map": false,
+    "id": "ines-majcen",
     "image_name": "ines_majcen.jpg"
   },
   {
@@ -493,6 +523,7 @@
     "email": null,
     "phone": null,
     "show_on_map": false,
+    "id": "irena-zagajšek",
     "image_name": "irena_zagajšek.jpg"
   },
   {
@@ -509,6 +540,7 @@
     "email": "iza.valic@gmail.com",
     "phone": "+386 51 430 621",
     "show_on_map": false,
+    "id": "iza-valič",
     "image_name": "iza_valič.jpg"
   },
   {
@@ -525,6 +557,7 @@
     "email": "iztok.zver@animavita.si",
     "phone": "+386 41 888 799",
     "show_on_map": false,
+    "id": "iztok-zver",
     "image_name": "iztok_zver.jpg"
   },
   {
@@ -541,6 +574,7 @@
     "email": "jaka.henigman@gmail.com",
     "phone": "+386 31 491 250",
     "show_on_map": false,
+    "id": "jaka-henigman",
     "image_name": "jaka_henigman.jpg"
   },
   {
@@ -557,6 +591,7 @@
     "email": "info@psihoterapija-jk.si",
     "phone": "+386 41 660 968",
     "show_on_map": false,
+    "id": "jakica-kristovski",
     "image_name": "jakica_kristovski.jpg"
   },
   {
@@ -573,6 +608,7 @@
     "email": "jana@indi.si",
     "phone": "+386 30 768 680",
     "show_on_map": false,
+    "id": "jana-vodlan",
     "image_name": null
   },
   {
@@ -589,6 +625,7 @@
     "email": "kaja.ln.psihoterapija@gmail.com",
     "phone": "+386 31 898 466",
     "show_on_map": false,
+    "id": "kaja-leskovšek-nagode",
     "image_name": "kaja_leskovšek_nagode.jpg"
   },
   {
@@ -605,6 +642,7 @@
     "email": "info@psihoterapija-sirok.si",
     "phone": "+386 31 248 142",
     "show_on_map": false,
+    "id": "kaja-širok",
     "image_name": "kaja_širok.jpg"
   },
   {
@@ -621,6 +659,7 @@
     "email": "katja.biscak@gmail.com",
     "phone": "+386 51 426 909",
     "show_on_map": false,
+    "id": "katja-biščak",
     "image_name": null
   },
   {
@@ -637,6 +676,7 @@
     "email": "katja@psihoterapijalesar.si",
     "phone": "+386 41 956 824",
     "show_on_map": false,
+    "id": "katja-lesar",
     "image_name": "katja_lesar.jpg"
   },
   {
@@ -653,6 +693,7 @@
     "email": "meipso.seneka@gmail.com",
     "phone": "+386 69 950 127",
     "show_on_map": false,
+    "id": "kristijan-senekovič",
     "image_name": "kristijan_senekovič.jpg"
   },
   {
@@ -669,6 +710,7 @@
     "email": "kristina@drevozivljenja.net",
     "phone": "+386 40 604 964",
     "show_on_map": false,
+    "id": "kristina-kosmač",
     "image_name": "kristina_kosmač.jpg"
   },
   {
@@ -685,6 +727,7 @@
     "email": "larapecjak@gmail.com",
     "phone": "+386 70 362 793",
     "show_on_map": false,
+    "id": "lara-pečjak",
     "image_name": null
   },
   {
@@ -701,6 +744,7 @@
     "email": "lea.hosnjak@gmail.com",
     "phone": "+386 31 806 419",
     "show_on_map": false,
+    "id": "lea-hošnjak",
     "image_name": "lea_hošnjak.jpg"
   },
   {
@@ -717,6 +761,7 @@
     "email": "info@psihoterapija-presern.si",
     "phone": "040 55 33 66",
     "show_on_map": false,
+    "id": "lea-prešern-mccann",
     "image_name": "lea_prešern_mccann.jpg"
   },
   {
@@ -733,6 +778,7 @@
     "email": "leja.mikic@gmail.com",
     "phone": "+386 40 177 798",
     "show_on_map": false,
+    "id": "leja-lončar-mikić",
     "image_name": "leja_lončar_mikić.jpg"
   },
   {
@@ -749,6 +795,7 @@
     "email": "linadebeljak9@gmail.com",
     "phone": null,
     "show_on_map": false,
+    "id": "lina-debeljak",
     "image_name": null
   },
   {
@@ -765,6 +812,7 @@
     "email": "psihoterapija.ogris@gmail.com",
     "phone": null,
     "show_on_map": false,
+    "id": "lina-ogris",
     "image_name": "lina_ogris.jpg"
   },
   {
@@ -781,6 +829,7 @@
     "email": "ljudmila@trojstvo-poti.si",
     "phone": "+386 41 388 682",
     "show_on_map": false,
+    "id": "ljudmila-brezigar",
     "image_name": "ljudmila_brezigar.jpg"
   },
   {
@@ -797,6 +846,7 @@
     "email": "luka@psihoterapija-agrez.si",
     "phone": "+386 31 825 668",
     "show_on_map": false,
+    "id": "luka-agrež",
     "image_name": "luka_agrež.jpg"
   },
   {
@@ -813,6 +863,7 @@
     "email": "info@psihoterapija-zajc.si",
     "phone": null,
     "show_on_map": false,
+    "id": "maja-zajc",
     "image_name": null
   },
   {
@@ -829,6 +880,7 @@
     "email": "psihoterapija@marinalouise.com",
     "phone": "+386 71 411 717",
     "show_on_map": false,
+    "id": "marina-louise-rajapakse",
     "image_name": "marina_louise_rajapakse.jpg"
   },
   {
@@ -845,6 +897,7 @@
     "email": "marjeta.baricevic@gmail.com",
     "phone": "+386 40 187 969",
     "show_on_map": false,
+    "id": "marjeta-baričevič",
     "image_name": "marjeta_baričevič.jpg"
   },
   {
@@ -861,6 +914,7 @@
     "email": "martina@sentoria.si",
     "phone": "+386 40 470 095",
     "show_on_map": false,
+    "id": "martina-mihič",
     "image_name": "martina_mihič.jpg"
   },
   {
@@ -877,6 +931,7 @@
     "email": "mateja.hajsek.semrajc@cpmb.si",
     "phone": "+386 31 366 106",
     "show_on_map": false,
+    "id": "mateja-hajšek-semrajc",
     "image_name": "mateja_hajšek_semrajc.jpg"
   },
   {
@@ -893,6 +948,7 @@
     "email": "mjk.psihoterapija@gmail.com",
     "phone": "+386 30 311 969",
     "show_on_map": false,
+    "id": "mateja-kolenc",
     "image_name": "mateja_kolenc.jpg"
   },
   {
@@ -909,6 +965,7 @@
     "email": "simcic.mateja@gmail.com",
     "phone": "+386 31 349 945",
     "show_on_map": false,
+    "id": "mateja-simčič",
     "image_name": "mateja_simčič.jpg"
   },
   {
@@ -925,6 +982,7 @@
     "email": "info@psihoterapija-ms.si",
     "phone": "+386 51 223 791",
     "show_on_map": false,
+    "id": "mateja-švetak",
     "image_name": "mateja_švetak.jpg"
   },
   {
@@ -941,6 +999,7 @@
     "email": "info@psihoanaliza.si",
     "phone": "+386 31 703 961",
     "show_on_map": false,
+    "id": "matija-pajer",
     "image_name": "matija_pajer.jpg"
   },
   {
@@ -957,6 +1016,7 @@
     "email": "info@metkafurlani.si",
     "phone": "+386 40 758 833",
     "show_on_map": false,
+    "id": "metka-furlani",
     "image_name": "metka_furlani.jpg"
   },
   {
@@ -973,6 +1033,7 @@
     "email": "miha@psihoterapija-strukelj.si",
     "phone": "+386 31 759 205",
     "show_on_map": false,
+    "id": "miha-štrukelj",
     "image_name": "miha_štrukelj.jpg"
   },
   {
@@ -989,6 +1050,7 @@
     "email": "milos.zidanik@guest.arnes.si",
     "phone": "+386 40 289 174",
     "show_on_map": false,
+    "id": "miloš-židanik",
     "image_name": "miloš_židanik.jpg"
   },
   {
@@ -1005,6 +1067,7 @@
     "email": "psihoterapijamojcabenko@gmail.com",
     "phone": "+386 40 838 773",
     "show_on_map": false,
+    "id": "mojca-benko",
     "image_name": "mojca_benko.jpg"
   },
   {
@@ -1021,6 +1084,7 @@
     "email": "mojca@animamea.si",
     "phone": "+386 41 595 848",
     "show_on_map": false,
+    "id": "mojca-žirovnik",
     "image_name": "mojca_žirovnik.jpg"
   },
   {
@@ -1037,6 +1101,7 @@
     "email": "naja@psihoterapija-videmsek.si",
     "phone": "+386 51 247 700",
     "show_on_map": false,
+    "id": "naja-petek",
     "image_name": "naja_petek.jpg"
   },
   {
@@ -1053,6 +1118,7 @@
     "email": "info@serenvita.si",
     "phone": null,
     "show_on_map": false,
+    "id": "nataša-crnkovič",
     "image_name": "nataša_crnkovič.jpg"
   },
   {
@@ -1069,6 +1135,7 @@
     "email": "info@psihoterapija-anzelc.si",
     "phone": "+386 31 556 367",
     "show_on_map": false,
+    "id": "parov-anzelc",
     "image_name": "parov_anzelc.jpg"
   },
   {
@@ -1085,6 +1152,7 @@
     "email": "psihoterapija@petracesen.com",
     "phone": null,
     "show_on_map": false,
+    "id": "petra-česen",
     "image_name": "petra_česen.jpg"
   },
   {
@@ -1101,6 +1169,7 @@
     "email": "petra@psihoterapijaobala.si",
     "phone": "+386 40 450 153",
     "show_on_map": false,
+    "id": "petra-furlan-dodič",
     "image_name": "petra_furlan_dodič.jpg"
   },
   {
@@ -1117,6 +1186,7 @@
     "email": "romana.k.kress@gmail.com",
     "phone": "+386 41 913 086",
     "show_on_map": false,
+    "id": "romana-kress",
     "image_name": null
   },
   {
@@ -1133,6 +1203,7 @@
     "email": "info@psihoterapija-sabrinalever.si",
     "phone": "+386 04 399 674",
     "show_on_map": false,
+    "id": "sabrina-lever",
     "image_name": "sabrina_lever.jpg"
   },
   {
@@ -1149,6 +1220,7 @@
     "email": "s.skerlep@gmail.com",
     "phone": null,
     "show_on_map": false,
+    "id": "saga-l-škerlep",
     "image_name": "saga_l_škerlep.jpg"
   },
   {
@@ -1165,6 +1237,7 @@
     "email": "samo.babuder@gmail.com",
     "phone": "+386 31 357 698",
     "show_on_map": false,
+    "id": "samo-babuder",
     "image_name": "samo_babuder.jpg"
   },
   {
@@ -1181,6 +1254,7 @@
     "email": "sanjagucek@gmail.com",
     "phone": "+386 41 539 098",
     "show_on_map": false,
+    "id": "sanja-guček",
     "image_name": "sanja_guček.jpg"
   },
   {
@@ -1197,6 +1271,7 @@
     "email": "silvana.kokol@gmail.com",
     "phone": "+386 31 783 579",
     "show_on_map": false,
+    "id": "silvana-kokol",
     "image_name": "silvana_kokol.jpg"
   },
   {
@@ -1213,6 +1288,7 @@
     "email": "simon@spoznaj.se",
     "phone": "+386 70 182 782",
     "show_on_map": false,
+    "id": "simon-pevec",
     "image_name": "simon_pevec.jpg"
   },
   {
@@ -1229,6 +1305,7 @@
     "email": "stefanija.sramel@amis.net",
     "phone": "+386 31 423 410",
     "show_on_map": false,
+    "id": "štefanija-šramel",
     "image_name": null
   },
   {
@@ -1245,6 +1322,7 @@
     "email": "svetovanje@tanjamaljevac.si",
     "phone": "+386 41 341 125",
     "show_on_map": false,
+    "id": "tanja-maljevac",
     "image_name": "tanja_maljevac.jpg"
   },
   {
@@ -1261,6 +1339,7 @@
     "email": "teja@poslusamsrce.si",
     "phone": "+386 31 340 036",
     "show_on_map": false,
+    "id": "teja-gašperin",
     "image_name": "teja_gašperin.jpg"
   },
   {
@@ -1277,6 +1356,7 @@
     "email": "info@psihoterapija-tinacerne.eu",
     "phone": null,
     "show_on_map": false,
+    "id": "tina-černe",
     "image_name": null
   },
   {
@@ -1293,6 +1373,7 @@
     "email": "tina.goluh@gmail.com",
     "phone": "+386 40 195 757",
     "show_on_map": false,
+    "id": "tina-goluh",
     "image_name": "tina_goluh.jpg"
   },
   {
@@ -1309,6 +1390,7 @@
     "email": "psihoterapija@tina-horvat-kralj.si",
     "phone": "+386 40 632 110",
     "show_on_map": false,
+    "id": "tina-hrovat-kralj",
     "image_name": "tina_hrovat_kralj.jpg"
   },
   {
@@ -1325,6 +1407,7 @@
     "email": "ursa@psihoterapija-pogacar.si",
     "phone": "+386 51 389 683",
     "show_on_map": false,
+    "id": "urša-pogačar",
     "image_name": "urša_pogačar.jpg"
   },
   {
@@ -1341,6 +1424,7 @@
     "email": "info@psihoterapija-urskakvas.si",
     "phone": null,
     "show_on_map": false,
+    "id": "urška-kvas",
     "image_name": null
   },
   {
@@ -1357,6 +1441,7 @@
     "email": "valentina@psihoterapija-cigoj.si",
     "phone": "+386 40 799 676",
     "show_on_map": false,
+    "id": "valentina-cigoj",
     "image_name": null
   },
   {
@@ -1373,11 +1458,12 @@
     "email": "vesna@psihoterapija-vesna.com",
     "phone": "+386 68 641 476",
     "show_on_map": false,
+    "id": "vesna-lujinović",
     "image_name": "vesna_lujinović.jpg"
   },
   {
     "name": "Vesna Remškar",
-    "title": "Psihoanalitična psihoterapija (specializantka)",
+    "title": "Psihoanalitična psihoterapija(specializantka)",
     "image_source": null,
     "website": "https://psihoterapija-remikor.si/",
     "location": {
@@ -1389,6 +1475,7 @@
     "email": "vesna.remskar@siol.net",
     "phone": null,
     "show_on_map": false,
+    "id": "vesna-remškar",
     "image_name": null
   },
   {
@@ -1405,6 +1492,7 @@
     "email": "vesnatur9@gmail.com",
     "phone": "+386 41 395 794",
     "show_on_map": false,
+    "id": "vesna-turk",
     "image_name": "vesna_turk.jpg"
   },
   {
@@ -1421,6 +1509,7 @@
     "email": "info@psihoterapija-sebi.si",
     "phone": "+386 41 390 054",
     "show_on_map": false,
+    "id": "viktorija-šušteršič",
     "image_name": null
   },
   {
@@ -1437,6 +1526,7 @@
     "email": "vita.rozman@gmail.com",
     "phone": "+386 31 77 22 40",
     "show_on_map": false,
+    "id": "vitomira-vita-rozman",
     "image_name": "vitomira_vita_rozman.jpg"
   },
   {
@@ -1453,6 +1543,7 @@
     "email": "info@psihoterapija-zalarazpotnik.si",
     "phone": "+386 40 359 539",
     "show_on_map": false,
+    "id": "zala-razpotnik",
     "image_name": "zala_razpotnik.jpg"
   },
   {
@@ -1469,6 +1560,7 @@
     "email": "zoltan.pap91@gmail.com",
     "phone": "+386 41 210 128",
     "show_on_map": false,
+    "id": "zoltan-pap",
     "image_name": "zoltan_pap.jpg"
   }
 ]

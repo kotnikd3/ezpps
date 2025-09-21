@@ -16,6 +16,7 @@ import LibraryView from '@/views/LibraryView.vue'
 import EventsView from '@/views/EventsView.vue'
 import ContactView from '@/views/ContactView.vue'
 import CookiesView from '@/views/CookiesView.vue'
+import MemberDetailsView from '@/views/MemberDetailsView.vue'
 
 
 const router = createRouter({
@@ -56,6 +57,12 @@ const router = createRouter({
         path: '/clani',
         name: 'members_view',
         component: MembersView
+    },
+    {
+        path: '/clani/:id',
+        name: 'member_details',
+        component: MemberDetailsView,
+        props: true
     },
     {
         path: '/o-psihoanaliticni-psihoterapiji',

@@ -4,17 +4,28 @@
     </section>
 
     <section class="section">
-        <MembersList />
+        <MembersList :members="members" @detail-member="memberDetail"/>
     </section>    
 </template>
 
-<script>
+<script setup>
+    import { ref, onMounted } from "vue"
+    import { useRouter } from "vue-router"
+
     import MembersList from "@/components/MembersList.vue"
+    import { getAll } from "@/services/membersService.js"
 
-    export default {
-        components: {
-            MembersList,
-        },
+    const members = ref([])
+    const router = useRouter()
+
+    onMounted(async () => {
+        members.value = await getAll()
+
+        // const jane = await getById("aleksander_lavrini")
+        // console.log(jane)
+    })
+
+    function memberDetail(member) {
+        router.push('/clani/' + member.id);
     }
-
 </script>

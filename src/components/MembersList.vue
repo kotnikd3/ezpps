@@ -1,25 +1,24 @@
 <template>
     <div class="columns is-multiline">
         <div 
-            v-for="t in therapists" 
+            v-for="t in members" 
             :key="t.name" 
             class="list-item column is-full-mobile is-half-tablet is-one-quarter-widescreen"
+            @click.stop="$emit('detail-member', t)"
         >
             <div class="card">
                 <div class="card-image">
                     <figure class="image is-1by1">
-                        <div v-if="t.image_name">
-                            <img :src="`/static/members/${t.image_name}`" :alt="t.name" />
-                        </div>
-                        <div v-else>
-                            <img src="/static/members/member_placeholder.svg" :alt="t.name" />
-                        </div>
+                        <img v-if="t.image_name" :src="`/static/members/${t.image_name}`" :alt="t.name" />
+                        <img v-else src="/static/members/member_placeholder.svg" :alt="t.name" />
                     </figure>
                 </div>
                 <div class="card-content">
+                    <!-- Name and Title -->
                     <h4 class="title is-4" v-text="t.name"></h4>
                     <h5 class="subtitle is-5" v-text="t.title"></h5>
 
+                    <!-- Location -->
                     <div v-if="t.location.city" class="icon-text">
                         <span class="icon">
                             <font-awesome-icon icon="fa-solid fa-location-dot" />
@@ -27,6 +26,7 @@
                         <span v-text="t.location.city"></span>
                     </div>
 
+                    <!-- Email -->
                     <a v-if="t.email" :href="`mailto:${t.email}`" class="icon-text">
                         <span class="icon">
                             <font-awesome-icon icon="fa-regular fa-envelope" />
@@ -34,6 +34,7 @@
                         <span v-text="t.email"></span>
                     </a>
 
+                    <!-- Phone -->
                     <a v-if="t.phone" :href="`tel:${t.phone}`" class="icon-text">
                         <span class="icon">
                             <font-awesome-icon icon="fa-solid fa-phone" />
@@ -41,6 +42,7 @@
                         <span v-text="t.phone"></span>
                     </a>
 
+                    <!-- Website -->
                     <a v-if="t.website" :href="t.website" class="icon-text" target="_blank" rel="noopener noreferrer">
                         <span class="icon">
                             <font-awesome-icon icon="fa-solid fa-globe" />
@@ -54,13 +56,11 @@
 </template>
 
 <script setup>
-    import { ref, onMounted } from "vue"
-
-    const therapists = ref([])
-
-    onMounted(async () => {
-        const res = await fetch("/static/therapists.json")
-        therapists.value = await res.json()
+    defineProps({
+        members: {
+            type: Array,
+            required: true
+        }
     })
 </script>
 
