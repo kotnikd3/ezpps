@@ -56,7 +56,7 @@
     </section>
     <section class="section">
         <div class="message">
-            <div class="message-body">
+            <div class="message-body is-size-5">
                 <h3 class="title is-3">Člani organov</h3>
                 <div class="block">
                     Strokovni svet sestavljajo: Andrejka Kozlevčar, Matija Pajer, Saga Škrlep, Mateja Švetak, Irena Zagajšek, Ana Kocjančič, Nuša Kovačevič Tojnko, Lan Pečjak, Aneta Kovačič.
