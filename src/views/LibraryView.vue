@@ -1,9 +1,9 @@
 <template>
-    <!-- Hero -->
-    <section class="hero is-medium is-info">
-        <div class="hero-body">
-            <p class="title">Knjižnica</p>
-            <p class="subtitle">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Explicabo sint, error ratione optio, nam laudantium quibusdam sapiente minima repellendus debitis dolorum dolorem? Similique enim, nisi commodi facilis quibusdam libero corrupti?</p>
-        </div>
+    <section class="section">
+        <h2 class="title is-2">Knjižnica</h2>
+    </section>
+
+    <section class="section">
+        Trenutno ni objavljenih prispevkov.
     </section>
 </template>
