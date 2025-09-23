@@ -1,9 +1,11 @@
 <template>
     <!-- Hero -->
-    <section class="hero is-medium is-info">
+    <section class="hero is-large is-primary">
         <div class="hero-body">
-            <p class="title">Domov</p>
-            <p class="subtitle">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Explicabo sint, error ratione optio, nam laudantium quibusdam sapiente minima repellendus debitis dolorum dolorem? Similique enim, nisi commodi facilis quibusdam libero corrupti?</p>
+            <h1 class="title is-1">Evropsko združenje psihoanalitičnih pristopov – Slovenija</h1>
+            <h3 class="subtitle is-3">EZPPS</h3>
+            <br>
+            <h4 class="title is-4" style="color: greenyellow;">Stran je v izdelavi, september 2025</h4>
         </div>
     </section>
 </template>
