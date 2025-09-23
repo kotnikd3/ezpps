@@ -20,9 +20,6 @@
 
     onMounted(async () => {
         members.value = await getAll()
-
-        // const jane = await getById("aleksander_lavrini")
-        // console.log(jane)
     })
 
     function memberDetail(member) {
