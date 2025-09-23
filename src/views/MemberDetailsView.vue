@@ -1,51 +1,43 @@
 <template>
-  <!-- Hero Section -->
-  <section class="hero is-medium">
-    <div class="hero-body">
-      <div class="has-text-centered">
-        <!-- Profile Image -->
-        <figure class="image is-inline-block mb-4">
-            <img v-if="member?.image_name" :src="`/static/members/${member?.image_name}`" :alt="member?.name" class="is-rounded"/>
-            <img v-else src="/static/member-placeholder.svg" :alt="member?.name" class="is-rounded"/>
-        </figure>
+    <section class="hero is-medium">
+        <div class="hero-body has-text-centered">
+            <!-- Profile Image -->
+            <figure class="image is-inline-block mb-4">
+                <img v-if="member?.image_name" :src="`/static/members/${member?.image_name}`" :alt="member?.name"/>
+                <img v-else src="/static/member-placeholder.svg" :alt="member?.name"/>
+            </figure>
+    
+            <!-- Name and Title -->
+            <h2 class="title is-2">{{ member?.name }}</h2>
+            <h4 class="subtitle is-4">{{ member?.title }}</h4>
 
-        <!-- Name and Title -->
-        <h2 class="title is-2">{{ member?.name }}</h2>
-        <h4 class="subtitle is-4">{{ member?.title }}</h4>
-
-        <!-- Location -->
-        <div class="is-size-4">
-            <div>
+            <div class="contact-list is-size-4 mt-6">
+                
+                <!-- Location -->
                 <div v-if="member?.location?.city" class="icon-text">
                     <span class="icon">
                         <font-awesome-icon icon="fa-solid fa-location-dot" />
                     </span>
                     <span v-text="member?.location?.city"></span>
                 </div>
-            </div>
 
-            <!-- Email -->
-            <div>
+                <!-- Email -->
                 <a v-if="member?.email" :href="`mailto:${member?.email}`" class="icon-text">
                     <span class="icon">
                         <font-awesome-icon icon="fa-regular fa-envelope" />
                     </span>
                     <span v-text="member?.email"></span>
                 </a>
-            </div>
 
-            <!-- Phone -->
-            <div>
+                <!-- Phone -->
                 <a v-if="member?.phone" :href="`tel:${member?.phone}`" class="icon-text">
                     <span class="icon">
                         <font-awesome-icon icon="fa-solid fa-phone" />
                     </span>
                     <span v-text="member?.phone"></span>
                 </a>
-            </div>
 
-            <!-- Website -->
-            <div>
+                <!-- Website -->
                 <a v-if="member?.website" :href="member?.website" class="icon-text" target="_blank" rel="noopener noreferrer">
                     <span class="icon">
                         <font-awesome-icon icon="fa-solid fa-globe" />
@@ -54,9 +46,7 @@
                 </a>
             </div>
         </div>
-      </div>
-    </div>
-  </section>
+    </section>
 </template>
 
 <script setup>
@@ -80,15 +70,32 @@
 
 <style scoped>
     .image img {
-        max-width: 100%;     /* scale to column width */
-        max-height: 300px;   /* make it bigger than 128px */
-        object-fit: cover;   /* crop nicely if needed */
+        max-width: 250px;
+        border-radius: 1.5rem;
     }
 
-    .icon-text {
-        display: inline-flex;
+    .contact-list {
+        display: flex;
+        flex-direction: column;
         align-items: center;
-        margin-top: 15px;
-        word-break: break-word;
+        gap: 0.5rem; /* space between rows */
+    }
+
+    /* Wrap text */
+    a.icon-text {
+        margin-top: 5px;
+        display: flex;
+        align-items: flex-start;
+        word-break: break-all;
+        overflow-wrap: break-word;
+        line-height: 1.0;
+    }
+    a.icon-text .icon {
+        flex-shrink: 0;
+        margin-top: 0.125rem; /* Aligns icon with first line of text */
+    }
+
+    a.icon-text span:last-child {
+        flex: 1;
     }
 </style>
