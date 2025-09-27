@@ -15,35 +15,19 @@
     </section>
 
     <section class="section">
-        <h4 class="title is-3" style="color: green;">Stran je v izdelavi, september 2025</h4>
+        <h2 class="title is-2">Zemljevid lokacij dela psihoterapevtov</h2>
     </section>
-    
-    <section class="section">
-        <div class="columns is-gapless">
-            <div class="column">
-                <figure>
-                    <img src="@/assets/images/home_1.jpg" alt="psihoanaliza">
-                </figure>
-            </div>
-            <div class="column">
-                <figure>
-                    <img src="@/assets/images/home_2.jpg" alt="psihoanaliza">
-                </figure>
-            </div>
-            <div class="column">
-                <figure>
-                    <img src="@/assets/images/home_3.jpg" alt="psihoanaliza">
-                </figure>
-            </div>
-        </div>
+
+    <section>
+        <GoogleMap/>
     </section>
 
     <section class="section">
-        <div class="columns is-gapless">
+        <div class="columns is-desktop is-vcentered">
             <div class="column">
-                <div class="columns">
+                <div class="columns is-vcentered is-mobile">
                     <div class="column">
-                        <figure class="is-inline-block" style="width: 50%;">
+                        <figure class="is-pulled-right" style="max-width: 150px;">
                             <a href="https://ecpp.ngo" target="_blank" rel="noopener noreferrer">
                                 <img src="@/assets/images/ecpp_logo.svg" alt="ECPP">
                             </a>
@@ -53,9 +37,9 @@
                 </div>
             </div>
             <div class="column">
-                <div class="columns">
+                <div class="columns is-vcentered is-mobile">
                     <div class="column">
-                        <figure style="width: 50%;">
+                        <figure class="is-pulled-right" style="max-width: 125px;">
                             <a href="https://www.skzp.si/" target="_blank" rel="noopener noreferrer">
                                 <img src="@/assets/images/skzp_logo.png" alt="SKZP">
                             </a>
@@ -65,9 +49,9 @@
                 </div>
             </div>
             <div class="column">
-                <div class="columns">
+                <div class="columns is-vcentered is-mobile">
                     <div class="column">
-                        <figure>
+                        <figure class="is-pulled-right" style="max-width: 200px;">
                             <a href="https://www.europsyche.org/" target="_blank" rel="noopener noreferrer">
                                 <img src="@/assets/images/eap_logo.png" alt="EAP">
                             </a>
@@ -79,3 +63,7 @@
         </div>
     </section>
 </template>
+
+<script setup>
+    import GoogleMap from "@/components/Map.vue"
+</script>
