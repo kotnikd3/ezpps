@@ -680,6 +680,23 @@
     "image_name": "katja-lesar.jpg"
   },
   {
+    "name": "Katja Štucin",
+    "title": "Psihodinamska psihoterapija (specializantka)",
+    "image_source": "https://ezpps.org/wp-content/uploads/2025/10/DSC05726-1-1024x1024.jpg",
+    "website": "https://www.psihoterapija-katjastucin.si/",
+    "location": {
+      "city": "Ljubljana",
+      "address": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "email": "info@psihoterapija-katjastucin.si",
+    "phone": "051 472 017",
+    "show_on_map": false,
+    "id": "katja-stucin",
+    "image_name": "katja-stucin.jpg"
+  },
+  {
     "name": "Kristijan Senekovič",
     "title": "Psihoanalitična psihoterapija (psihoterapevt)",
     "image_source": "https://ezpps.org/wp-content/uploads/2022/11/osebna_m-1-e1709044035870.png",
@@ -712,6 +729,23 @@
     "show_on_map": false,
     "id": "kristina-kosmac",
     "image_name": "kristina-kosmac.jpg"
+  },
+  {
+    "name": "Lan Pečjak",
+    "title": "Psihodinamska psihoterapija (psihoterapevt, učni terapevt, supervizor)",
+    "image_source": null,
+    "website": "https://www.sankofa.si/",
+    "location": {
+      "city": "Solkan in Goriška Brda",
+      "address": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "email": "LAN.PECJAK@GMAIL.COM",
+    "phone": null,
+    "show_on_map": false,
+    "id": "lan-pecjak",
+    "image_name": null
   },
   {
     "name": "Lara Pečjak",
@@ -768,7 +802,7 @@
     "name": "Leja Lončar Mikić",
     "title": "Psihoanalitična psihoterapija (specializantka)",
     "image_source": "https://ezpps.org/wp-content/uploads/2025/02/slika-obrazec-za-prijavo.jpg",
-    "website": "https://igorokorn.si/psihoanaliza/leja-loncar-mikic/%20",
+    "website": "https://psihoanalizaokorn.si/",
     "location": {
       "city": "Ljubljana",
       "address": null,
@@ -1208,7 +1242,7 @@
   },
   {
     "name": "Saga L. Škerlep",
-    "title": "Psihoanalitična psihoterapija (specializantka)",
+    "title": "Psihoanalitična psihoterapija (psihoterapevtka)",
     "image_source": "https://ezpps.org/wp-content/uploads/2022/11/psihoterapevt1-1-1.jpg",
     "website": "https://www.skerlep.com/",
     "location": {
