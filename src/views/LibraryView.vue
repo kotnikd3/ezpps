@@ -1,9 +1,13 @@
 <template>
     <section class="section">
-        <h2 class="title is-2">Knjižnica</h2>
+        <div class="container">
+            <h2 class="title is-2">Publikacije</h2>
+        </div>
     </section>
 
     <section class="section">
-        Trenutno ni objavljenih prispevkov.
+        <div class="container">
+            Trenutno ni objavljenih prispevkov.
+        </div>
     </section>
 </template>

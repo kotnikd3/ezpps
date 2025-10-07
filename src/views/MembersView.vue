@@ -1,10 +1,14 @@
 <template>
     <section class="section">
-        <h2 class="title is-2">Člani društva</h2>
+        <div class="container">
+            <h2 class="title is-2">Člani društva</h2>
+        </div>
     </section>
 
     <section class="section">
-        <MembersList :members="members" @detail-member="memberDetail"/>
+        <div class="container">
+            <MembersList :members="members" @detail-member="memberDetail"/>
+        </div>
     </section>    
 </template>
 

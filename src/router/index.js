@@ -90,7 +90,7 @@ const router = createRouter({
         component: ConnectionsView
     },
     {
-        path: '/knjiznica',
+        path: '/publikacije',
         name: 'library_view',
         component: LibraryView
     },
