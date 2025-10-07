@@ -1,13 +1,15 @@
 <template>
-    <section class="hero is-primary mt-6">
+    <section class="hero mt-6">
         <div class="hero-body">
-            <div class="columns is-vcentered">
-                <div class="column has-text-right">
-                    <h1 class="title is-1">Evropsko združenje psihoanalitičnih pristopov – Slovenija (EZPPS)</h1>
-                </div>
-                <div class="column has-text-left">
-                    <div class="is-size-4">
-                        Je društvo, ki združuje slovenske psihoterapevte in psihoterapevtke, katerih psihoterapevtsko delo v osnovi temelji na psihoanalitičnih principih umevanja človeške duševnosti.
+            <div class="container">
+                <div class="columns is-vcentered">
+                    <div class="column has-text-right">
+                        <h1 class="title is-1 has-text-primary">Evropsko združenje psihoanalitičnih pristopov – Slovenija (EZPPS)</h1>
+                    </div>
+                    <div class="column">
+                        <div class="is-size-4">
+                            Je društvo, ki združuje slovenske psihoterapevte in psihoterapevtke, katerih psihoterapevtsko delo v osnovi temelji na psihoanalitičnih principih umevanja človeške duševnosti.
+                        </div>
                     </div>
                 </div>
             </div>
@@ -57,52 +59,26 @@
         </div>
     </section>
 
-    <section class="section">
+    <section class="section hero is-primary">
         <div class="container">
-            <article class="media">
-                <figure class="media-left">
-                    <p class="image is-64x64">
-                    <img src="/static/members/aisha-kandare.jpg" />
-                    </p>
-                </figure>
-                <div class="media-content">
-                    <div class="content">
-                    <p>
-                        <strong>John Smith</strong> <small>@johnsmith</small> <small>31m</small>
-                        <br />
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ornare
-                        magna eros, eu pellentesque tortor vestibulum ut. Maecenas non massa
-                        sem. Etiam finibus odio quis feugiat facilisis.
-                    </p>
-                    </div>
-                    <nav class="level is-mobile">
-                    <div class="level-left">
-                        <a class="level-item">
-                        <span class="icon is-small"><i class="fas fa-reply"></i></span>
-                        </a>
-                        <a class="level-item">
-                        <span class="icon is-small"><i class="fas fa-retweet"></i></span>
-                        </a>
-                        <a class="level-item">
-                        <span class="icon is-small"><i class="fas fa-heart"></i></span>
-                        </a>
-                    </div>
-                    </nav>
+            <nav class="level">
+                <div class="level-item">
+                    <h2 class="title is-2">Poiščite psihoterapevta v svoji bližini.</h2>
                 </div>
-                <div class="media-right">
-                    <button class="delete"></button>
+                <div class="level-item">
+                    <RouterLink class="button is-white is-rounded is-large" :to="{ name: 'members_view' }">Seznam članov</RouterLink>
                 </div>
-            </article>
-        </div>
-    </section>
-
-    <section class="section">
-        <div class="container">
-            <h2 class="title is-2">Zemljevid lokacij dela psihoterapevtov</h2>
+            </nav>
         </div>
     </section>
 
     <GoogleMap/>
+
+    <section class="section">
+        <div class="container">
+            <h2 class="title is-2 has-text-success">Stran je v izdelavi</h2>
+        </div>
+    </section>
 
 </template>
 
