@@ -1,5 +1,5 @@
 <template>
-    <section class="hero is-primary">
+    <section class="hero is-primary mt-6">
         <div class="hero-body">
             <div class="columns is-vcentered">
                 <div class="column has-text-right">
@@ -13,14 +13,6 @@
             </div>
         </div>
     </section>
-
-    <section class="section">
-        <div class="container">
-            <h2 class="title is-2">Zemljevid lokacij dela psihoterapevtov</h2>
-        </div>
-    </section>
-
-    <GoogleMap/>
 
     <section class="section">
         <div class="container">
@@ -64,6 +56,54 @@
             </div>
         </div>
     </section>
+
+    <section class="section">
+        <div class="container">
+            <article class="media">
+                <figure class="media-left">
+                    <p class="image is-64x64">
+                    <img src="/static/members/aisha-kandare.jpg" />
+                    </p>
+                </figure>
+                <div class="media-content">
+                    <div class="content">
+                    <p>
+                        <strong>John Smith</strong> <small>@johnsmith</small> <small>31m</small>
+                        <br />
+                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ornare
+                        magna eros, eu pellentesque tortor vestibulum ut. Maecenas non massa
+                        sem. Etiam finibus odio quis feugiat facilisis.
+                    </p>
+                    </div>
+                    <nav class="level is-mobile">
+                    <div class="level-left">
+                        <a class="level-item">
+                        <span class="icon is-small"><i class="fas fa-reply"></i></span>
+                        </a>
+                        <a class="level-item">
+                        <span class="icon is-small"><i class="fas fa-retweet"></i></span>
+                        </a>
+                        <a class="level-item">
+                        <span class="icon is-small"><i class="fas fa-heart"></i></span>
+                        </a>
+                    </div>
+                    </nav>
+                </div>
+                <div class="media-right">
+                    <button class="delete"></button>
+                </div>
+            </article>
+        </div>
+    </section>
+
+    <section class="section">
+        <div class="container">
+            <h2 class="title is-2">Zemljevid lokacij dela psihoterapevtov</h2>
+        </div>
+    </section>
+
+    <GoogleMap/>
+
 </template>
 
 <script setup>
