@@ -1,4 +1,9 @@
 <template>
+    <section class="section">
+        <div class="container has-text-centered">
+            <h2 class="title is-2 has-text-success">Stran je v izdelavi</h2>
+        </div>
+    </section>
     <section class="hero mt-6">
         <div class="hero-body">
             <div class="container">
