@@ -288,6 +288,52 @@
         </div>
     </section>
 
+    <hr/>
+
+    <section class="section">
+        <div class="container">
+            <h2 class="title is-2">Psihoanalitična psihoterapevtska pristopa pod okriljem EZPPS</h2>
+            <div class="columns">
+                <div class="column">
+                    <div class="columns is-vcentered">
+                        <div class="column">
+                            <h4 class="title is-4">Psihoanalitična psihoterapija</h4>
+                            <div class="block">
+                                V praksi proces psihoanalitične psihoterapije lahko poteka v sedečem ali ležečem položaju, zasledujoč  prosto-asociativni tok misli, ter razumevanje porajajoče nezavedne in odnosne dinamike.
+                            </div>
+                            <div class="block">
+                                <RouterLink class="button is-primary is-outlined" :to="{ name: 'psychoanalytic_psychotherapy_view' }">Več o terapiji</RouterLink>
+                            </div>
+                        </div>
+                        <div class="column has-text-centered">
+                            <figure class="image">
+                                <img src="@/assets/images/psihoanaliza.jpg" alt="psihoanaliza">
+                            </figure>
+                        </div>
+                    </div>
+                </div>
+                <div class="column">
+                    <div class="columns is-vcentered">
+                        <div class="column">
+                            <h4 class="title is-4">Psihodinamska psihoterapija</h4>
+                            <div class="block">
+                                V praksi je psihodinamska psihoterapija integrativno naravnana, saj vključuje poleg tradicionalnega načina dela tudi različne telesne, ustvarjalne, gibalne, psihodramske in druge tehnike.
+                            </div>
+                            <div class="block">
+                                <RouterLink class="button is-primary is-outlined" :to="{ name: 'psychodynamic_psychotherapy_view' }">Več o terapiji</RouterLink>
+                            </div>
+                        </div>
+                        <div class="column has-text-centered">
+                            <figure class="image">
+                                <img src="@/assets/images/psihodinamska_psihoterapija.jpg" alt="psihoanaliza">
+                            </figure>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
 </template>
 
 <script setup>
