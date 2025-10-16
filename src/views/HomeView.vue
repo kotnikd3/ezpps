@@ -34,13 +34,18 @@
                         </figure>
                         <div class="media-content">
                             <div class="content">
-                            <p>
-                                <strong>Predavanje SKZP: Zasvojenost s seksualnostjo in internetno pornografijo – 2.del, Peter Topić</strong> <small>@johnsmith</small> <small>31m</small>
-                                <br/>
-                                Seminar je oblikovan kot samostojna celota in je primeren tudi za tiste, ki se prvega dela niste udeležili.
-                                <br/>
-                                Zasvojenost je verjetno eden najbolj proučevanih in pojasnjevanih fenomenov, povezanih z duševnim zdravjem.
-                            </p>
+                                <!-- <p class="title is-4">18. 2. 2021</p> -->
+                                <p class="title is-5 is-spaced">
+                                    Predavanje SKZP: Zasvojenost s seksualnostjo in internetno pornografijo – 2.del, Peter Topić
+                                </p>
+                                <p class="subtitle">
+                                    <span class="tag is-primary is-large is-lighta">18. 2. 2021</span>
+                                </p>
+                                <p>
+                                    Seminar je oblikovan kot samostojna celota in je primeren tudi za tiste, ki se prvega dela niste udeležili.
+                                    <br/>
+                                    Zasvojenost je verjetno eden najbolj proučevanih in pojasnjevanih fenomenov, povezanih z duševnim zdravjem.
+                                </p>
                             </div>
                             <nav class="level is-mobile">
                             <div class="level-left">
@@ -57,7 +62,7 @@
                             </nav>
                         </div>
                         <div class="media-right">
-                            <span class="tag is-primary">Januar</span>
+                            
                         </div>
                     </article>
                 </div>
