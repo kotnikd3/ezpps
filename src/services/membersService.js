@@ -9,6 +9,13 @@ async function fetchData() {
     const res = await fetch(DATA_URL)
     cache = await res.json()
 
+    // Sort by surname (last word in the name)
+    cache.sort((a, b) => {
+        const lastNameA = a.name.trim().split(" ").at(-1).toLowerCase()
+        const lastNameB = b.name.trim().split(" ").at(-1).toLowerCase()
+        return lastNameA.localeCompare(lastNameB)
+    })
+
     // Build a lookup map for O(1) average search
     byIdIndex = new Map(
         cache.map(t => [t.id, t])
