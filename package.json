@@ -25,16 +25,16 @@
     "vue3-google-map": "^0.25.0"
   },
   "devDependencies": {
-    "@eslint/js": "^9.37.0",
+    "@eslint/js": "^9.38.0",
     "@vitejs/plugin-vue": "^6.0.1",
     "@vue/eslint-config-prettier": "^10.2.0",
-    "eslint": "^9.37.0",
+    "eslint": "^9.38.0",
     "eslint-plugin-vue": "~10.5.1",
     "globals": "^16.4.0",
     "prettier": "3.6.2",
     "sass": "^1.93.2",
-    "sass-loader": "^16.0.5",
-    "vite": "^7.1.10",
-    "vite-plugin-vue-devtools": "^8.0.2"
+    "sass-loader": "^16.0.6",
+    "vite": "^7.1.12",
+    "vite-plugin-vue-devtools": "^8.0.3"
   }
 }
