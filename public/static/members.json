@@ -1,4 +1,21 @@
 [
+    {
+    "name": "Maša Pupaher",
+    "title": "Psihoanalitična psihoterapija (specializantka pod supervizijo)",
+    "image_source": null,
+    "website": "https://psihoterapija-pupaher.si/",
+    "location": {
+      "city": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "email": "masa.pupaher@gmail.com",
+    "phone": "+386 31 715 927",
+    "show_on_map": false,
+    "id": "masa-pupaher",
+    "image_name": null
+  },
   {
     "name": "Aisha Kandare",
     "title": "Psihoanalitična psihoterapija (specializantka)",
