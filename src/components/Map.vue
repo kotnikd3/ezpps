@@ -24,12 +24,13 @@
 </script>
 
 <template>
+    <!-- :center=Kisovec -->
     <GoogleMap
         api-key="AIzaSyBa-1KEJ1_4f01Xn91Lm3vhMhVKA4tqivU"
         map-id="4a20de915841a1928d90aa13"
         style="width: 100%; height: 700px"
-        :center="{ lat: 46.0582, lng: 14.8279 }"
-        :zoom="9"
+        :center="{ lat: 46.1397336676993, lng: 14.962530069374042 }"
+        :zoom="8.8"
         :street-view-control="false"
         :map-type-control="false"
     >

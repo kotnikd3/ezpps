@@ -1,23 +1,38 @@
 <template>
-    <section class="section">
-        <div class="container has-text-centered">
-            <h2 class="title is-2 has-text-success">Stran je v izdelavi</h2>
-        </div>
-    </section>
     <section class="hero mt-6">
         <div class="hero-body">
             <div class="container">
                 <div class="columns is-vcentered">
                     <div class="column has-text-right">
-                        <h1 class="title is-1 has-text-primary">Evropsko združenje psihoanalitičnih pristopov – Slovenija (EZPPS)</h1>
+                        <h1 class="title is-1 is-size-2-mobile has-text-primary" style="font-size: 3.6rem;">Evropsko združenje psihoanalitičnih pristopov – Slovenija (EZPPS)</h1>
                     </div>
                     <div class="column">
-                        <div class="is-size-4">
+                        <div class="is-size-4 is-size-5-mobile">
                             Je društvo, ki združuje slovenske psihoterapevte in psihoterapevtke, katerih psihoterapevtsko delo v osnovi temelji na psihoanalitičnih principih umevanja človeške duševnosti.
                         </div>
                     </div>
                 </div>
             </div>
+        </div>
+    </section>
+
+    <section class="section">
+        <div class="container">
+            <div class="hero is-primary">
+                <div class="hero-body">
+                <nav class="level">
+                    <div class="level-item">
+                        <h2 class="title is-2">Poiščite psihoterapevta v svoji bližini.</h2>
+                    </div>
+                    <div class="level-item">
+                        <RouterLink class="button is-white is-rounded is-large" :to="{ name: 'members_view' }">Seznam članov</RouterLink>
+                    </div>
+                </nav>
+                </div>
+            </div>
+        </div>
+        <div class="container">
+            <GoogleMap/>
         </div>
     </section>
 
@@ -66,54 +81,9 @@
                         </div>
                     </article>
                 </div>
-                <div class="column">
-                    <h2 class="title is-2">Zadnji prispevki</h2>
-                    <article class="media box">
-                        <div class="media-content">
-                            <div class="content">
-                            <p>
-                                <strong>Pojasnila EZPPS na Predlog zakona za psihoterapevtsko in klinično psihoterapevtsko dejavnost</strong>
-                                <br/>
-                                V strokovnih in laični javnosti poteka razprava o Predlogu zakona za psihoterapevtsko in klinično psihoterapevtsko dejavnost. Strokovni svet EZPPS pojasnjuje nekatere vidike zakona, ki so morda manj jasni oz. se lahko razlagajo na več načinov. Izpostavljamo, da pozdravljamo aktivnosti Vlade Republike Slovenije in Ministrstva za zdravje RS v smeri sprejemanja zakona o psihoterapiji. 
-                            </p>
-                            </div>
-                            <nav class="level is-mobile">
-                            <div class="level-left">
-                                <a class="level-item">
-                                <span class="icon is-small"><i class="fas fa-reply"></i></span>
-                                </a>
-                                <a class="level-item">
-                                <span class="icon is-small"><i class="fas fa-retweet"></i></span>
-                                </a>
-                                <a class="level-item">
-                                <span class="icon is-small"><i class="fas fa-heart"></i></span>
-                                </a>
-                            </div>
-                            </nav>
-                        </div>
-                        <div class="media-right">
-                            <span class="tag is-primary">Zadnje novice</span>
-                        </div>
-                    </article>
-                </div>
             </div>
         </div>
     </section>
-
-    <section class="section hero is-primary">
-        <div class="container">
-            <nav class="level">
-                <div class="level-item">
-                    <h2 class="title is-2">Poiščite psihoterapevta v svoji bližini.</h2>
-                </div>
-                <div class="level-item">
-                    <RouterLink class="button is-white is-rounded is-large" :to="{ name: 'members_view' }">Seznam članov</RouterLink>
-                </div>
-            </nav>
-        </div>
-    </section>
-
-    <GoogleMap/>
 
     <section class="section">
         <div class="container">
@@ -121,43 +91,51 @@
                 <div class="column">
                     <div class="columns is-vcentered is-mobile">
                         <div class="column">
-                            <figure class="is-pulled-right" style="max-width: 150px;">
+                            <figure class="is-pulled-right" style="max-width: 120px;">
                                 <a href="https://ecpp.ngo" target="_blank" rel="noopener noreferrer">
                                     <img src="@/assets/images/ecpp_logo.svg" alt="ECPP">
                                 </a>
                             </figure>
                         </div>
-                        <div class="column">Je strokovno združenje, ki predstavlja slovensko podružnico mednarodnega psihoanalitičnega psihoterapevtskega združenja ECPP.</div>
+                        <div class="column is-size-6">Je strokovno združenje, ki predstavlja slovensko podružnico mednarodnega psihoanalitičnega psihoterapevtskega združenja ECPP.</div>
                     </div>
                 </div>
                 <div class="column">
                     <div class="columns is-vcentered is-mobile">
                         <div class="column">
-                            <figure class="is-pulled-right" style="max-width: 125px;">
+                            <figure class="is-pulled-right" style="max-width: 100px;">
                                 <a href="https://www.skzp.si/" target="_blank" rel="noopener noreferrer">
                                     <img src="@/assets/images/skzp_logo.png" alt="SKZP">
                                 </a>
                             </figure>
                         </div>
-                        <div class="column">Je članica Slovenske krovne zveze za psihoterapijo, ki pod svojim okriljem združuje strokovna združenja različnih psihoterapevtskih pristopov v Sloveniji.</div>
+                        <div class="column is-size-6">Je članica Slovenske krovne zveze za psihoterapijo, ki pod svojim okriljem združuje strokovna združenja različnih psihoterapevtskih pristopov v Sloveniji.</div>
                     </div>
                 </div>
                 <div class="column">
                     <div class="columns is-vcentered is-mobile">
                         <div class="column">
-                            <figure class="is-pulled-right" style="max-width: 200px;">
+                            <figure class="is-pulled-right" style="max-width: 150px;">
                                 <a href="https://www.europsyche.org/" target="_blank" rel="noopener noreferrer">
                                     <img src="@/assets/images/eap_logo.png" alt="EAP">
                                 </a>
                             </figure>
                         </div>
-                        <div class="column">Evropska zveza za psihoterapijo je krovna evropska psihoterapevtska organizacija, katere članici sta tako SKZP kot ECPP in pod okriljem katere posredno deluje tudi EZPPS.</div>
+                        <div class="column is-size-6">Evropska zveza za psihoterapijo je krovna evropska psihoterapevtska organizacija, katere članici sta tako SKZP kot ECPP in pod okriljem katere posredno deluje tudi EZPPS.</div>
                     </div>
                 </div>
             </div>
         </div>
     </section>
 
+    <section class="section">
+        <div class="container has-text-centered">
+            <h3 class="title is-3 has-text-success">Stran je v izdelavi (oktober 2025)</h3>
+        </div>
+    </section>
+    
+    <!-- 
+    
     <hr/>
 
     <section class="section">
@@ -337,7 +315,7 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section> -->
 
 </template>
 
