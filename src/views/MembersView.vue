@@ -9,7 +9,7 @@
         <div class="container">
             <MembersList :members="members" @detail-member="memberDetail"/>
         </div>
-    </section>    
+    </section>
 </template>
 
 <script setup>
@@ -27,6 +27,6 @@
     })
 
     function memberDetail(member) {
-        router.push('/clani/' + member.id);
+        router.push({ name: 'member_details', params: { id: member.id } });
     }
 </script>

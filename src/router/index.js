@@ -17,6 +17,7 @@ import EventsView from '@/views/EventsView.vue'
 import ContactView from '@/views/ContactView.vue'
 import CookiesView from '@/views/CookiesView.vue'
 import MemberDetailsView from '@/views/MemberDetailsView.vue'
+import EventDetailsView from '@/views/EventDetailsView.vue'
 
 
 const router = createRouter({
@@ -98,6 +99,12 @@ const router = createRouter({
         path: '/dogodki',
         name: 'events_view',
         component: EventsView
+    },
+    {
+        path: '/dogodki/:id',
+        name: 'event_details',
+        component: EventDetailsView,
+        props: true
     },
     {
         path: '/kontakt',

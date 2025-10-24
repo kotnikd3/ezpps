@@ -7,7 +7,7 @@
 
     <section class="section">
         <div class="container">
-            Trenutno ni novih dogodkov.
+            <EventsList :events="events" @detail-event="eventDetail"/>
         </div>
     </section>
 
@@ -82,3 +82,23 @@
         </div>
     </section>
 </template>
+
+
+<script setup>
+    import { ref, onMounted } from "vue"
+    import { useRouter } from "vue-router"
+
+    import EventsList from "@/components/EventsList.vue"
+    import { getAll } from "@/services/eventsService.js"
+
+    const events = ref([])
+    const router = useRouter()
+
+    onMounted(async () => {
+        events.value = await getAll()
+    })
+
+    function eventDetail(event) {
+        router.push({ name: 'event_details', params: { id: event.id } });
+    }
+</script>

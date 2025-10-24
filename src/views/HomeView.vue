@@ -38,55 +38,6 @@
 
     <section class="section">
         <div class="container">
-            <div class="columns">
-                <div class="column">
-                    <h2 class="title is-2">Prihodnji dogodki</h2>
-                    <article class="media box">
-                        <figure class="media-left">
-                            <p class="image is-64x64">
-                            <img src="https://bulma.io/assets/images/placeholders/128x128.png" />
-                            </p>
-                        </figure>
-                        <div class="media-content">
-                            <div class="content">
-                                <!-- <p class="title is-4">18. 2. 2021</p> -->
-                                <p class="title is-5 is-spaced">
-                                    Predavanje SKZP: Zasvojenost s seksualnostjo in internetno pornografijo – 2.del, Peter Topić
-                                </p>
-                                <p class="subtitle">
-                                    <span class="tag is-primary is-large is-lighta">18. 2. 2021</span>
-                                </p>
-                                <p>
-                                    Seminar je oblikovan kot samostojna celota in je primeren tudi za tiste, ki se prvega dela niste udeležili.
-                                    <br/>
-                                    Zasvojenost je verjetno eden najbolj proučevanih in pojasnjevanih fenomenov, povezanih z duševnim zdravjem.
-                                </p>
-                            </div>
-                            <nav class="level is-mobile">
-                            <div class="level-left">
-                                <a class="level-item">
-                                <span class="icon is-small"><i class="fas fa-reply"></i></span>
-                                </a>
-                                <a class="level-item">
-                                <span class="icon is-small"><i class="fas fa-retweet"></i></span>
-                                </a>
-                                <a class="level-item">
-                                <span class="icon is-small"><i class="fas fa-heart"></i></span>
-                                </a>
-                            </div>
-                            </nav>
-                        </div>
-                        <div class="media-right">
-                            
-                        </div>
-                    </article>
-                </div>
-            </div>
-        </div>
-    </section>
-
-    <section class="section">
-        <div class="container">
             <div class="columns is-desktop is-vcentered">
                 <div class="column">
                     <div class="columns is-vcentered is-mobile">
@@ -125,12 +76,6 @@
                     </div>
                 </div>
             </div>
-        </div>
-    </section>
-
-    <section class="section">
-        <div class="container has-text-centered">
-            <h3 class="title is-3 has-text-success">Stran je v izdelavi (oktober 2025)</h3>
         </div>
     </section>
 </template>
