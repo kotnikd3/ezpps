@@ -1,7 +1,19 @@
 <template>
     <section class="section">
         <div class="container">
-            <h2 class="title is-2">Dogodki</h2>
+            <h2 class="title is-2">Aktualni dogodki</h2>
+        </div>
+    </section>
+
+    <section class="section">
+        <div class="container">
+            Trenutno ni aktualnih dogodkov.
+        </div>
+    </section>
+
+    <section class="section">
+        <div class="container">
+            <h2 class="title is-2">Pretekli dogodki</h2>
         </div>
     </section>
 

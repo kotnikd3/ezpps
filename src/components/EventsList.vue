@@ -1,49 +1,34 @@
 <template>
     <div>
-        <section class="section">
-            <div class="container has-text-centered">
-                <h3 class="title is-3 has-text-success">Stran je v izdelavi (oktober 2025)</h3>
-            </div>
-        </section>
-        <div class="columns is-multiline">
-            <article
+        <div class="list has-hoverable-list-items has-visible-pointer-controls">
+            <a 
                 v-for="event in events" 
-                :key="event.id" 
-                class="media box"
-                @click.stop="$emit('detail-event', event)"
+                :key="event.title" 
+                class="list-item"
+                :href="event.redirect_to"
+                target="_blank" 
+                rel="noopener noreferrer"
             >
-                <figure class="media-left">
-                    <p class="image is-64x64">
-                    <img src="https://bulma.io/assets/images/placeholders/128x128.png" />
-                    </p>
-                </figure>
-                <div class="media-content">
-                    <div class="content">
-                        <h5 class="title is-5" v-text="event.title"></h5>
+                <div class="list-item-image">
+                    <figure class="image" style="max-width: 200px;">
+                        <img v-if="event?.image_name" :src="`/images/events/${event.image_name}`" :alt="event?.title">
+                        <img v-else src="@/assets/images/home_for_members.jpg" :alt="event?.title"/>
+                    </figure>
+                </div>
 
-                        <p class="subtitle">
-                            <span class="tag is-primary is-large is-light" v-text="event.datetime"></span>
-                        </p>
-                        <p v-text="event.content"></p>
+                <div class="list-item-content">
+                    <h1 class="title">{{ truncate(event?.title) }}</h1>
+
+                    <div class="subtitle">
+                        <div class="tags has-addons">
+                            <span class="tag is-primary is-medium" v-text="event?.datetime"></span>
+                        </div>
                     </div>
-                    <nav class="level is-mobile">
-                    <div class="level-left">
-                        <a class="level-item">
-                        <span class="icon is-small"><i class="fas fa-reply"></i></span>
-                        </a>
-                        <a class="level-item">
-                        <span class="icon is-small"><i class="fas fa-retweet"></i></span>
-                        </a>
-                        <a class="level-item">
-                        <span class="icon is-small"><i class="fas fa-heart"></i></span>
-                        </a>
-                    </div>
-                    </nav>
-                </div>
-                <div class="media-right">
                     
+
+                    <div class="list-item-description">{{ truncate(event.content) }}</div>
                 </div>
-            </article>
+            </a>
         </div>
     </div>
 </template>
@@ -55,4 +40,22 @@
             required: true
         }
     })
+
+    function truncate(text, length = 200) {
+        if (!text) return ''
+        return text.length > length ? text.slice(0, length).trimEnd() + ' ...' : text
+    }
 </script>
+
+<style scoped>
+    .list-item {
+        display: flex;
+        cursor: pointer;
+        transition: transform 0.3s ease, box-shadow 0.3s ease;
+    }
+
+    .list-item:hover {
+        transform: scale(1.03);
+        box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.15);
+    }
+</style>

@@ -1,5 +1,8 @@
 import '@/assets/style.scss'
 
+// Bulma list
+import 'bulma-list/css/bulma-list.css'
+
 // FontAwesome
 import { library } from '@fortawesome/fontawesome-svg-core'
 import { FontAwesomeIcon } from '@fortawesome/vue-fontawesome'
