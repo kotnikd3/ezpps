@@ -1,13 +1,15 @@
-// static service that reads from the JSON file
-const DATA_URL = "/data/members.json"
+import membersData from '@/assets/data/members.json'
 
-let cache = null // keep data in memory so we don’t refetch unnecessarily
+
+let cache = null
 let byIdIndex = null
+
 
 async function fetchData() {
     if (cache) return cache
-    const res = await fetch(DATA_URL)
-    cache = await res.json()
+
+    // Clone so we don’t mutate the imported module
+    cache = [...membersData]
 
     // Sort by surname (last word in the name)
     cache.sort((a, b) => {
@@ -17,9 +19,7 @@ async function fetchData() {
     })
 
     // Build a lookup map for O(1) average search
-    byIdIndex = new Map(
-        cache.map(t => [t.id, t])
-    )
+    byIdIndex = new Map(cache.map(t => [t.id, t]))
 
     return cache
 }

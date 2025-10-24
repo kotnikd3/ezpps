@@ -164,7 +164,7 @@
                         </div>
                         <div class="field has-text-centered">
                             <div class="control">
-                                <button class="button is-outlined is-primary">Pošlji</button>
+                                <button class="button is-outlined is-primary" disabled>Pošlji</button>
                             </div>
                         </div>
                     </form>
