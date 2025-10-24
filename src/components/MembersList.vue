@@ -9,8 +9,8 @@
             <div class="card is-size-6">
                 <div class="card-image">
                     <figure class="image">
-                        <img v-if="member.image_name" :src="`/static/members/${member.image_name}`" :alt="member.name" />
-                        <img v-else src="/static/member-placeholder.svg" :alt="member.name" />
+                        <img v-if="member.image_name" :src="`/images/members/${member.image_name}`" :alt="member.name" />
+                        <img v-else src="@/assets/images/member-placeholder.svg" :alt="member.name" />
                     </figure>
                 </div>
                 <div class="card-content">

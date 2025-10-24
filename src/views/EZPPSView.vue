@@ -11,7 +11,7 @@
                 Evropsko združenje psihoanalitičnih pristopov – Slovenija (EZPPS) je prostovoljno, samostojno, nepridobitno združenje psihoterapevtov in edukantov, ki delujejo na področju psihoanalitično usmerjenih pristopov (psihoanaliza, psihodinamska psihoterapija, razvojno analitična psihoterapija). EZPPS sodeluje tudi z drugimi organizacijami v Republiki Sloveniji ter z mednarodnimi organizacijami, ki se strokovno, znanstveno in raziskovalno ukvarjajo s psihoterapijo.
             </div>
             <div class="block">
-                Njegovo pomembno področje je tudi skrb za izpolnjevanje etičnih in moralnih načel stroke (v skladu z <a href="./static/Eticni-kodeks-EZPPS.pdf" target="_blank" rel="noopener noreferrer">etičnim kodeksom</a>) ter spodbujanje članov h kontinuiranemu strokovnemu izpopolnjevanju.
+                Njegovo pomembno področje je tudi skrb za izpolnjevanje etičnih in moralnih načel stroke (v skladu z <a href="./documents/Eticni-kodeks-EZPPS.pdf" target="_blank" rel="noopener noreferrer">etičnim kodeksom</a>) ter spodbujanje članov h kontinuiranemu strokovnemu izpopolnjevanju.
             </div>
             <div class="block">
                 Društvo deluje v javnem interesu tako, da organizira okrogle mize, konference, predavanja, seminarje, izobraževalne programe in druge javne dogodke, ki pripomorejo k večji ozaveščenosti o pomenu duševnega zdravja in vlogi psihoterapije v njem.

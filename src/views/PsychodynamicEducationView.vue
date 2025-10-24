@@ -9,7 +9,7 @@
         <div class="container">
             <div class="columns is-vcentered">
                 <div class="column has-text-centered">
-                    <figure class="is-inline-block" style="width: 80%;">
+                    <figure class="image is-inline-block" style="width: 80%;">
                         <img src="@/assets/images/psihodinamsko_izobrazevanje.png" alt="psihoanaliza">
                     </figure>
                 </div>

@@ -3,8 +3,8 @@
         <div class="hero-body has-text-centered">
             <!-- Profile Image -->
             <figure class="image is-inline-block mb-4">
-                <img v-if="member?.image_name" :src="`/static/members/${member?.image_name}`" :alt="member?.name"/>
-                <img v-else src="/static/member-placeholder.svg" :alt="member?.name"/>
+                <img v-if="member?.image_name" :src="`/images/members/${member?.image_name}`" :alt="member?.name"/>
+                <img v-else src="@/assets/images/member-placeholder.svg" :alt="member?.name"/>
             </figure>
     
             <!-- Name and Title -->

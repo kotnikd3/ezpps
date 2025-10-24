@@ -64,7 +64,7 @@
                 <div class="column">
                     <div class="columns">
                         <div class="column has-text-centered">
-                            <figure class="is-inline-block" style="width: 80%;">
+                            <figure class="image is-inline-block" style="width: 80%;">
                                 <img src="@/assets/images/urska_battelino.jpg" alt="psihoanaliza">
                             </figure>
                         </div>
@@ -83,7 +83,7 @@
                 <div class="column">
                     <div class="columns">
                         <div class="column has-text-centered">
-                            <figure class="is-inline-block" style="width: 80%;">
+                            <figure class="image is-inline-block" style="width: 80%;">
                                 <img src="@/assets/images/saga_l_skerlep.jpg" alt="psihoanaliza">
                             </figure>
                         </div>

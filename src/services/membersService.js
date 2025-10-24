@@ -1,5 +1,5 @@
 // static service that reads from the JSON file
-const DATA_URL = "/static/members.json"
+const DATA_URL = "/data/members.json"
 
 let cache = null // keep data in memory so we don’t refetch unnecessarily
 let byIdIndex = null
