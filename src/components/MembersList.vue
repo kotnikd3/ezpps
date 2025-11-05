@@ -19,11 +19,11 @@
                     <h6 class="subtitle is-6" v-text="member.title"></h6>
 
                     <!-- Location -->
-                    <div v-if="member.location.city" class="icon-text">
+                    <div v-if="member.locations" class="icon-text">
                         <span class="icon">
                             <font-awesome-icon icon="fa-solid fa-location-dot" />
                         </span>
-                        <span v-text="member.location.city"></span>
+                        <span>{{ formatLocations(member?.locations) }}</span>
                     </div>
 
                     <!-- Email -->
@@ -62,6 +62,12 @@
             required: true
         }
     })
+
+    function formatLocations(locations) {
+        if (!Array.isArray(locations) || locations.length === 0) return "";
+        
+        return locations.map(loc => loc.city).join(", ");
+    }
 </script>
 
 <style scoped>

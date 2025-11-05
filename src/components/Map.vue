@@ -1,37 +1,33 @@
 <script setup>
-    import { GoogleMap, AdvancedMarker } from 'vue3-google-map'
-    import { h } from "vue";
+    import { GoogleMap, AdvancedMarker, InfoWindow } from 'vue3-google-map'
+    import { computed } from "vue";
+    import { useRouter } from "vue-router"
 
-    defineProps({
+    const router = useRouter()
+
+    const props = defineProps({
         members: {
             type: Array,
             required: true
         }
     })
 
-    const markerOptions = { position: { lat: 46.05545708518671, lng: 14.51710608061008 } }
-    const pinOptions = { scale: 1, glyphColor: "#7a7a7a", borderColor: "#7a7a7a", background: "#15489f"}
-    
-    // Create a custom HTML element for the marker
-    const markerContent = h(
-        "div",
-        {
-            style: `
-                background-color: #4CAF50;
-                color: white;
-                padding: 6px 10px;
-                border-radius: 8px;
-                font-weight: bold;
-                box-shadow: 0 2px 6px rgba(0,0,0,0.3);
-            `,
-        },
-        "Slovenia"
-    );
+    // Filter members that have at least one valid location with lat/lng
+    const membersWithLocations = computed(() =>
+        props.members.filter(member =>
+            member.locations?.some(
+                loc => loc.latitude && loc.longitude && loc.show_on_map
+            )
+        )
+    )
+
+    function memberDetail(member) {
+        router.push({ name: 'member_details', params: { id: member.id } });
+    }
 
 </script>
 
 <template>
-    <!-- :center=Kisovec -->
     <GoogleMap
         api-key="AIzaSyBa-1KEJ1_4f01Xn91Lm3vhMhVKA4tqivU"
         map-id="4a20de915841a1928d90aa13"
@@ -41,7 +37,28 @@
         :street-view-control="false"
         :map-type-control="false"
     >
-        <AdvancedMarker :options="markerOptions" :pin-options="pinOptions">
-        </AdvancedMarker>
+        <div v-for="member in membersWithLocations" :key="member.id">
+            <AdvancedMarker
+                v-for="(loc, i) in member.locations"
+                :key="`${member.id}-${i}`"
+                :options="{ position: { lat: loc.latitude, lng: loc.longitude } }"
+                :pin-options="{ scale: 1, glyphColor: '#7a7a7a', borderColor: '#7a7a7a', background: '#15489f'}"
+            >
+                <InfoWindow>
+                    <div id="content" style="max-width: 200px;">
+                        <a class="has-text-primary is-size-6 has-text-weight-bold" @click="memberDetail(member)">
+                            {{ member.name }}
+                        </a>
+                        <p>
+                            {{ member.title }}
+                        </p>
+
+                        <p v-if="loc.approx" class="has-text-grey pt-2 has-text-weight-light is-italic">
+                            *Zaradi varovanja zasebnosti je prikazana zgolj približna lokacija.
+                        </p>
+                    </div>
+                </InfoWindow>
+            </AdvancedMarker>
+        </div>
     </GoogleMap>
 </template>
