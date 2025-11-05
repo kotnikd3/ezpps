@@ -32,7 +32,7 @@
             </div>
         </div>
         <div class="container">
-            <GoogleMap/>
+            <GoogleMap :members="members"/>
         </div>
     </section>
 
@@ -81,5 +81,15 @@
 </template>
 
 <script setup>
+    import { ref, onMounted } from "vue"
     import GoogleMap from "@/components/Map.vue"
+    import { getAll } from "@/services/membersService.js"
+
+    const members = ref([])
+
+    onMounted(async () => {
+        members.value = await getAll()
+    })
+
+
 </script>

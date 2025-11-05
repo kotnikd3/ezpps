@@ -2,6 +2,13 @@
     import { GoogleMap, AdvancedMarker } from 'vue3-google-map'
     import { h } from "vue";
 
+    defineProps({
+        members: {
+            type: Array,
+            required: true
+        }
+    })
+
     const markerOptions = { position: { lat: 46.05545708518671, lng: 14.51710608061008 } }
     const pinOptions = { scale: 1, glyphColor: "#7a7a7a", borderColor: "#7a7a7a", background: "#15489f"}
     
@@ -10,15 +17,15 @@
         "div",
         {
             style: `
-            background-color: #4CAF50;
-            color: white;
-            padding: 6px 10px;
-            border-radius: 8px;
-            font-weight: bold;
-            box-shadow: 0 2px 6px rgba(0,0,0,0.3);
+                background-color: #4CAF50;
+                color: white;
+                padding: 6px 10px;
+                border-radius: 8px;
+                font-weight: bold;
+                box-shadow: 0 2px 6px rgba(0,0,0,0.3);
             `,
         },
-        "Slovenia 🇸🇮"
+        "Slovenia"
     );
 
 </script>

@@ -1,5 +1,22 @@
 [
     {
+        "name": "Karmen Henigsman",
+        "title": "Psihodinamska psihoterapija (specializantka)",
+        "image_source": null,
+        "website": "https://karmenhenigsman.si",
+        "location": {
+        "city": "Ljubljana",
+        "address": null,
+        "latitude": null,
+        "longitude": null
+        },
+        "email": "psihoterapija@karmenhenigsman.si",
+        "phone": "+386 (0)68 691 127",
+        "show_on_map": false,
+        "id": "karmen-henigsman",
+        "image_name": "karmen-henigsman.jpg"
+    },
+    {
     "name": "Maša Pupaher",
     "title": "Psihoanalitična psihoterapija (specializantka pod supervizijo)",
     "image_source": null,
