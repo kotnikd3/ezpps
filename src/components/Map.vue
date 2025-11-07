@@ -1,4 +1,5 @@
 <script setup>
+    import { GOOGLE_MAPS_API_KEY, GOOGLE_MAPS_MAP_ID } from '@/services/constants';
     import { GoogleMap, AdvancedMarker, InfoWindow } from 'vue3-google-map'
     import { computed } from "vue";
     import { useRouter } from "vue-router"
@@ -29,8 +30,8 @@
 
 <template>
     <GoogleMap
-        api-key="AIzaSyBa-1KEJ1_4f01Xn91Lm3vhMhVKA4tqivU"
-        map-id="4a20de915841a1928d90aa13"
+        :api-key="`${GOOGLE_MAPS_API_KEY}`"
+        :map-id="`${GOOGLE_MAPS_MAP_ID}`"
         style="width: 100%; height: 700px"
         :center="{ lat: 46.1397336676993, lng: 14.962530069374042 }"
         :zoom="8.8"
