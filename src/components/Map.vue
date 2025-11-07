@@ -36,6 +36,7 @@
         :zoom="8.8"
         :street-view-control="false"
         :map-type-control="false"
+        :clickable-icons="false"
     >
         <div v-for="member in membersWithLocations" :key="member.id">
             <AdvancedMarker
