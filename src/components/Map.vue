@@ -54,7 +54,6 @@
                         <p>
                             {{ member.title }}
                         </p>
-
                         <p v-if="loc.approx" class="has-text-grey pt-2 has-text-weight-light is-italic">
                             *Zaradi varovanja zasebnosti je prikazana zgolj približna lokacija.
                         </p>

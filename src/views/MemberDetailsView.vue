@@ -14,7 +14,7 @@
             <div class="contact-list is-size-4 mt-6">
                 
                 <!-- Location -->
-                <div v-if="member?.locations" class="icon-text">
+                <div v-if="member?.locations && member.locations.length > 0" class="icon-text">
                     <span class="icon">
                         <font-awesome-icon icon="fa-solid fa-location-dot" />
                     </span>

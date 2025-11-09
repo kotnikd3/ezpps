@@ -3,13 +3,13 @@
         <div class="list has-hoverable-list-items has-visible-pointer-controls">
             <a 
                 v-for="event in events" 
-                :key="event.title" 
+                :key="event.title"
                 class="list-item"
                 :href="event.redirect_to"
                 target="_blank" 
                 rel="noopener noreferrer"
             >
-                <div class="list-item-image">
+                <div class="list-item-image is-hidden-mobile">
                     <figure class="image" style="max-width: 200px;">
                         <img v-if="event?.image_name" :src="`/images/events/${event.image_name}`" :alt="event?.title">
                         <img v-else src="@/assets/images/home_for_members.jpg" :alt="event?.title"/>
@@ -17,15 +17,12 @@
                 </div>
 
                 <div class="list-item-content">
-                    <h1 class="title">{{ truncate(event?.title) }}</h1>
+                    <h1 class="title is-4">{{ truncate(event?.title) }}</h1>
 
-                    <div class="subtitle">
-                        <div class="tags has-addons">
-                            <span class="tag is-primary is-medium" v-text="event?.datetime"></span>
-                        </div>
+                    <div class="subtitle is-4 has-text-primary">
+                        {{ event?.datetime }}
                     </div>
                     
-
                     <div class="list-item-description">{{ truncate(event.content) }}</div>
                 </div>
             </a>
