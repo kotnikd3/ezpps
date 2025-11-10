@@ -69,7 +69,7 @@
                             </figure>
                         </div>
                         <div class="column is-size-4">
-                            <h3 class="title is-3">Dr. Urška Battelino</h3>
+                            <h3 class="title is-3 has-text-primary">Dr. Urška Battelino</h3>
                             <h3 class="subtitle is-5">Predsednica društva</h3>
                             <a href="mailto:ubattelino@gmail.com" class="block icon-text">
                                 <span class="icon">
@@ -88,7 +88,7 @@
                             </figure>
                         </div>
                         <div class="column is-size-4">
-                            <h3 class="title is-3">Saga L. Škerlep</h3>
+                            <h3 class="title is-3 has-text-primary">Saga L. Škerlep</h3>
                             <h3 class="subtitle is-5">Tajnica društva</h3>
                             <a href="mailto:saga.skerlep@ezpps.org" class="block icon-text">
                                 <span class="icon">
