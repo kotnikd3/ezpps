@@ -5,7 +5,7 @@
 ///////////////////////////////////////
 
 // Load everything
-@use 'bulma/css/bulma.css'; 
+// @use 'bulma/css/bulma.css';
 
 // Override global Sass variables from the /utilities folder
 @use "bulma/sass/utilities" with(
@@ -19,16 +19,12 @@
 
 // Elements
 @use "bulma/sass/elements/title";
-@use "bulma/sass/elements/button" with(
-    $button-ghost-background: $color-orange-3,
-    $button-ghost-color: white,
-    $button-ghost-hover-color: white,
-);
+@use "bulma/sass/elements/button";
 @use "bulma/sass/elements/icon";
 @use "bulma/sass/elements/content";
 @use "bulma/sass/elements/block";
-@use "bulma/sass/elements/notification";
-@use "bulma/sass/elements/delete";
+@use "bulma/sass/elements/box";
+@use "bulma/sass/elements/image";
 
 // Grid
 @use "bulma/sass/grid/columns";
@@ -40,6 +36,7 @@
 @use "bulma/sass/components/card" with (
     $card-content-padding: 0.7rem
 );
+@use "bulma/sass/components/message";
 
 // Form
 @use "bulma/sass/form/input-textarea";
@@ -50,6 +47,9 @@
 @use "bulma/sass/helpers/flexbox";
 @use "bulma/sass/helpers/spacing";
 @use "bulma/sass/helpers/typography";
+@use "bulma/sass/helpers/other";
+@use "bulma/sass/helpers/float";
+@use "bulma/sass/helpers/visibility";
 
 // Layout
 @use "bulma/sass/layout/section";

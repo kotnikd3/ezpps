@@ -71,7 +71,7 @@
 </script>
 
 <style scoped>
-.member-photo {
+    .member-photo {
         max-width: 280px;
     }
     
