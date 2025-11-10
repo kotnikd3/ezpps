@@ -8,7 +8,7 @@
                     </div>
                     <div class="column">
                         <div class="is-size-4 is-size-5-mobile">
-                            Je društvo, ki združuje slovenske psihoterapevte in psihoterapevtke, katerih psihoterapevtsko delo v osnovi temelji na psihoanalitičnih principih umevanja človeške duševnosti.
+                            Društvo, ki združuje slovenske psihoterapevte in psihoterapevtke, katerih delo temelji na psihoanalitičnih principih razumevanja človekove duševnosti.
                         </div>
                     </div>
                 </div>

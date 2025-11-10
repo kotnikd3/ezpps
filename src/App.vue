@@ -78,7 +78,7 @@
                                 <span class="icon">
                                     <font-awesome-icon icon="fa-solid fa-phone" />
                                 </span>
-                                <span>(+386) 031 833 621</span>
+                                <span>+386 (0)31 833 621</span>
                             </a>
                         </li>
                         <li>
