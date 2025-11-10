@@ -9,13 +9,13 @@
             <div class="card is-size-6">
                 <div class="card-image">
                     <figure class="image">
-                        <img v-if="member.image_name" :src="`/images/members/${member.image_name}`" :alt="member.name"/>
-                        <img v-else src="@/assets/images/member-placeholder.svg" :alt="member.name" />
+                        <img v-if="member.image_name" :src="`/images/members/${member.image_name}`" :alt="member.name" class="member-photo"/>
+                        <img v-else src="@/assets/images/member-placeholder.svg" :alt="member.name" class="member-photo"/>
                     </figure>
                 </div>
                 <div class="card-content">
                     <!-- Name and Title -->
-                    <h5 class="title is-5" v-text="member.name"></h5>
+                    <h5 class="title is-5 has-text-primary" v-text="member.name"></h5>
                     <h6 class="subtitle is-6" v-text="member.title"></h6>
 
                     <!-- Location -->
@@ -27,28 +27,28 @@
                     </div>
 
                     <!-- Email -->
-                    <a v-if="member.email" :href="`mailto:${member.email}`" class="icon-text">
+                    <div v-if="member.email" class="icon-text">
                         <span class="icon">
                             <font-awesome-icon icon="fa-regular fa-envelope" />
                         </span>
                         <span v-text="member.email"></span>
-                    </a>
+                    </div>
 
                     <!-- Phone -->
-                    <a v-if="member.phone" :href="`tel:${member.phone}`" class="icon-text">
+                    <div v-if="member.phone" class="icon-text">
                         <span class="icon">
                             <font-awesome-icon icon="fa-solid fa-phone" />
                         </span>
                         <span v-text="member.phone"></span>
-                    </a>
+                    </div>
 
                     <!-- Website -->
-                    <a v-if="member.website" :href="member.website" class="icon-text" target="_blank" rel="noopener noreferrer">
+                    <div v-if="member.website" class="icon-text">
                         <span class="icon">
                             <font-awesome-icon icon="fa-solid fa-globe" />
                         </span>
                         <span v-text="member.website"></span>
-                    </a>
+                    </div>
                 </div>
             </div>
         </div>
@@ -71,12 +71,28 @@
 </script>
 
 <style scoped>
+.member-photo {
+        max-width: 280px;
+    }
+    
+    div.icon-text {
+        margin-top: 5px;
+        display: flex;
+        align-items: flex-start;
+        word-break: break-all;
+        overflow-wrap: break-word;
+    }
+
+    div.icon-text span:last-child {
+        flex: 1;
+    }
+
     .list-item {
         display: flex;
     }
 
     .list-item .card {
-        flex: 1; /* makes card fill the column height */
+        flex: 1;
         display: flex;
         flex-direction: column;
         transition: transform 0.3s ease, box-shadow 0.3s ease;
@@ -86,24 +102,5 @@
     .list-item:hover .card {
         transform: scale(1.03);
         box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.15);
-    }
-    
-    /* Wrap text */
-    a.icon-text {
-        margin-top: 5px;
-        display: flex;
-        align-items: flex-start;
-        word-break: break-all;
-        overflow-wrap: break-word;
-        line-height: 1.0;
-    }
-
-    a.icon-text .icon {
-        flex-shrink: 0;
-        margin-top: 0.125rem; /* Aligns icon with first line of text */
-    }
-
-    a.icon-text span:last-child {
-        flex: 1;
     }
 </style>
