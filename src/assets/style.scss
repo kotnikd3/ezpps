@@ -53,6 +53,7 @@
 
 // Layout
 @use "bulma/sass/layout/section";
+@use "bulma/sass/layout/level";
 @use "bulma/sass/layout/footer" with (
     $footer-background-color: $color-blue-select,
     $footer-padding: 32px,
