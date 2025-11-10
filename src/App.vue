@@ -195,10 +195,8 @@ export default {
     @use '@/assets/variables.scss' as *;
 
     .navbar-end .navbar-item.router-link-exact-active {
-        /* color: red; */
         background-color: $color-blue-select;
     }
-
     // Fix when user click on navbar-item, so that dropdown menu closes
     .navbar-item.is-hoverable:hover .navbar-dropdown {
         display: block !important;
@@ -206,7 +204,13 @@ export default {
     .navbar-item.is-hoverable:focus-within .navbar-dropdown {
         display: none;
     }
+    
     .plain-link {
-        color: inherit;            /* take parent’s text color */
+        // Take parent’s text color
+        color: inherit;
+    }
+
+    .footer {
+        font-size: 16px;
     }
 </style>

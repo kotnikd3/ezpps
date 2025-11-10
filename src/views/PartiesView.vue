@@ -40,7 +40,7 @@
                         Sestaja se po potrebi, na podlagi pisnih zahtev članov ali organov društva, v primeru pritožb pacientov ali njihovih svojcev ali drugih zainteresiranih predlagateljev postopka.
                     </div>
                     <div class="block">
-                        Podlaga za delovanje je <a href="./documents/Eticni-kodeks-EZPPS.pdf" target="_blank" rel="noopener noreferrer">Etični kodeks EZPPS</a>.
+                        Podlaga za delovanje je <a href="./dokumenti/Eticni-kodeks-EZPPS.pdf" target="_blank" rel="noopener noreferrer">Etični kodeks EZPPS</a>.
                     </div>
                     <div class="block">
                         Častno razsodišče je avtonomno v svojih odločitvah in o svojem delu poroča Strokovnemu svetu EZPPS in Skupščini enkrat letno.

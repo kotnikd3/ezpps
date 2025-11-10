@@ -55,7 +55,6 @@
 @use "bulma/sass/layout/section";
 @use "bulma/sass/layout/footer" with (
     $footer-background-color: $color-blue-select,
-    // $footer-color: red,
     $footer-padding: 32px,
 );
 @use "bulma/sass/layout/container";
@@ -85,15 +84,6 @@ body {
     font-size: 18px;
 }
 
-// All <a> elements within .main-section with href attribute but without .button and .icon.text. classes.
-.main-section a[href]:not(.button, .icon-text) {
-    text-decoration: underline;
-}
-
 .image img {
     border-radius: 1.5rem;
-}
-
-.footer {
-    font-size: 16px;
 }

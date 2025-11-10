@@ -66,8 +66,8 @@
                     <h3 class="title is-3">Kdor želi postati redni ali izredni član društva, mora Strokovnemu svetu predložiti:</h3>
                     <div class="content">
                         <ul>
-                            <li><a href="./documents/EZPPS-Pristopna-izjava.pdf" target="_blank" rel="noopener noreferrer">pristopno izjavo</a></li>
-                            <li>izjavo o spoštovanju <a href="./documents/Eticni-kodeks-EZPPS.pdf" target="_blank" rel="noopener noreferrer">Etičnega kodeksa EZPPS (sovpadajočega s kodeksoma ECPP in SKZP)</a></li>
+                            <li><a href="./dokumenti/EZPPS-Pristopna-izjava.pdf" target="_blank" rel="noopener noreferrer">pristopno izjavo</a></li>
+                            <li>izjavo o spoštovanju <a href="./dokumenti/Eticni-kodeks-EZPPS.pdf" target="_blank" rel="noopener noreferrer">Etičnega kodeksa EZPPS (sovpadajočega s kodeksoma ECPP in SKZP)</a></li>
                             <li>kopijo certifikata ECPP ALI ustrezna dokazila o sorodni strokovni usposobljenosti iz psihoanalitično usmerjenega psihoterapevtskega pristopa (o ustreznosti dokazil in sorodnosti strokovne usposobljenosti odloča Strokovni svet društva) oziroma v primeru kandidature za izredno članstvo potrdilo mentorja o dovoljenju za začetek psihoterapevtskega dela pod supervizijo ALI aktualno kopijo pogodbe o vključenosti v psihoterapevtski študij, če je posameznik študent/edukant psihoanalitično usmerjenega psihoterapevtskega pristopa</li>
                         </ul>
                     </div>
@@ -109,7 +109,7 @@
                             Redni in izredni člani društva plačujejo članarino. Članarina se plačuje letno. Višino članarine določi Skupščina. Članarino vplačajo člani najkasneje do konca meseca marca za tekoče leto oziroma ob včlanitvi v društvo za tekoče leto. Način plačevanja članarine določi Strokovni svet društva.
                         </div>
                         <div class="block">
-                            Pogoji, našteti na tej strani, so navedeni v <a href="./documents/STATUT-EZPPS-sprejet-na-redni-seji-skupscine-dne-23.10.2020.pdf" target="_blank" rel="noopener noreferrer">Statutu društva</a>.
+                            Pogoji, našteti na tej strani, so navedeni v <a href="./dokumenti/STATUT-EZPPS-sprejet-na-redni-seji-skupscine-dne-23.10.2020.pdf" target="_blank" rel="noopener noreferrer">Statutu društva</a>.
                         </div>
                     </div>
                 </div>
