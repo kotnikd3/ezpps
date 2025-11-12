@@ -19,6 +19,9 @@
                             <li>Certifikat ECPP za supervizorja</li>
                         </ol>
                     </div>
+                    <div class="block">
+                        Več o pogojih si preberite v <a href="./dokumenti/Normativi-EZPPS-za-pridobitev-certifikata-ECPP_pop.pdf" target="_blank" rel="noopener noreferrer">normativih EZPPS za pridobitev certifikata ECPP</a>.
+                    </div>
                 </div>
                 <div class="column">
                     <div class="message">
