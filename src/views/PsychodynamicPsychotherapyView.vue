@@ -16,14 +16,17 @@
                 </div>
                 <div class="column has-text-centered">
                     <figure class="image is-inline-block" style="width: 80%;">
-                        <img src="@/assets/images/psihodinamska_psihoterapija.jpg" alt="psihoanaliza">
+                        <img src="@/assets/images/salvador_dali_the_persistence_of_memory.webp" alt="psihoterapija">
+                        <figcaption><i>Salvador Dalí: Vztrajnost spomina</i></figcaption>
                     </figure>
                 </div>
             </div>
         </div>
     </section>
 
-    <hr>
+    <div class="container">
+        <hr>
+    </div>
 
     <section class="section">
         <div class="container">
@@ -36,7 +39,9 @@
         </div>
     </section>
 
-    <hr>
+    <div class="container">
+        <hr>
+    </div>
     
     <section class="section">
         <div class="container">

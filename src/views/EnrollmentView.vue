@@ -7,27 +7,18 @@
 
     <section class="section">
         <div class="container">
-            <div class="columns is-vcentered">
-                <div class="column has-text-centered">
-                    <figure class="image">
-                        <img src="@/assets/images/clanstvo.jpg" alt="ECPP">
-                    </figure>
-                </div>
-                <div class="column">
-                    <h3 class="title is-3">Član društva</h3>
-                    <div class="block">
-                        Lahko postane vsak, ki se ukvarja s psihoterapevtsko dejavnostjo na podlagi strokovne usposobljenosti v okviru psihoanalitičnega psihoterapevtskega pristopa.
-                    </div>
-                    <div class="block">
-                        Članstvo v društvu je obvezno za vse psihoterapevte in specializante psihoterapije, ko začnejo s psihoterapevtskim delom pod supervizijo – če izobraževalno telo posameznega psihoterapevtskega pristopa to postavi kot pogoj za vključitev v psihoterapevtsko izobraževanje – ali najkasneje ob prijavi za pridobitev certifikata ECPP.
-                    </div>
-                    <div class="block">
-                        Član društva lahko postane pod enakimi pogoji tudi tuj državljan, če ima urejeno redno bivališče na območju Republike Slovenije.
-                    </div>
-                    <div class="block">
-                        Društvo ima redne, izredne in častne člane.
-                    </div>
-                </div>
+            <h3 class="title is-3">Član društva</h3>
+            <div class="block">
+                Lahko postane vsak, ki se ukvarja s psihoterapevtsko dejavnostjo na podlagi strokovne usposobljenosti v okviru psihoanalitičnega psihoterapevtskega pristopa.
+            </div>
+            <div class="block">
+                Članstvo v društvu je obvezno za vse psihoterapevte in specializante psihoterapije, ko začnejo s psihoterapevtskim delom pod supervizijo – če izobraževalno telo posameznega psihoterapevtskega pristopa to postavi kot pogoj za vključitev v psihoterapevtsko izobraževanje – ali najkasneje ob prijavi za pridobitev certifikata ECPP.
+            </div>
+            <div class="block">
+                Član društva lahko postane pod enakimi pogoji tudi tuj državljan, če ima urejeno redno bivališče na območju Republike Slovenije.
+            </div>
+            <div class="block">
+                Društvo ima redne, izredne in častne člane.
             </div>
         </div>
     </section>

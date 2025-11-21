@@ -9,8 +9,8 @@
         <div class="container">
             <div class="columns is-vcentered">
                 <div class="column has-text-centered">
-                    <figure class="image is-inline-block" style="width: 80%;">
-                        <img src="@/assets/images/psihoanaliza_studij.png" alt="psihoanaliza">
+                    <figure class="image is-inline-block" style="width: 50%;">
+                        <img src="@/assets/images/sfu_ljubljana_logo.png" alt="psihoanaliza">
                     </figure>
                 </div>
                 <div class="column">

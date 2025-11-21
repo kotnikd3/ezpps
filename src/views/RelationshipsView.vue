@@ -29,7 +29,9 @@
             </div>
         </div>
     </section>
-    <hr>
+    <div class="container">
+        <hr>
+    </div>
     <section class="section">
         <div class="container">
             <div class="columns is-vcentered">
@@ -56,7 +58,9 @@
             </div>
         </div>
     </section>
-    <hr>
+    <div class="container">
+        <hr>
+    </div>
     <section class="section">
         <div class="container">
             <div class="columns is-vcentered">

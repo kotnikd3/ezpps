@@ -14,6 +14,10 @@ Dodatno:
 V DNS strežnik nove domene se vnese google-verification značko:
 <meta name="google-site-verification" content="83ZDZCiDB0wX_qhzAhorrqy6QYJnT8_udmymHrujKlU"/>
 
+- Daj sliko iz podstrani Včlanitev stran.
+- Slike iz vseh podstrani O psihoterapiji daj vse ven oz. jih nadomesti z logotipi s Psihodinamske in SFU.
+- Pretekle dogodke daj ven, če Saga ne pošlje vseh.
+
 ## Update node on MacOS
 ```sh
 brew update

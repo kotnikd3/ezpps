@@ -14,14 +14,17 @@
                 </div>
                 <div class="column has-text-centered">
                     <figure class="image is-inline-block" style="width: 80%;">
-                        <img src="@/assets/images/psihoanaliza.jpg" alt="psihoanaliza">
+                        <img src="@/assets/images/salvador_dali_metamorphosis_of_narcissus.webp" alt="psihoanaliza">
+                        <figcaption><i>Salvador Dalí: Metamorfoza narcisa</i></figcaption>
                     </figure>
                 </div>
             </div>
         </div>
     </section>
-    
-    <hr>
+
+    <div class="container">
+        <hr>
+    </div>
 
     <section class="section">
         <div class="container">
@@ -42,7 +45,9 @@
         </div>
     </section>
 
-    <hr>
+    <div class="container">
+        <hr>
+    </div>
 
     <section class="section">
         <div class="container">

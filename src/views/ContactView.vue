@@ -7,6 +7,57 @@
 
     <section class="section">
         <div class="container">
+            <div class="columns">
+                <div class="column">
+                    <div class="columns">
+                        <div class="column has-text-centered">
+                            <figure class="image is-inline-block" style="width: 80%;">
+                                <img src="@/assets/images/urska_battelino.jpg" alt="psihoanaliza">
+                            </figure>
+                        </div>
+                        <div class="column is-size-4">
+                            <h3 class="title is-3 has-text-primary">Dr. Urška Battelino</h3>
+                            <h3 class="subtitle is-5">Predsednica društva</h3>
+                            <a href="mailto:ubattelino@gmail.com" class="block icon-text">
+                                <span class="icon">
+                                    <font-awesome-icon icon="fa-regular fa-envelope" />
+                                </span>
+                                <span>ubattelino@gmail.com</span>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <div class="column">
+                    <div class="columns">
+                        <div class="column has-text-centered">
+                            <figure class="image is-inline-block" style="width: 80%;">
+                                <img src="@/assets/images/saga_l_skerlep.jpg" alt="psihoanaliza">
+                            </figure>
+                        </div>
+                        <div class="column is-size-4">
+                            <h3 class="title is-3 has-text-primary">Saga L. Škerlep</h3>
+                            <h3 class="subtitle is-5">Tajnica društva</h3>
+                            <a href="mailto:saga.skerlep@ezpps.org" class="block icon-text">
+                                <span class="icon">
+                                    <font-awesome-icon icon="fa-regular fa-envelope" />
+                                </span>
+                                <span>saga.skerlep@ezpps.org</span>
+                            </a>
+                            <a href="tel:0038631833621" class="icon-text">
+                                <span class="icon">
+                                    <font-awesome-icon icon="fa-solid fa-phone" />
+                                </span>
+                                <span>031 833 621</span>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="section">
+        <div class="container">
             <div class="message">
                 <div class="message-body">
                     <div class="columns is-size-4">
@@ -57,61 +108,4 @@
             </div>
         </div>
     </section>
-    
-    <section class="section">
-        <div class="container">
-            <div class="columns">
-                <div class="column">
-                    <div class="columns">
-                        <div class="column has-text-centered">
-                            <figure class="image is-inline-block" style="width: 80%;">
-                                <img src="@/assets/images/urska_battelino.jpg" alt="psihoanaliza">
-                            </figure>
-                        </div>
-                        <div class="column is-size-4">
-                            <h3 class="title is-3 has-text-primary">Dr. Urška Battelino</h3>
-                            <h3 class="subtitle is-5">Predsednica društva</h3>
-                            <a href="mailto:ubattelino@gmail.com" class="block icon-text">
-                                <span class="icon">
-                                    <font-awesome-icon icon="fa-regular fa-envelope" />
-                                </span>
-                                <span>ubattelino@gmail.com</span>
-                            </a>
-                        </div>
-                    </div>
-                </div>
-                <div class="column">
-                    <div class="columns">
-                        <div class="column has-text-centered">
-                            <figure class="image is-inline-block" style="width: 80%;">
-                                <img src="@/assets/images/saga_l_skerlep.jpg" alt="psihoanaliza">
-                            </figure>
-                        </div>
-                        <div class="column is-size-4">
-                            <h3 class="title is-3 has-text-primary">Saga L. Škerlep</h3>
-                            <h3 class="subtitle is-5">Tajnica društva</h3>
-                            <a href="mailto:saga.skerlep@ezpps.org" class="block icon-text">
-                                <span class="icon">
-                                    <font-awesome-icon icon="fa-regular fa-envelope" />
-                                </span>
-                                <span>saga.skerlep@ezpps.org</span>
-                            </a>
-                            <a href="tel:0038631833621" class="icon-text">
-                                <span class="icon">
-                                    <font-awesome-icon icon="fa-solid fa-phone" />
-                                </span>
-                                <span>031 833 621</span>
-                            </a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
 </template>
-
-<style scoped lang="scss">
-    .message {
-        text-decoration: none;
-    }
-</style>

@@ -52,7 +52,7 @@
             </div>
         </div>
     </nav>
-    <div>
+    <div class="my-6">
         <RouterView />
     </div>
     <footer class="footer">
