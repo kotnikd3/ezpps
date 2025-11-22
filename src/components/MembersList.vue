@@ -82,7 +82,6 @@
         max-width: 280px;
         max-height: 260px;
         object-fit: cover;
-        object-position: top;
     }
     
     .icon-text {
