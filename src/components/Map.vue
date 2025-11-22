@@ -44,7 +44,7 @@
                 v-for="(loc, i) in member.locations"
                 :key="`${member.id}-${i}`"
                 :options="{ position: { lat: loc.latitude, lng: loc.longitude } }"
-                :pin-options="{ scale: 1, glyphColor: '#7a7a7a', borderColor: '#7a7a7a', background: '#15489f'}"
+                :pin-options="{ scale: 1, glyphColor: '#ffffff', borderColor: '#ffffff', background: '#15489f' }"
             >
                 <InfoWindow>
                     <div id="content" style="max-width: 200px;">
