@@ -1,4 +1,4 @@
-import membersData from '@/assets/data/members_3.json'
+import membersData from '@/assets/data/members.json'
 
 
 let cache = null

@@ -1,0 +1,1634 @@
+[
+    {
+        "name": "Karmen Henigsman",
+        "title": "Psihodinamska psihoterapija (specializantka)",
+        "image_source": null,
+        "website": "https://karmenhenigsman.si",
+        "location": {
+        "city": "Ljubljana",
+        "address": null,
+        "latitude": null,
+        "longitude": null
+        },
+        "email": "psihoterapija@karmenhenigsman.si",
+        "phone": "+386 (0)68 691 127",
+        "show_on_map": false,
+        "id": "karmen-henigsman",
+        "image_name": "karmen-henigsman.jpg"
+    },
+    {
+    "name": "Maša Pupaher",
+    "title": "Psihoanalitična psihoterapija (specializantka pod supervizijo)",
+    "image_source": null,
+    "website": "https://psihoterapija-pupaher.si/",
+    "location": {
+      "city": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "email": "masa.pupaher@gmail.com",
+    "phone": "+386 31 715 927",
+    "show_on_map": false,
+    "id": "masa-pupaher",
+    "image_name": null
+  },
+  {
+    "name": "Aisha Kandare",
+    "title": "Psihoanalitična psihoterapija (specializantka)",
+    "image_source": "https://ezpps.org/wp-content/uploads/2023/11/IMG_7228_edited_edited-e1708985796605-1024x1024.jpeg",
+    "website": "https://www.psihoterapija-ak.si/",
+    "location": {
+      "city": "Portorož",
+      "address": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "email": "info@psihoterapija-ak.si",
+    "phone": null,
+    "show_on_map": false,
+    "id": "aisha-kandare",
+    "image_name": "aisha-kandare.jpg"
+  },
+  {
+    "name": "Aleksander Lavrini",
+    "title": "Psihoanalitična psihoterapija (psihoterapevt, učni terapevt, supervizor)",
+    "image_source": "https://ezpps.org/wp-content/uploads/2024/02/IMG_1419-1-1024x1024.jpeg",
+    "website": "http://psihoterapija-lavrini.si/",
+    "location": {
+      "city": "Ljubljana",
+      "address": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "email": "aleksander.lavrini@gmail.com",
+    "phone": "+386 31 568 373",
+    "show_on_map": false,
+    "id": "aleksander-lavrini",
+    "image_name": "aleksander-lavrini.jpg"
+  },
+  {
+    "name": "Aleksandra Strne",
+    "title": "Psihoanalitična psihoterapija (psihoterapevtka)",
+    "image_source": "https://ezpps.org/wp-content/uploads/2019/07/Aleksandra-Strne-fotka-opcija-2-e1708986093564.jpg",
+    "website": null,
+    "location": {
+      "city": "Ljubljana",
+      "address": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "email": "aleksandra.strne@gmail.com",
+    "phone": "+386 41 202 602",
+    "show_on_map": false,
+    "id": "aleksandra-strne",
+    "image_name": "aleksandra-strne.jpg"
+  },
+  {
+    "name": "Alenka Podlogar",
+    "title": "Psihoanalitična psihoterapija (psihoterapevtka)",
+    "image_source": "https://ezpps.org/wp-content/uploads/2023/03/AP-e1708986241578.jpg",
+    "website": null,
+    "location": {
+      "city": "Ljubljana",
+      "address": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "email": "alenka.pod@gmail.com",
+    "phone": "+386 41 777 622",
+    "show_on_map": false,
+    "id": "alenka-podlogar",
+    "image_name": "alenka-podlogar.jpg"
+  },
+  {
+    "name": "Alenka Turičnik",
+    "title": "Psihoanalitična psihoterapija (psihoterapevtka)",
+    "image_source": "https://ezpps.org/wp-content/uploads/2025/06/005_Turicnik_Alenka-1024x1024.jpg",
+    "website": "https://www.psihoterapija-turicnik.si/",
+    "location": {
+      "city": "Ljubljana",
+      "address": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "email": "alenka@psihoterapija-turicnik.si",
+    "phone": null,
+    "show_on_map": false,
+    "id": "alenka-turicnik",
+    "image_name": "alenka-turicnik.jpg"
+  },
+  {
+    "name": "Ana Kocjančič",
+    "title": "Psihodinamska psihoterapija (psihoterapevtka, učna terapevtka)",
+    "image_source": "https://ezpps.org/wp-content/uploads/2019/02/Ana-za-EZPPS-e1708983918632.jpg",
+    "website": "https://psihoterapija-anakocjancic.com/",
+    "location": {
+      "city": "Grosuplje",
+      "address": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "email": "info@psihoterapija-anakocjancic.com",
+    "phone": "+386 41 890 036",
+    "show_on_map": false,
+    "id": "ana-kocjancic",
+    "image_name": "ana-kocjancic.jpg"
+  },
+  {
+    "name": "Ana Matijević",
+    "title": "Psihoanalitična psihoterapija (psihoterapevtka)",
+    "image_source": "https://ezpps.org/wp-content/uploads/2019/02/Ana-Matijevic-1a-ilovepdf-web-e1708985043784.jpg",
+    "website": "http://www.psihoterapija-matijevic.si/",
+    "location": {
+      "city": "Ljubljana",
+      "address": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "email": "ana.psihoterapija@gmail.com",
+    "phone": "+386 41 284 323",
+    "show_on_map": false,
+    "id": "ana-matijevic",
+    "image_name": "ana-matijevic.jpg"
+  },
+  {
+    "name": "Ana Mrovlje",
+    "title": "Psihoanalitična psihoterapija (psihoterapevtka)",
+    "image_source": "https://ezpps.org/wp-content/uploads/2019/07/Ana-Mrovlje-slika-e1708985154451.jpg",
+    "website": "https://www.psihoterapija-mrovlje.si",
+    "location": {
+      "city": "Ljubljana",
+      "address": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "email": "ana.mrovlje@gmail.com",
+    "phone": "+386 31 697 450",
+    "show_on_map": false,
+    "id": "ana-mrovlje",
+    "image_name": "ana-mrovlje.jpg"
+  },
+  {
+    "name": "Ana Zore",
+    "title": "Psihodinamska psihoterapija (psihoterapevtka)",
+    "image_source": "https://ezpps.org/wp-content/uploads/2022/11/AZ1-1-e1708986165167.jpg",
+    "website": "https://www.psihoterapija-anazore.com/",
+    "location": {
+      "city": "Italija (online psihoterapija)",
+      "address": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "email": "info@psihoterapija-anazore.com",
+    "phone": null,
+    "show_on_map": false,
+    "id": "ana-zore",
+    "image_name": "ana-zore.jpg"
+  },
+  {
+    "name": "Anamarija Rabič",
+    "title": "Psihoanalitična psihoterapija (specializantka)",
+    "image_source": "https://ezpps.org/wp-content/uploads/2023/03/Untitled-1024x1024.png",
+    "website": "https://www.psihoterapija-inside.si/",
+    "location": {
+      "city": "Ljubljana",
+      "address": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "email": "info@psihoterapija-inside.si",
+    "phone": "+386 30 397 700",
+    "show_on_map": false,
+    "id": "anamarija-rabic",
+    "image_name": "anamarija-rabic.jpg"
+  },
+  {
+    "name": "Andrejka Kozlevčar",
+    "title": "Psihodinamska psihoterapija (psihoterapevtka)",
+    "image_source": "https://ezpps.org/wp-content/uploads/2021/02/Andrejka-Kozlevcar-e1708984467758.jpg",
+    "website": "https://www.peskovnik-zivljenja.si/",
+    "location": {
+      "city": "Ljubljana",
+      "address": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "email": "andrejka.kozlevcar@gmail.com",
+    "phone": "+386 31 303 234",
+    "show_on_map": false,
+    "id": "andrejka-kozlevcar",
+    "image_name": "andrejka-kozlevcar.jpg"
+  },
+  {
+    "name": "Anela Klemenc Bešo",
+    "title": "Psihoanalitična psihoterapija (specializantka)",
+    "image_source": "https://ezpps.org/wp-content/uploads/2023/12/fotka_ezpps.jpeg",
+    "website": null,
+    "location": {
+      "city": "Ljubljana, online",
+      "address": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "email": "anela.klemenc.beso@gmail.com",
+    "phone": "+386 64 252 200",
+    "show_on_map": false,
+    "id": "anela-klemenc-beso",
+    "image_name": "anela-klemenc-beso.jpg"
+  },
+  {
+    "name": "Aneta Kovačič",
+    "title": "Psihodinamska psihoterapija (specializantka)",
+    "image_source": "https://ezpps.org/wp-content/uploads/2023/02/Rectangle-1.png",
+    "website": "https://www.razpri-krila.si/",
+    "location": {
+      "city": "Ljubljana",
+      "address": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "email": "info@razpri-krila.si",
+    "phone": "+386 31 358 096",
+    "show_on_map": false,
+    "id": "aneta-kovacic",
+    "image_name": "aneta-kovacic.jpg"
+  },
+  {
+    "name": "Anja Košir Romandini",
+    "title": "Psihoanalitična psihoterapija (specializantka pod supervizijo)",
+    "image_source": "https://ezpps.org/wp-content/uploads/2024/02/slika-Anja.png",
+    "website": null,
+    "location": {
+      "city": "Ljubljana",
+      "address": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "email": "anjakosir@gmail.com",
+    "phone": "+386 41 687 330",
+    "show_on_map": false,
+    "id": "anja-kosir-romandini",
+    "image_name": "anja-kosir-romandini.jpg"
+  },
+  {
+    "name": "Barbara Ivič",
+    "title": "Psihoanalitična psihoterapija (psihoterapevtka)",
+    "image_source": null,
+    "website": "https://psihoterapija-barbara-ivic.si/",
+    "location": {
+      "city": "Maribor",
+      "address": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "email": "barbara.ivic2@gmail.com",
+    "phone": "+386 41 224 560",
+    "show_on_map": false,
+    "id": "barbara-ivic",
+    "image_name": null
+  },
+  {
+    "name": "Barbara Otoničar",
+    "title": "Psihodinamska psihoterapija (specializantka)",
+    "image_source": null,
+    "website": null,
+    "location": {
+      "city": "Ljubljana",
+      "address": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "email": "otonicar.barbara@siol.net",
+    "phone": "+386 51 412 567",
+    "show_on_map": false,
+    "id": "barbara-otonicar",
+    "image_name": null
+  },
+  {
+    "name": "Barbara Šinkar",
+    "title": "Psihoanalitična psihoterapija (psihoterapevtka)",
+    "image_source": null,
+    "website": "https://sinkar.si/",
+    "location": {
+      "city": "Ljubljana",
+      "address": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "email": "info@sinkar.si",
+    "phone": "+386 41 385 386",
+    "show_on_map": false,
+    "id": "barbara-sinkar",
+    "image_name": null
+  },
+  {
+    "name": "Bojan Filipic",
+    "title": "Psihoanalitična psihoterapija (psihoterapevt, supervizor)",
+    "image_source": "https://ezpps.org/wp-content/uploads/2021/02/Filipcic-Bojan-e1708984704624.jpg",
+    "website": null,
+    "location": {
+      "city": "Maribor",
+      "address": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "email": "filipic.bojan@siol.net",
+    "phone": null,
+    "show_on_map": false,
+    "id": "bojan-filipic",
+    "image_name": "bojan-filipic.jpg"
+  },
+  {
+    "name": "Brigita Korpar",
+    "title": "Psihoanalitična psihoterapija (psihoterapevtka)",
+    "image_source": "https://ezpps.org/wp-content/uploads/2021/02/Brigita-Korpar-e1708984358165.jpg",
+    "website": "https://psihoterapije.si/",
+    "location": {
+      "city": "Ljubljana, Maribor, Ptuj",
+      "address": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "email": "brigita.korpar@psihoterapije.si",
+    "phone": null,
+    "show_on_map": false,
+    "id": "brigita-korpar",
+    "image_name": "brigita-korpar.jpg"
+  },
+  {
+    "name": "Damijan Sever",
+    "title": "Psihoanalitična psihoterapija (psihoterapevt, učni terapevt, supervizor)",
+    "image_source": null,
+    "website": "https://www.cpmb.si/slovensko/domacaStran/default.html",
+    "location": {
+      "city": "Maribor",
+      "address": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "email": "damijan.sever@gmail.com",
+    "phone": "+386 31 886 257",
+    "show_on_map": false,
+    "id": "damijan-sever",
+    "image_name": null
+  },
+  {
+    "name": "Darija Štajdohar",
+    "title": "Psihoanalitična psihoterapija (specializantka)",
+    "image_source": "https://ezpps.org/wp-content/uploads/2025/05/12-scaled-e1747057152796-1019x1024.jpg",
+    "website": null,
+    "location": {
+      "city": "Ljubljana",
+      "address": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "email": "darija.stajdohar@gmail.com",
+    "phone": "+386 40 709 777",
+    "show_on_map": false,
+    "id": "darija-stajdohar",
+    "image_name": "darija-stajdohar.jpg"
+  },
+  {
+    "name": "Darja Trivan Gril",
+    "title": "Psihodinamska in psihoanalitična psihoterapija (psihoterapevtka)",
+    "image_source": null,
+    "website": null,
+    "location": {
+      "city": "Celje",
+      "address": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "email": "darja.trivan@cp-celje.si",
+    "phone": "+386 31 793 860",
+    "show_on_map": false,
+    "id": "darja-trivan-gril",
+    "image_name": null
+  },
+  {
+    "name": "Diana Ploj Zec",
+    "title": "Psihoanalitična psihoterapija (specializantka)",
+    "image_source": "https://ezpps.org/wp-content/uploads/2021/02/Diana-Ploj-Zec-e1708986365405.jpg",
+    "website": "https://www.centerzapsihoterapijo.si/",
+    "location": {
+      "city": "Ljubljana",
+      "address": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "email": "info@centerzapsihoterapijo.si",
+    "phone": "+386 40 736 155",
+    "show_on_map": false,
+    "id": "diana-ploj-zec",
+    "image_name": "diana-ploj-zec.jpg"
+  },
+  {
+    "name": "dr. Lea Bernik",
+    "title": "Psihodinamska psihoterapija (psihoterapevtka)",
+    "image_source": "https://ezpps.org/wp-content/uploads/2024/01/1000014275-1024x1024.jpg",
+    "website": "https://www.psihoterapija-leabernik.com/",
+    "location": {
+      "city": "Ljubljana",
+      "address": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "email": "psihoterapijaleabernik@gmail.com",
+    "phone": "+386 40 165 651",
+    "show_on_map": false,
+    "id": "dr-lea-bernik",
+    "image_name": "dr-lea-bernik.jpg"
+  },
+  {
+    "name": "Dr. Nika Nikolič",
+    "title": "Psihodinamska psihoterapija (psihoterapevtka)",
+    "image_source": "https://ezpps.org/wp-content/uploads/2019/02/Nika-Nikolic_profilna_web-e1708985694517.jpg",
+    "website": "https://www.czp.si/",
+    "location": {
+      "city": "Ljubljana",
+      "address": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "email": "ninanikolic@czp.si",
+    "phone": "+386 41 971 265",
+    "show_on_map": false,
+    "id": "dr-nika-nikolic",
+    "image_name": "dr-nika-nikolic.jpg"
+  },
+  {
+    "name": "Dr. Nuša Kovačević Tojnko",
+    "title": "Psihoanalitična psihoterapija (psihoterapevtka, supervizorka pod supervizijo)",
+    "image_source": "https://ezpps.org/wp-content/uploads/2019/02/Nuša-Kovačević-Tojnko-e1708986442727.jpg",
+    "website": "https://pamina.si/",
+    "location": {
+      "city": "Maribor",
+      "address": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "email": "nusa@pamina.si",
+    "phone": "+386 31 510 342",
+    "show_on_map": false,
+    "id": "dr-nusa-kovacevic-tojnko",
+    "image_name": "dr-nusa-kovacevic-tojnko.jpg"
+  },
+  {
+    "name": "Emil Benedik",
+    "title": "Psihoanalitična psihoterapija (psihoterapevt, supervizor)",
+    "image_source": null,
+    "website": null,
+    "location": {
+      "city": "Radovljica",
+      "address": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "email": "emil.benedik@gmail.com",
+    "phone": "+386 41 591 620",
+    "show_on_map": false,
+    "id": "emil-benedik",
+    "image_name": null
+  },
+  {
+    "name": "Gašper Lesar",
+    "title": "Psihoanalitična psihoterapija(psihoterapevt)",
+    "image_source": "https://ezpps.org/wp-content/uploads/2023/04/Untitled-6-1020x1024.png",
+    "website": "https://www.psihoterapija-lesar.si",
+    "location": {
+      "city": "Ljubljana",
+      "address": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "email": "info@psihoterapija-lesar.si",
+    "phone": null,
+    "show_on_map": false,
+    "id": "gasper-lesar",
+    "image_name": "gasper-lesar.jpg"
+  },
+  {
+    "name": "Gregor Knežič",
+    "title": "Psihoanalitična psihoterapija (specializant)",
+    "image_source": "https://ezpps.org/wp-content/uploads/2023/04/Untitled-2-1012x1024.png",
+    "website": null,
+    "location": {
+      "city": "Maribor",
+      "address": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "email": "gregor.knezic@pamina.si",
+    "phone": null,
+    "show_on_map": false,
+    "id": "gregor-knezic",
+    "image_name": "gregor-knezic.jpg"
+  },
+  {
+    "name": "Ines Majcen",
+    "title": "Psihodinamska psihoterapija (specializantka)",
+    "image_source": "https://ezpps.org/wp-content/uploads/2023/10/IMG_20230612_125932-1-1024x1024.jpg",
+    "website": "https://inesmajcen.si/",
+    "location": {
+      "city": "Celje",
+      "address": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "email": "inesmajcen.pht@gmail.com",
+    "phone": "+386 31 678 971",
+    "show_on_map": false,
+    "id": "ines-majcen",
+    "image_name": "ines-majcen.jpg"
+  },
+  {
+    "name": "Irena Zagajšek",
+    "title": "Psihoanalitična psihoterapija (psihoterapevtka)",
+    "image_source": "https://ezpps.org/wp-content/uploads/2025/02/sedeca-best.jpeg",
+    "website": null,
+    "location": {
+      "city": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "email": null,
+    "phone": null,
+    "show_on_map": false,
+    "id": "irena-zagajsek",
+    "image_name": "irena-zagajsek.jpg"
+  },
+  {
+    "name": "Iza Valič",
+    "title": "Psihoanalitična psihoterapija (specializantka)",
+    "image_source": "https://ezpps.org/wp-content/uploads/2025/02/IMG_3201-1024x1024.jpg",
+    "website": null,
+    "location": {
+      "city": "Ljubljana",
+      "address": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "email": "iza.valic@gmail.com",
+    "phone": "+386 51 430 621",
+    "show_on_map": false,
+    "id": "iza-valic",
+    "image_name": "iza-valic.jpg"
+  },
+  {
+    "name": "Iztok Zver",
+    "title": "Psihoanalitična psihoterapija (psihoterapevt)",
+    "image_source": "https://ezpps.org/wp-content/uploads/2019/01/Iztok-Zver-e1709043610512.jpg",
+    "website": "https://www.animavita.si/",
+    "location": {
+      "city": "Ljubljana",
+      "address": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "email": "iztok.zver@animavita.si",
+    "phone": "+386 41 888 799",
+    "show_on_map": false,
+    "id": "iztok-zver",
+    "image_name": "iztok-zver.jpg"
+  },
+  {
+    "name": "Jaka Henigman",
+    "title": "Psihoanalitična psihoterapija (psihoterapevt)",
+    "image_source": "https://ezpps.org/wp-content/uploads/2021/02/Jaka-Heningman-e1708984557715.jpg",
+    "website": "https://www.psihoterapija-henigman.si/",
+    "location": {
+      "city": "Ljubljana, online",
+      "address": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "email": "jaka.henigman@gmail.com",
+    "phone": "+386 31 491 250",
+    "show_on_map": false,
+    "id": "jaka-henigman",
+    "image_name": "jaka-henigman.jpg"
+  },
+  {
+    "name": "Jakica Kristovski",
+    "title": "Psihoanalitična psihoterapija (psihoterapevtka)",
+    "image_source": "https://ezpps.org/wp-content/uploads/2022/11/Screenshot_20220321-221512_Facebook-1-e1709043687683.jpg",
+    "website": "https://psihoterapija-jk.si/",
+    "location": {
+      "city": "Ljubljana",
+      "address": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "email": "info@psihoterapija-jk.si",
+    "phone": "+386 41 660 968",
+    "show_on_map": false,
+    "id": "jakica-kristovski",
+    "image_name": "jakica-kristovski.jpg"
+  },
+  {
+    "name": "Jana Vodlan",
+    "title": "Psihodinamska psihoterapija (specializantka)",
+    "image_source": null,
+    "website": "https://www.indi.si/",
+    "location": {
+      "city": "Ljubljana",
+      "address": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "email": "jana@indi.si",
+    "phone": "+386 30 768 680",
+    "show_on_map": false,
+    "id": "jana-vodlan",
+    "image_name": null
+  },
+  {
+    "name": "Kaja Leskovšek Nagode",
+    "title": "Psihodinamska psihoterapija (specializantka)",
+    "image_source": "https://ezpps.org/wp-content/uploads/2023/04/Untitled-5-1024x1022.png",
+    "website": null,
+    "location": {
+      "city": "Ljubljana",
+      "address": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "email": "kaja.ln.psihoterapija@gmail.com",
+    "phone": "+386 31 898 466",
+    "show_on_map": false,
+    "id": "kaja-leskovsek-nagode",
+    "image_name": "kaja-leskovsek-nagode.jpg"
+  },
+  {
+    "name": "Kaja Širok",
+    "title": "Psihodinamska psihoterapija (specializantka)",
+    "image_source": "https://ezpps.org/wp-content/uploads/2021/02/Kaja-Sirok_2-1-e1709043836190.jpg",
+    "website": "https://psihoterapija-sirok.si/",
+    "location": {
+      "city": "Ljubljana, Novo Mesto",
+      "address": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "email": "info@psihoterapija-sirok.si",
+    "phone": "+386 31 248 142",
+    "show_on_map": false,
+    "id": "kaja-sirok",
+    "image_name": "kaja-sirok.jpg"
+  },
+  {
+    "name": "Katja Biščak",
+    "title": "Psihodinamska psihoterapija (psihoterapevtka)",
+    "image_source": null,
+    "website": "https://www.psihoterapija-katja-biscak.com/",
+    "location": {
+      "city": "Ljubljana",
+      "address": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "email": "katja.biscak@gmail.com",
+    "phone": "+386 51 426 909",
+    "show_on_map": false,
+    "id": "katja-biscak",
+    "image_name": null
+  },
+  {
+    "name": "Katja Lesar",
+    "title": "Psihodinamska psihoterapija (psihoterapevtka)",
+    "image_source": "https://ezpps.org/wp-content/uploads/2023/04/Katja_Lesar-2-scaled-e1709043937675-1024x1024.jpg",
+    "website": "https://psihoterapijalesar.si/",
+    "location": {
+      "city": "Ljubljana",
+      "address": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "email": "katja@psihoterapijalesar.si",
+    "phone": "+386 41 956 824",
+    "show_on_map": false,
+    "id": "katja-lesar",
+    "image_name": "katja-lesar.jpg"
+  },
+  {
+    "name": "Katja Štucin",
+    "title": "Psihodinamska psihoterapija (specializantka)",
+    "image_source": "https://ezpps.org/wp-content/uploads/2025/10/DSC05726-1-1024x1024.jpg",
+    "website": "https://www.psihoterapija-katjastucin.si/",
+    "location": {
+      "city": "Ljubljana",
+      "address": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "email": "info@psihoterapija-katjastucin.si",
+    "phone": "051 472 017",
+    "show_on_map": false,
+    "id": "katja-stucin",
+    "image_name": "katja-stucin.jpg"
+  },
+  {
+    "name": "Kristijan Senekovič",
+    "title": "Psihoanalitična psihoterapija (psihoterapevt)",
+    "image_source": "https://ezpps.org/wp-content/uploads/2022/11/osebna_m-1-e1709044035870.png",
+    "website": "https://meipso.si/",
+    "location": {
+      "city": "Ljubljana",
+      "address": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "email": "meipso.seneka@gmail.com",
+    "phone": "+386 69 950 127",
+    "show_on_map": false,
+    "id": "kristijan-senekovic",
+    "image_name": "kristijan-senekovic.jpg"
+  },
+  {
+    "name": "Kristina Kosmač",
+    "title": "Psihodinamska psihoterapija (psihoterapevtka)",
+    "image_source": "https://ezpps.org/wp-content/uploads/2019/07/Kristina-Kosmač-e1708983710404.jpg",
+    "website": "https://drevozivljenja.net/",
+    "location": {
+      "city": "Ljubljana, Ajdovščina",
+      "address": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "email": "kristina@drevozivljenja.net",
+    "phone": "+386 40 604 964",
+    "show_on_map": false,
+    "id": "kristina-kosmac",
+    "image_name": "kristina-kosmac.jpg"
+  },
+  {
+    "name": "Lan Pečjak",
+    "title": "Psihodinamska psihoterapija (psihoterapevt, učni terapevt, supervizor)",
+    "image_source": null,
+    "website": "https://www.sankofa.si/",
+    "location": {
+      "city": "Solkan in Goriška Brda",
+      "address": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "email": "LAN.PECJAK@GMAIL.COM",
+    "phone": null,
+    "show_on_map": false,
+    "id": "lan-pecjak",
+    "image_name": null
+  },
+  {
+    "name": "Lara Pečjak",
+    "title": "Psihodinamska psihoterapija (specializantka)",
+    "image_source": null,
+    "website": "https://www.psihoterapija-larapecjak.si/",
+    "location": {
+      "city": "Ljubljana",
+      "address": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "email": "larapecjak@gmail.com",
+    "phone": "+386 70 362 793",
+    "show_on_map": false,
+    "id": "lara-pecjak",
+    "image_name": null
+  },
+  {
+    "name": "Lea Hošnjak",
+    "title": "Psihoanalitična psihoterapija (specializantka)",
+    "image_source": "https://ezpps.org/wp-content/uploads/2023/10/Hosnjak-L-1024x1024.jpg",
+    "website": null,
+    "location": {
+      "city": "Ljubljana",
+      "address": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "email": "lea.hosnjak@gmail.com",
+    "phone": "+386 31 806 419",
+    "show_on_map": false,
+    "id": "lea-hosnjak",
+    "image_name": "lea-hosnjak.jpg"
+  },
+  {
+    "name": "Lea Prešern McCann",
+    "title": "Psihoanalitična psihoterapija (specializantka)",
+    "image_source": "https://ezpps.org/wp-content/uploads/2024/11/IMG_8530-scaled-e1731577421278-1024x1024.jpg",
+    "website": "https://psihoterapija-presern.si",
+    "location": {
+      "city": "Ljubljana",
+      "address": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "email": "info@psihoterapija-presern.si",
+    "phone": "040 55 33 66",
+    "show_on_map": false,
+    "id": "lea-presern-mccann",
+    "image_name": "lea-presern-mccann.jpg"
+  },
+  {
+    "name": "Leja Lončar Mikić",
+    "title": "Psihoanalitična psihoterapija (specializantka)",
+    "image_source": "https://ezpps.org/wp-content/uploads/2025/02/slika-obrazec-za-prijavo.jpg",
+    "website": "https://psihoanalizaokorn.si/",
+    "location": {
+      "city": "Ljubljana",
+      "address": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "email": "leja.mikic@gmail.com",
+    "phone": "+386 40 177 798",
+    "show_on_map": false,
+    "id": "leja-loncar-mikic",
+    "image_name": "leja-loncar-mikic.jpg"
+  },
+  {
+    "name": "Lina Debeljak",
+    "title": "Psihoanalitična psihoterapija (psihoterapevtka)",
+    "image_source": null,
+    "website": null,
+    "location": {
+      "city": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "email": "linadebeljak9@gmail.com",
+    "phone": null,
+    "show_on_map": false,
+    "id": "lina-debeljak",
+    "image_name": null
+  },
+  {
+    "name": "Lina Ogris",
+    "title": "Psihoanalitična psihoterapija (psihoterapevtka)",
+    "image_source": "https://ezpps.org/wp-content/uploads/2022/11/fotografija3.1-1-e1709044286334.jpg",
+    "website": "https://linaogris.si/",
+    "location": {
+      "city": "Ljubljana",
+      "address": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "email": "psihoterapija.ogris@gmail.com",
+    "phone": null,
+    "show_on_map": false,
+    "id": "lina-ogris",
+    "image_name": "lina-ogris.jpg"
+  },
+  {
+    "name": "Ljudmila Brezigar",
+    "title": "Psihodinamska psihoterapija in plesno-gibalna terapija (psihoterapevtka)",
+    "image_source": "https://ezpps.org/wp-content/uploads/2022/11/116A2007-400x600-1-e1709044368113.jpg",
+    "website": "https://trojstvo-poti.si/",
+    "location": {
+      "city": "Žalec, Ljubljana, Velenje",
+      "address": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "email": "ljudmila@trojstvo-poti.si",
+    "phone": "+386 41 388 682",
+    "show_on_map": false,
+    "id": "ljudmila-brezigar",
+    "image_name": "ljudmila-brezigar.jpg"
+  },
+  {
+    "name": "Luka Agrež",
+    "title": "Psihodinamska psihoterapija (psihoterapevt)",
+    "image_source": "https://ezpps.org/wp-content/uploads/2022/11/spletna-stran-BW_MG_8621_EDITED-1-e1709044487321.jpg",
+    "website": "https://www.psihoterapija-agrez.si/",
+    "location": {
+      "city": "Celje",
+      "address": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "email": "luka@psihoterapija-agrez.si",
+    "phone": "+386 31 825 668",
+    "show_on_map": false,
+    "id": "luka-agrez",
+    "image_name": "luka-agrez.jpg"
+  },
+  {
+    "name": "Maja Zajc",
+    "title": "Psihoanalitična psihoterapija (specializantka)",
+    "image_source": null,
+    "website": "https://www.psihoterapija-zajc.si",
+    "location": {
+      "city": "Ljubljana",
+      "address": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "email": "info@psihoterapija-zajc.si",
+    "phone": null,
+    "show_on_map": false,
+    "id": "maja-zajc",
+    "image_name": null
+  },
+  {
+    "name": "Marina Louise Rajapakse",
+    "title": "Psihodinamska psihoterapija (specializantka)",
+    "image_source": "https://ezpps.org/wp-content/uploads/2019/07/Marina-Noč-fotografija-e1708985623242.jpg",
+    "website": "https://www.psihodinamska-psihoterapija.org/",
+    "location": {
+      "city": "Ljubljana",
+      "address": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "email": "psihoterapija@marinalouise.com",
+    "phone": "+386 71 411 717",
+    "show_on_map": false,
+    "id": "marina-louise-rajapakse",
+    "image_name": "marina-louise-rajapakse.jpg"
+  },
+  {
+    "name": "Marjeta Baričevič",
+    "title": "Psihodinamska psihoterapija (specializantka)",
+    "image_source": "https://ezpps.org/wp-content/uploads/2019/07/Marjeta-Baričevič-foto-e1709044585181.jpg",
+    "website": "https://www.facebook.com/psihoterapijamarjetabaricevic/",
+    "location": {
+      "city": "Ljubljana",
+      "address": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "email": "marjeta.baricevic@gmail.com",
+    "phone": "+386 40 187 969",
+    "show_on_map": false,
+    "id": "marjeta-baricevic",
+    "image_name": "marjeta-baricevic.jpg"
+  },
+  {
+    "name": "Martina Mihič",
+    "title": "Psihodinamska psihoterapija (psihoterapevtka)",
+    "image_source": "https://ezpps.org/wp-content/uploads/2019/07/MartinaMihic-e1709044669806.jpg",
+    "website": "https://www.sentoria.si/",
+    "location": {
+      "city": "Ljubljana, Koper",
+      "address": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "email": "martina@sentoria.si",
+    "phone": "+386 40 470 095",
+    "show_on_map": false,
+    "id": "martina-mihic",
+    "image_name": "martina-mihic.jpg"
+  },
+  {
+    "name": "Mateja Hajšek Semrajc",
+    "title": "Psihoanalitična psihoterapija (psihoterapevtka)",
+    "image_source": "https://ezpps.org/wp-content/uploads/2019/07/Mateja-Hajšek-Semrajc-e1709044813727.jpg",
+    "website": "https://www.cpmb.si/slovensko/domacaStran/default.html",
+    "location": {
+      "city": "Maribor",
+      "address": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "email": "mateja.hajsek.semrajc@cpmb.si",
+    "phone": "+386 31 366 106",
+    "show_on_map": false,
+    "id": "mateja-hajsek-semrajc",
+    "image_name": "mateja-hajsek-semrajc.jpg"
+  },
+  {
+    "name": "Mateja Kolenc",
+    "title": "Psihoanalitična psihoterapija (specializantka pod supervizijo)",
+    "image_source": "https://ezpps.org/wp-content/uploads/2023/04/Mateja-Kolenc-fotografija-za-spletno-stran-EZPPS-1-1024x1017.png",
+    "website": "https://mjk-psihoterapija.si/",
+    "location": {
+      "city": "Ljubljana",
+      "address": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "email": "mjk.psihoterapija@gmail.com",
+    "phone": "+386 30 311 969",
+    "show_on_map": false,
+    "id": "mateja-kolenc",
+    "image_name": "mateja-kolenc.jpg"
+  },
+  {
+    "name": "Mateja Simčič",
+    "title": "Psihodinamska psihoterapija (psihoterapevtka)",
+    "image_source": "https://ezpps.org/wp-content/uploads/2021/02/Mateja-Simcic-e1709044894684.jpg",
+    "website": "https://psihoterapija-simcic.si/",
+    "location": {
+      "city": "Ljubljana",
+      "address": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "email": "simcic.mateja@gmail.com",
+    "phone": "+386 31 349 945",
+    "show_on_map": false,
+    "id": "mateja-simcic",
+    "image_name": "mateja-simcic.jpg"
+  },
+  {
+    "name": "Mateja Švetak",
+    "title": "Psihodinamska psihoterapija (psihoterapevtka)",
+    "image_source": "https://ezpps.org/wp-content/uploads/2019/07/Mateja-Švetak-photo-e1709044984483.jpg",
+    "website": "https://www.psihoterapija-ms.si/",
+    "location": {
+      "city": "Ljubljana",
+      "address": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "email": "info@psihoterapija-ms.si",
+    "phone": "+386 51 223 791",
+    "show_on_map": false,
+    "id": "mateja-svetak",
+    "image_name": "mateja-svetak.jpg"
+  },
+  {
+    "name": "Matija Pajer",
+    "title": "Psihoanalitična psihoterapija (psihoterapevt)",
+    "image_source": "https://ezpps.org/wp-content/uploads/2019/07/Matija_ZT-e1709045126760.jpg",
+    "website": "https://www.psihoanaliza.si/",
+    "location": {
+      "city": "Ljubljana",
+      "address": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "email": "info@psihoanaliza.si",
+    "phone": "+386 31 703 961",
+    "show_on_map": false,
+    "id": "matija-pajer",
+    "image_name": "matija-pajer.jpg"
+  },
+  {
+    "name": "Metka Furlani",
+    "title": "Psihodinamska psihoterapija (psihoterapevtka, učna terapevtka, supervizorka)",
+    "image_source": "https://ezpps.org/wp-content/uploads/2019/02/Metka-Furlani-e1708984626467.jpg",
+    "website": "https://www.metkafurlani.si/",
+    "location": {
+      "city": "Ljubljana",
+      "address": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "email": "info@metkafurlani.si",
+    "phone": "+386 40 758 833",
+    "show_on_map": false,
+    "id": "metka-furlani",
+    "image_name": "metka-furlani.jpg"
+  },
+  {
+    "name": "Miha Štrukelj",
+    "title": "Psihoanalitična psihoterapija (psihoterapevt)",
+    "image_source": "https://ezpps.org/wp-content/uploads/2019/07/Miha-Štrukelj-fotografija-e1709045596118.jpg",
+    "website": "https://www.psihoterapija-strukelj.si/",
+    "location": {
+      "city": "Ljubljana",
+      "address": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "email": "miha@psihoterapija-strukelj.si",
+    "phone": "+386 31 759 205",
+    "show_on_map": false,
+    "id": "miha-strukelj",
+    "image_name": "miha-strukelj.jpg"
+  },
+  {
+    "name": "Miloš Židanik",
+    "title": "Psihoanalitična psihoterapija (psihoterapevt)",
+    "image_source": "https://ezpps.org/wp-content/uploads/2019/07/milos-zidanik-fotka-e1709045743444.jpg",
+    "website": null,
+    "location": {
+      "city": "Maribor, Čagona pri Cerkvenjaku",
+      "address": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "email": "milos.zidanik@guest.arnes.si",
+    "phone": "+386 40 289 174",
+    "show_on_map": false,
+    "id": "milos-zidanik",
+    "image_name": "milos-zidanik.jpg"
+  },
+  {
+    "name": "Mojca Benko",
+    "title": "Psihodinamska psihoterapija (specializantka)",
+    "image_source": "https://ezpps.org/wp-content/uploads/2023/04/Untitled-1-1024x1021.png",
+    "website": "https://www.psihoterapijamojcabenko.com/",
+    "location": {
+      "city": "Koper",
+      "address": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "email": "psihoterapijamojcabenko@gmail.com",
+    "phone": "+386 40 838 773",
+    "show_on_map": false,
+    "id": "mojca-benko",
+    "image_name": "mojca-benko.jpg"
+  },
+  {
+    "name": "Mojca Žirovnik",
+    "title": "Psihoanalitična psihoterapija (specializantka)",
+    "image_source": "https://ezpps.org/wp-content/uploads/2023/11/Slika-EZPPS4.png",
+    "website": "https://animamea.si/",
+    "location": {
+      "city": "Ljubljana",
+      "address": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "email": "mojca@animamea.si",
+    "phone": "+386 41 595 848",
+    "show_on_map": false,
+    "id": "mojca-zirovnik",
+    "image_name": "mojca-zirovnik.jpg"
+  },
+  {
+    "name": "Naja Petek",
+    "title": "Psihoanalitična psihoterapija (psihoterapevtka)",
+    "image_source": "https://ezpps.org/wp-content/uploads/2024/03/foto-nv-1021x1024.jpg",
+    "website": "https://psihoterapija-videmsek.si/",
+    "location": {
+      "city": "Ljubljana",
+      "address": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "email": "naja@psihoterapija-videmsek.si",
+    "phone": "+386 51 247 700",
+    "show_on_map": false,
+    "id": "naja-petek",
+    "image_name": "naja-petek.jpg"
+  },
+  {
+    "name": "Nataša Crnkovič",
+    "title": "Psihoanalitična psihoterapija (specializantka)",
+    "image_source": "https://ezpps.org/wp-content/uploads/2025/07/Natasa_Serenvita.jpg",
+    "website": "https://www.serenvita.si",
+    "location": {
+      "city": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "email": "info@serenvita.si",
+    "phone": null,
+    "show_on_map": false,
+    "id": "natasa-crnkovic",
+    "image_name": "natasa-crnkovic.jpg"
+  },
+  {
+    "name": "Parov Anzelc",
+    "title": "Psihoanalitična in psihodinamska psihoterapija (psihoterapevt, supervizor)",
+    "image_source": "https://ezpps.org/wp-content/uploads/2023/04/Untitled-3-1024x1024.png",
+    "website": "https://www.psihoterapija-anzelc.si",
+    "location": {
+      "city": "Ljubljana",
+      "address": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "email": "info@psihoterapija-anzelc.si",
+    "phone": "+386 31 556 367",
+    "show_on_map": false,
+    "id": "parov-anzelc",
+    "image_name": "parov-anzelc.jpg"
+  },
+  {
+    "name": "Petra Česen",
+    "title": "Psihodinamska psihoterapija (specializantka)",
+    "image_source": "https://ezpps.org/wp-content/uploads/2025/05/my-photo1-1.jpg",
+    "website": "https://www.petracesen.com/",
+    "location": {
+      "city": "Ljubljana",
+      "address": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "email": "psihoterapija@petracesen.com",
+    "phone": null,
+    "show_on_map": false,
+    "id": "petra-cesen",
+    "image_name": "petra-cesen.jpg"
+  },
+  {
+    "name": "Petra Furlan Dodič",
+    "title": "Psihodinamska psihoterapija (psihoterapevtka)",
+    "image_source": "https://ezpps.org/wp-content/uploads/2021/02/Petra-Dodic-e1709045899781.jpg",
+    "website": "https://www.psihoterapijaobala.si/",
+    "location": {
+      "city": "Koper",
+      "address": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "email": "petra@psihoterapijaobala.si",
+    "phone": "+386 40 450 153",
+    "show_on_map": false,
+    "id": "petra-furlan-dodic",
+    "image_name": "petra-furlan-dodic.jpg"
+  },
+  {
+    "name": "Romana Kress",
+    "title": "Transpersonalna psihoterapija (psihoterapevtka, supervizorka)",
+    "image_source": null,
+    "website": "https://www.transpersonalnapsihoterapija.si/",
+    "location": {
+      "city": "Ljubljana, Notranjska",
+      "address": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "email": "romana.k.kress@gmail.com",
+    "phone": "+386 41 913 086",
+    "show_on_map": false,
+    "id": "romana-kress",
+    "image_name": null
+  },
+  {
+    "name": "Sabrina Lever",
+    "title": "Psihodinamska psihoterapija (specializantka)",
+    "image_source": "https://ezpps.org/wp-content/uploads/2023/10/Sabrina-Lever-1024x1024.jpg",
+    "website": "https://psihoterapija-sabrinalever.si/",
+    "location": {
+      "city": "Ljubljana",
+      "address": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "email": "info@psihoterapija-sabrinalever.si",
+    "phone": "+386 04 399 674",
+    "show_on_map": false,
+    "id": "sabrina-lever",
+    "image_name": "sabrina-lever.jpg"
+  },
+  {
+    "name": "Saga L. Škerlep",
+    "title": "Psihoanalitična psihoterapija (psihoterapevtka)",
+    "image_source": "https://ezpps.org/wp-content/uploads/2022/11/psihoterapevt1-1-1.jpg",
+    "website": "https://www.skerlep.com/",
+    "location": {
+      "city": "Ljubljana",
+      "address": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "email": "s.skerlep@gmail.com",
+    "phone": null,
+    "show_on_map": false,
+    "id": "saga-l-skerlep",
+    "image_name": "saga-l-skerlep.jpg"
+  },
+  {
+    "name": "Samo Babuder",
+    "title": "Psihoanalitična psihoterapija (psihoterapevt)",
+    "image_source": "https://ezpps.org/wp-content/uploads/2021/02/Samo-Babuder-e1708984100183.jpg",
+    "website": null,
+    "location": {
+      "city": "Ljubljana",
+      "address": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "email": "samo.babuder@gmail.com",
+    "phone": "+386 31 357 698",
+    "show_on_map": false,
+    "id": "samo-babuder",
+    "image_name": "samo-babuder.jpg"
+  },
+  {
+    "name": "Sanja Guček",
+    "title": "Psihodinamska psihoterapija (specializantka)",
+    "image_source": "https://ezpps.org/wp-content/uploads/2023/04/Slika-Psihoterapija-Sanja-Gucek-s.p-1.png",
+    "website": "https://subscribepage.io/Psihoterapija-SanjaGucek",
+    "location": {
+      "city": "Postojna, Ljubljana in online",
+      "address": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "email": "sanjagucek@gmail.com",
+    "phone": "+386 41 539 098",
+    "show_on_map": false,
+    "id": "sanja-gucek",
+    "image_name": "sanja-gucek.jpg"
+  },
+  {
+    "name": "Silvana Kokol",
+    "title": "Psihoanalitična psihoterapija (psihoterapevtka)",
+    "image_source": "https://ezpps.org/wp-content/uploads/2019/07/Silvana-Kokol-fotografija-e1709045986930.jpg",
+    "website": "https://psihoterapija-silvana-kokol.si/",
+    "location": {
+      "city": "Maribor",
+      "address": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "email": "silvana.kokol@gmail.com",
+    "phone": "+386 31 783 579",
+    "show_on_map": false,
+    "id": "silvana-kokol",
+    "image_name": "silvana-kokol.jpg"
+  },
+  {
+    "name": "Simon Pevec",
+    "title": "Psihodinamska psihoterapija (specializant)",
+    "image_source": "https://ezpps.org/wp-content/uploads/2021/02/Simon-Pevec-e1708985386327.jpg",
+    "website": "https://spoznaj.se/",
+    "location": {
+      "city": "Žalec",
+      "address": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "email": "simon@spoznaj.se",
+    "phone": "+386 70 182 782",
+    "show_on_map": false,
+    "id": "simon-pevec",
+    "image_name": "simon-pevec.jpg"
+  },
+  {
+    "name": "Štefanija Šramel",
+    "title": "Psihoanalitična psihoterapija (psihoterapevtka)",
+    "image_source": null,
+    "website": "https://cpmb.si",
+    "location": {
+      "city": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "email": "stefanija.sramel@amis.net",
+    "phone": "+386 31 423 410",
+    "show_on_map": false,
+    "id": "stefanija-sramel",
+    "image_name": null
+  },
+  {
+    "name": "Tanja Maljevac",
+    "title": "Psihodinamska psihoterapija (psihoterapevtka, učna terapevtka)",
+    "image_source": "https://ezpps.org/wp-content/uploads/2019/02/Tanja-Maljevac_portret-e1708985232865.jpg",
+    "website": "https://tanjamaljevac.si/",
+    "location": {
+      "city": "Ljubljana",
+      "address": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "email": "svetovanje@tanjamaljevac.si",
+    "phone": "+386 41 341 125",
+    "show_on_map": false,
+    "id": "tanja-maljevac",
+    "image_name": "tanja-maljevac.jpg"
+  },
+  {
+    "name": "Teja Gašperin",
+    "title": "Psihodinamska psihoterapija (specializantka)",
+    "image_source": "https://ezpps.org/wp-content/uploads/2022/11/slika-rdec-reklc-1-e1709046100627.jpg",
+    "website": "https://poslusamsrce.si/",
+    "location": {
+      "city": "Radovljica",
+      "address": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "email": "teja@poslusamsrce.si",
+    "phone": "+386 31 340 036",
+    "show_on_map": false,
+    "id": "teja-gasperin",
+    "image_name": "teja-gasperin.jpg"
+  },
+  {
+    "name": "Tina Černe",
+    "title": "Psihodinamska psihoterapija (specializantka)",
+    "image_source": null,
+    "website": "https://psihoterapija-tinacerne.eu/",
+    "location": {
+      "city": "Ljubljana",
+      "address": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "email": "info@psihoterapija-tinacerne.eu",
+    "phone": null,
+    "show_on_map": false,
+    "id": "tina-cerne",
+    "image_name": null
+  },
+  {
+    "name": "Tina Goluh",
+    "title": "Psihoanalitična psihoterapija (specializantka)",
+    "image_source": "https://ezpps.org/wp-content/uploads/2023/10/Screenshot_2023-10-02-08-47-55-184_com.android.chrome-edit.jpg",
+    "website": "https://www.tinagoluh.si/",
+    "location": {
+      "city": "Ljubljana",
+      "address": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "email": "tina.goluh@gmail.com",
+    "phone": "+386 40 195 757",
+    "show_on_map": false,
+    "id": "tina-goluh",
+    "image_name": "tina-goluh.jpg"
+  },
+  {
+    "name": "Tina Hrovat Kralj",
+    "title": "Psihoanalitična psihoterapija (psihoterapevtka)",
+    "image_source": "https://ezpps.org/wp-content/uploads/2022/11/3Y0A8072-1-e1709046184907.jpg",
+    "website": "https://tina-horvat-kralj.si/",
+    "location": {
+      "city": "Maribor",
+      "address": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "email": "psihoterapija@tina-horvat-kralj.si",
+    "phone": "+386 40 632 110",
+    "show_on_map": false,
+    "id": "tina-hrovat-kralj",
+    "image_name": "tina-hrovat-kralj.jpg"
+  },
+  {
+    "name": "Urša Pogačar",
+    "title": "Psihoanalitična psihoterapija (psihoterapevtka)",
+    "image_source": "https://ezpps.org/wp-content/uploads/2019/07/UrsaPogacar-e1708985487226.jpg",
+    "website": "https://psihoterapija-pogacar.si/",
+    "location": {
+      "city": "Ljubljana",
+      "address": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "email": "ursa@psihoterapija-pogacar.si",
+    "phone": "+386 51 389 683",
+    "show_on_map": false,
+    "id": "ursa-pogacar",
+    "image_name": "ursa-pogacar.jpg"
+  },
+  {
+    "name": "Urška Kvas",
+    "title": "Psihodinamska psihoterapija (specializantka)",
+    "image_source": null,
+    "website": "https://psihoterapija-urskakvas.si/",
+    "location": {
+      "city": "Ljubljana",
+      "address": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "email": "info@psihoterapija-urskakvas.si",
+    "phone": null,
+    "show_on_map": false,
+    "id": "urska-kvas",
+    "image_name": null
+  },
+  {
+    "name": "Valentina Cigoj",
+    "title": "Psihoanalitična psihoterapija (psihoterapevtka)",
+    "image_source": null,
+    "website": "https://psihoterapija-cigoj.si/",
+    "location": {
+      "city": "Šempas",
+      "address": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "email": "valentina@psihoterapija-cigoj.si",
+    "phone": "+386 40 799 676",
+    "show_on_map": false,
+    "id": "valentina-cigoj",
+    "image_name": null
+  },
+  {
+    "name": "Vesna Lujinović",
+    "title": "Psihoanalitična psihoterapija (specializantka)",
+    "image_source": "https://ezpps.org/wp-content/uploads/2023/04/Untitled-4-1022x1024.png",
+    "website": "https://psihoterapija-vesna.com/",
+    "location": {
+      "city": "Slovenj Gradec, Ravne na Koroškem",
+      "address": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "email": "vesna@psihoterapija-vesna.com",
+    "phone": "+386 68 641 476",
+    "show_on_map": false,
+    "id": "vesna-lujinovic",
+    "image_name": "vesna-lujinovic.jpg"
+  },
+  {
+    "name": "Vesna Remškar",
+    "title": "Psihoanalitična psihoterapija(specializantka)",
+    "image_source": null,
+    "website": "https://psihoterapija-remikor.si/",
+    "location": {
+      "city": "Ljubljana",
+      "address": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "email": "vesna.remskar@siol.net",
+    "phone": null,
+    "show_on_map": false,
+    "id": "vesna-remskar",
+    "image_name": null
+  },
+  {
+    "name": "Vesna Turk",
+    "title": "Psihodinamska psihoterapija (specializantka)",
+    "image_source": "https://ezpps.org/wp-content/uploads/2019/02/DSC_0269_Vesna-Turk_web-e1709046259957.jpg",
+    "website": "https://www.cujecnost.org/psihoterapija/",
+    "location": {
+      "city": "Ljubljana",
+      "address": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "email": "vesnatur9@gmail.com",
+    "phone": "+386 41 395 794",
+    "show_on_map": false,
+    "id": "vesna-turk",
+    "image_name": "vesna-turk.jpg"
+  },
+  {
+    "name": "Viktorija Šušteršič",
+    "title": "Psihodinamska psihoterapija (specializantka)",
+    "image_source": null,
+    "website": "https://psihoterapija-sebi.si/",
+    "location": {
+      "city": "Ljubljana, Krško",
+      "address": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "email": "info@psihoterapija-sebi.si",
+    "phone": "+386 41 390 054",
+    "show_on_map": false,
+    "id": "viktorija-sustersic",
+    "image_name": null
+  },
+  {
+    "name": "Vitomira Vita Rozman",
+    "title": "Psihodinamska psihoterapija (psihoterapevtka, učna terapevtka)",
+    "image_source": "https://ezpps.org/wp-content/uploads/2021/02/Vita-Rozman-e1708985557752.jpg",
+    "website": "https://www.zivljenje.net/",
+    "location": {
+      "city": "Ljubljana",
+      "address": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "email": "vita.rozman@gmail.com",
+    "phone": "+386 31 77 22 40",
+    "show_on_map": false,
+    "id": "vitomira-vita-rozman",
+    "image_name": "vitomira-vita-rozman.jpg"
+  },
+  {
+    "name": "Zala Razpotnik",
+    "title": "Psihodinamska psihoterapija (specializantka)",
+    "image_source": "https://ezpps.org/wp-content/uploads/2019/07/foto-Zala-Razpotnik-e1709046337961.jpg",
+    "website": "https://psihoterapija-zalarazpotnik.si/",
+    "location": {
+      "city": "Ljubljana",
+      "address": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "email": "info@psihoterapija-zalarazpotnik.si",
+    "phone": "+386 40 359 539",
+    "show_on_map": false,
+    "id": "zala-razpotnik",
+    "image_name": "zala-razpotnik.jpg"
+  },
+  {
+    "name": "Zoltan Pap",
+    "title": "Psihoanalitična psihoterapija (psihoterapevt)",
+    "image_source": "https://ezpps.org/wp-content/uploads/2024/02/IMG_0536-1-1024x1024.jpg",
+    "website": "https://psihoanaliticna-ordinacija.si/",
+    "location": {
+      "city": "Maribor, online",
+      "address": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "email": "zoltan.pap91@gmail.com",
+    "phone": "+386 41 210 128",
+    "show_on_map": false,
+    "id": "zoltan-pap",
+    "image_name": "zoltan-pap.jpg"
+  }
+]
