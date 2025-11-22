@@ -33,6 +33,13 @@
                             <span>{{ formatLocations(member.locations) }}</span>
                         </div>
 
+                        <div v-if="member?.works_online" class="icon-text">
+                            <span class="icon">
+                                <font-awesome-icon icon="fa-solid fa-location-dot" />
+                            </span>
+                            <span>Online</span>
+                        </div>
+
                         <!-- Email -->
                         <a
                         v-if="member?.email"
