@@ -1164,16 +1164,16 @@
     },
     {
         "name": "Luka Agrež",
-        "title": "Psihodinamska psihoterapija (psihoterapevt)",
+        "title": "Psihodinamska psihoterapija (psihoterapevt, učni terapevt)",
         "image_source": "https://ezpps.org/wp-content/uploads/2022/11/spletna-stran-BW_MG_8621_EDITED-1-e1709044487321.jpg",
         "website": "https://www.psihoterapija-agrez.si/",
         "locations": [
             {
                 "city": "Celje",
-                "address": null,
-                "latitude": 46.24541,
-                "longitude": 15.27276,
-                "approx": true,
+                "address": "Kidričeva ulica 3",
+                "latitude": 46.236611831755084,
+                "longitude": 15.273054559295518,
+                "approx": false,
                 "show_on_map": true
             }
         ],
