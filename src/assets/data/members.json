@@ -582,7 +582,7 @@
         "image_name": "dr-lea-bernik.jpg"
     },
     {
-        "name": "Dr. Nika Nikolič",
+        "name": "dr. Nika Nikolič",
         "title": "Psihodinamska psihoterapija (psihoterapevtka)",
         "image_source": "https://ezpps.org/wp-content/uploads/2019/02/Nika-Nikolic_profilna_web-e1708985694517.jpg",
         "website": "https://www.czp.si/",
@@ -603,7 +603,7 @@
         "image_name": "dr-nika-nikolic.jpg"
     },
     {
-        "name": "Dr. Nuša Kovačević Tojnko",
+        "name": "dr. Nuša Kovačević Tojnko",
         "title": "Psihoanalitična psihoterapija (psihoterapevtka, supervizorka pod supervizijo)",
         "image_source": "https://ezpps.org/wp-content/uploads/2019/02/Nuša-Kovačević-Tojnko-e1708986442727.jpg",
         "website": "https://pamina.si/",
@@ -645,7 +645,7 @@
         "image_name": null
     },
     {
-        "name": "Gašper Lesar",
+        "name": "dr. Gašper Lesar",
         "title": "Psihoanalitična psihoterapija(psihoterapevt)",
         "image_source": "https://ezpps.org/wp-content/uploads/2023/04/Untitled-6-1020x1024.png",
         "website": "https://www.psihoterapija-lesar.si",
@@ -662,8 +662,8 @@
         "email": "info@psihoterapija-lesar.si",
         "phone": null,
         "works_online": false,
-        "id": "gasper-lesar",
-        "image_name": "gasper-lesar.jpg"
+        "id": "dr-gasper-lesar",
+        "image_name": "dr-gasper-lesar.jpg"
     },
     {
         "name": "Gregor Knežič",
