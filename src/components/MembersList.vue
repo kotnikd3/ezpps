@@ -1,9 +1,9 @@
 <template>
-    <div class="columns is-multiline">
+    <div class="columns is-mobile is-multiline">
         <div 
             v-for="member in members" 
             :key="member.name" 
-            class="list-item column is-one-quarter-tablet is-one-fifth-widescreen"
+            class="list-item column is-half-mobile is-one-third-tablet is-one-fifth-widescreen"
             @click.stop="$emit('detail-member', member)"
         >
             <div class="card is-size-6">
@@ -80,18 +80,24 @@
 <style scoped>
     .member-photo {
         max-width: 280px;
+        max-height: 260px;
+        object-fit: cover;
+        object-position: top;
     }
     
-    div.icon-text {
+    .icon-text {
         margin-top: 5px;
         display: flex;
         align-items: flex-start;
         word-break: break-all;
         overflow-wrap: break-word;
+        hyphens: auto;
     }
 
-    div.icon-text span:last-child {
+    .icon-text span:last-child {
         flex: 1;
+        overflow-wrap: anywhere;
+        word-break: break-word;
     }
 
     .list-item {
