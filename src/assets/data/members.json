@@ -342,10 +342,10 @@
         "locations": [
             {
                 "city": "Ljubljana",
-                "address": null,
-                "latitude": 46.08045,
-                "longitude": 14.54799,
-                "approx": true,
+                "address": "Parmova ulica 20",
+                "latitude": 46.06047438044248,
+                "longitude": 14.504194106290695,
+                "approx": false,
                 "show_on_map": true
             }
         ],
@@ -568,14 +568,14 @@
         "locations": [
             {
                 "city": "Ljubljana",
-                "address": "Parmova ulica",
-                "latitude": 46.06254300452294,
-                "longitude": 14.503550140582055,
+                "address": "Parmova ulica 53",
+                "latitude": 46.06517571205738,
+                "longitude": 14.502647853494759,
                 "approx": true,
                 "show_on_map": true
             }
         ],
-        "email": "psihoterapijaleabernik@gmail.com",
+        "email": "info@psihoterapija-leabernik.com",
         "phone": "+386 40 165 651",
         "works_online": false,
         "id": "dr-lea-bernik",
@@ -1389,7 +1389,7 @@
         ],
         "email": "info@metkazalaznikfurlani.si",
         "phone": "+386 40 758 833",
-        "works_online": false,
+        "works_online": true,
         "id": "metka-zalaznik-furlani",
         "image_name": "metka-zalaznik-furlani.jpg"
     },
