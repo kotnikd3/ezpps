@@ -1,5 +1,26 @@
 [
     {
+        "name": "mag. Amal A. Trivan",
+        "title": "Psihoanalitična psihoterapija",
+        "image_source": null,
+        "website": "https://pamina.si/amal_a_trivan",
+        "locations": [
+            {
+                "city": "Maribor (Ambulanta za duševno zdravje Pamina)",
+                "address": "Jadranska cesta 23",
+                "latitude": 46.53765882030322,
+                "longitude": 15.644168281402587,
+                "approx": false,
+                "show_on_map": true
+            }
+        ],
+        "email": "amal@pamina.si",
+        "phone": null,
+        "works_online": false,
+        "id": "amal-a-trivan",
+        "image_name": null
+    },
+    {
         "name": "Karmen Henigsman",
         "title": "Psihodinamska psihoterapija (specializantka)",
         "image_source": null,
