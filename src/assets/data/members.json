@@ -341,6 +341,14 @@
         "website": "https://www.razpri-krila.si/",
         "locations": [
             {
+                "city": "Žalec",
+                "address": null,
+                "latitude": 46.2523022713294,
+                "longitude": 15.164483422832209,
+                "approx": true,
+                "show_on_map": true
+            },
+            {
                 "city": "Ljubljana",
                 "address": null,
                 "latitude": 46.05628,
@@ -384,10 +392,10 @@
         "locations": [
             {
                 "city": "Maribor",
-                "address": null,
-                "latitude": 46.55472,
-                "longitude": 15.64667,
-                "approx": true,
+                "address": "Cesta k Tamu 9",
+                "latitude": 46.527347221387465,
+                "longitude": 15.667597610242751,
+                "approx": false,
                 "show_on_map": true
             }
         ],
@@ -790,10 +798,10 @@
         "locations": [
             {
                 "city": "Ljubljana",
-                "address": null,
-                "latitude": 46.07717,
-                "longitude": 14.53363,
-                "approx": true,
+                "address": "Trg mladinskih delovnih brigad 5",
+                "latitude": 46.04662525066438,
+                "longitude": 14.496026597675753,
+                "approx": false,
                 "show_on_map": true
             }
         ],
