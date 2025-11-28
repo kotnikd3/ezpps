@@ -1288,6 +1288,14 @@
                 "longitude": 14.497714940581584,
                 "approx": false,
                 "show_on_map": true
+            },
+            {
+                "city": "Koper",
+                "address": "Gortanov trg 15",
+                "latitude": 45.546084036544876,
+                "longitude": 13.728045198237895,
+                "approx": false,
+                "show_on_map": true
             }
         ],
         "email": "martina@sentoria.si",
@@ -1974,10 +1982,10 @@
         "locations": [
             {
                 "city": "Šempas",
-                "address": null,
-                "latitude": 45.93028,
-                "longitude": 13.74361,
-                "approx": true,
+                "address": "Šempas 29",
+                "latitude": 45.92825763429835,
+                "longitude": 13.74684014057777,
+                "approx": false,
                 "show_on_map": true
             }
         ],
