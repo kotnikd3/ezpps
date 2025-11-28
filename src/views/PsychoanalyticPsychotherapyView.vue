@@ -7,15 +7,14 @@
     <section class="section">
         <div class="container">
             <div class="columns is-vcentered">
-                <div class="column">
+                <div class="column is-8">
                     <div class="block">
                         Freud je postavil njene temelje, na katerih pa se vseskozi razvija. Freud je prvi proučeval nezavedno in principe njegovega delovanja. Ugotavljal je, da je naša zavest le vrh ledene gore, medtem ko se v potopljeni globini skriva naše nezavedno, polno primarnih želja in impulzov. Skozi psihološki razvoj posameznika so se neprijetni spomini, občutki in nerazrešeni konflikti iz otroštva z obrambnim mehanizmom izrinili iz zavesti. Kljub temu, da se nezavedni procesi odvijajo izven zavesti, pa vplivajo na naše delovanje.
                     </div>
                 </div>
-                <div class="column has-text-centered">
-                    <figure class="image is-inline-block" style="width: 80%;">
-                        <img src="@/assets/images/salvador_dali_metamorphosis_of_narcissus.webp" alt="psihoanaliza">
-                        <figcaption><i>Salvador Dalí: Metamorfoza narcisa</i></figcaption>
+                <div class="column has-text-centered is-4">
+                    <figure class="image is-inline-block" style="width: 60%;">
+                        <img src="@/assets/images/freud.jpg" alt="psihoanaliza">
                     </figure>
                 </div>
             </div>
