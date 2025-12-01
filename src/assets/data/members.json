@@ -1,5 +1,26 @@
 [
     {
+        "name": "Urška Marinšek",
+        "title": "Psihoanalitična (specializantka) in psihodinamska psihoterapija (učna psihoterapevtka)",
+        "image_source": null,
+        "website": null,
+        "locations": [
+            {
+                "city": "Ljubljana",
+                "address": "Gosposvetska cesta 5",
+                "latitude": 46.054723105313926,
+                "longitude": 14.503516297164182,
+                "approx": false,
+                "show_on_map": true
+            }
+        ],
+        "email": "urskamarinsek.psihoterapija@gmail.com",
+        "phone": "040 571 503",
+        "works_online": true,
+        "id": "urska-marinsek",
+        "image_name": null
+    },
+    {
         "name": "mag. Amal A. Trivan",
         "title": "Psihoanalitična psihoterapija",
         "image_source": null,
@@ -619,8 +640,8 @@
             {
                 "city": "Ljubljana",
                 "address": "Gosposvetska cesta 5",
-                "latitude": 46.054810959583754,
-                "longitude": 14.503653751563219,
+                "latitude": 46.05465282757601,
+                "longitude": 14.503667194561595,
                 "approx": false,
                 "show_on_map": true
             }
@@ -883,8 +904,8 @@
             {
                 "city": "Ljubljana",
                 "address": "Gosposvetska cesta 5",
-                "latitude": 46.05488903536658,
-                "longitude": 14.503640111745637,
+                "latitude": 46.054757546027005,
+                "longitude": 14.503840894232393,
                 "approx": false,
                 "show_on_map": true
             }
@@ -2046,8 +2067,8 @@
             {
                 "city": "Ljubljana",
                 "address": "Gosposvedska cesta 5",
-                "latitude": 46.054762488974774,
-                "longitude": 14.503662417712958,
+                "latitude": 46.05484504395825,
+                "longitude": 14.503714140418568,
                 "approx": false,
                 "show_on_map": true
             }
@@ -2117,8 +2138,8 @@
             {
                 "city": "Ljubljana",
                 "address": "Gosposvetska cesta 5",
-                "latitude": 46.054777353072865,
-                "longitude": 14.503672298254036,
+                "latitude": 46.05475242646292,
+                "longitude": 14.50369335011048,
                 "approx": false,
                 "show_on_map": true
             }
