@@ -2110,22 +2110,22 @@
     },
     {
         "name": "Zala Razpotnik",
-        "title": "Psihodinamska psihoterapija (specializantka)",
+        "title": "Psihodinamska psihoterapija (psihoterapevt_ka)",
         "image_source": "https://ezpps.org/wp-content/uploads/2019/07/foto-Zala-Razpotnik-e1709046337961.jpg",
         "website": "https://psihoterapija-zalarazpotnik.si/",
         "locations": [
             {
                 "city": "Ljubljana",
-                "address": null,
-                "latitude": 46.07827,
-                "longitude": 14.51736,
-                "approx": true,
+                "address": "Gosposvetska cesta 5",
+                "latitude": 46.054777353072865,
+                "longitude": 14.503672298254036,
+                "approx": false,
                 "show_on_map": true
             }
         ],
         "email": "info@psihoterapija-zalarazpotnik.si",
         "phone": "+386 40 359 539",
-        "works_online": false,
+        "works_online": true,
         "id": "zala-razpotnik",
         "image_name": "zala-razpotnik.jpg"
     },
