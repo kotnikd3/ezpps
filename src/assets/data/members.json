@@ -293,17 +293,17 @@
         "image_name": "ana-zore.jpg"
     },
     {
-        "name": "Anamarija Rabič",
-        "title": "Psihoanalitična psihoterapija (specializantka)",
+        "name": "Anamarija S. Rabič",
+        "title": "Psihoanalitična psihoterapija (psihoterapevtka)",
         "image_source": "https://ezpps.org/wp-content/uploads/2023/03/Untitled-1024x1024.png",
         "website": "https://www.psihoterapija-inside.si/",
         "locations": [
             {
                 "city": "Ljubljana",
-                "address": null,
-                "latitude": 46.02087,
-                "longitude": 14.50285,
-                "approx": true,
+                "address": "Linhartova cesta 17",
+                "latitude": 46.064763391839236,
+                "longitude": 14.514718968840182,
+                "approx": false,
                 "show_on_map": true
             }
         ],
