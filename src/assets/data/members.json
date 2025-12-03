@@ -497,32 +497,16 @@
         "locations": [
             {
                 "city": "Ljubljana",
-                "address": null,
-                "latitude": 46.05629,
-                "longitude": 14.50599,
-                "approx": true,
-                "show_on_map": true
-            },
-            {
-                "city": "Maribor",
-                "address": null,
-                "latitude": 46.56443,
-                "longitude": 15.66095,
-                "approx": true,
-                "show_on_map": true
-            },
-            {
-                "city": "Ptuj",
-                "address": null,
-                "latitude": 46.42005,
-                "longitude": 15.87018,
-                "approx": true,
+                "address": "Tržaška c. 2",
+                "latitude": 46.047104146752865,
+                "longitude": 14.492722730821502,
+                "approx": false,
                 "show_on_map": true
             }
         ],
         "email": "brigita.korpar@psihoterapije.si",
         "phone": null,
-        "works_online": false,
+        "works_online": true,
         "id": "brigita-korpar",
         "image_name": "brigita-korpar.jpg"
     },
