@@ -746,10 +746,27 @@
         "title": "Psihoanalitična psihoterapija (psihoterapevtka)",
         "image_source": "https://ezpps.org/wp-content/uploads/2025/02/sedeca-best.jpeg",
         "website": null,
-        "locations": [],
-        "email": null,
-        "phone": null,
-        "works_online": false,
+        "locations": [
+            {
+                "city": "Celje",
+                "address": "Vodnikova 13",
+                "latitude": 46.23043572711955,
+                "longitude": 15.262875262166165,
+                "approx": false,
+                "show_on_map": true
+            },
+            {
+                "city": "Ljubljana",
+                "address": "Slomškova ulica 14",
+                "latitude": 46.055516555869424,
+                "longitude": 14.51190275705494,
+                "approx": false,
+                "show_on_map": true
+            }
+        ],
+        "email": "irenairenaz@gmail.com",
+        "phone": "+386 31 425 289",
+        "works_online": true,
         "id": "irena-zagajsek",
         "image_name": "irena-zagajsek.jpg"
     },
