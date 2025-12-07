@@ -31,7 +31,7 @@
                                 <a class="button is-outlined is-primary" href="https://ecpp.ngo/certification/#forms" target="_blank" rel="noopener noreferrer">Pridobi vlogo</a>
                             </div>
                             <div class="block">
-                                Vsi kandidati za certifikat ECPP morajo komisiji poslati popolno dokumentacijo v angleškem jeziku v dveh izvodih na e-naslov <a href="mailto:info@ezpps.org" class="icon-text">info@ezpps.org</a>.
+                                Vsi kandidati za certifikat ECPP morajo komisiji poslati popolno dokumentacijo v angleškem jeziku v dveh izvodih na e-naslov <a href="mailto:info@ezpps.si" class="icon-text">info@ezpps.si</a>.
                             </div>
                         </div>
                     </div>

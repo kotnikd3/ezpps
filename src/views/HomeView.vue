@@ -38,6 +38,9 @@
 
     <section class="section">
         <div class="container">
+            <p class="is-size-4 has-text-centered mb-5">
+                EZPPS je članica Slovenske krovne zveze za psihoterapijo (SKZP), Evropske zveze za psihoterapijo (EAP) ter Evropske konfederacije za psihoanalitično psihoterapijo (ECPP).
+            </p>
             <div class="columns is-desktop is-vcentered">
                 <div class="column">
                     <div class="columns is-vcentered is-mobile">
@@ -48,7 +51,7 @@
                                 </a>
                             </figure>
                         </div>
-                        <div class="column is-size-6">Je strokovno združenje, ki predstavlja slovensko podružnico mednarodnega psihoanalitičnega psihoterapevtskega združenja ECPP.</div>
+                        <div class="column is-size-6">Strokovno združenje, ki predstavlja slovensko podružnico mednarodnega psihoanalitičnega psihoterapevtskega združenja ECPP.</div>
                     </div>
                 </div>
                 <div class="column">
@@ -60,7 +63,7 @@
                                 </a>
                             </figure>
                         </div>
-                        <div class="column is-size-6">Je članica Slovenske krovne zveze za psihoterapijo, ki pod svojim okriljem združuje strokovna združenja različnih psihoterapevtskih pristopov v Sloveniji.</div>
+                        <div class="column is-size-6">Slovenske krovne zveze za psihoterapijo pod svojim okriljem združuje strokovna združenja različnih psihoterapevtskih pristopov v Sloveniji.</div>
                     </div>
                 </div>
                 <div class="column">

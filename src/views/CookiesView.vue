@@ -6,7 +6,7 @@
     <section class="section container">
         <h3 class="title is-3">Način in namen obdelave osebnih podatkov</h3>
         <div class="block">
-            Z uporabo spletne strani ezpps.org se uporabnik strinja z veljavnimi pravili in splošnimi pogoji. Uporabnik lahko redno spremlja spremembe splošnih pogojev in posledično način in namen obdelave zbranih osebnih podatkov. Podatki o uporabnikih niso v nobenem primeru predani nepooblaščenim osebam.
+            Z uporabo spletne strani ezpps.si se uporabnik strinja z veljavnimi pravili in splošnimi pogoji. Uporabnik lahko redno spremlja spremembe splošnih pogojev in posledično način in namen obdelave zbranih osebnih podatkov. Podatki o uporabnikih niso v nobenem primeru predani nepooblaščenim osebam.
         </div>
     </section>
 
@@ -26,7 +26,7 @@
     <section class="section container">
         <h3 class="title is-3">Kontaktni obrazci in posredovanje e-sporočil</h3>
         <div class="block">
-            Uporabnik lahko svoja vprašanja posreduje tudi preko e-maila, objavljenega na spletni stran ezpps.org. Ti podatki bodo uporabljeni za rešitev uporabnikovega problema. S pošiljanjem e-sporočil se uporabnik strinja s splošnimi pogoji uporabe spletnih strani ezpps.org.
+            Uporabnik lahko svoja vprašanja posreduje tudi preko e-maila, objavljenega na spletni stran ezpps.si. Ti podatki bodo uporabljeni za rešitev uporabnikovega problema. S pošiljanjem e-sporočil se uporabnik strinja s splošnimi pogoji uporabe spletnih strani ezpps.si.
         </div>
     </section>
 
@@ -55,7 +55,7 @@
             Slovenija
         </div>
         <div class="block">
-            Ali pa na elektronski naslov: info@ezpps.org
+            Ali pa na elektronski naslov: info@ezpps.si
         </div>
         <div class="block">
             Če uporabnik meni, da obdelava osebnih podatkov krši Splošno uredbo o varstvu osebnih podatkov ali nacionalno zakonodajo s področja varstva osebnih podatkov, lahko svojo pritožbo posreduje nadzornemu organu s področja varstva osebnih podatkov.
@@ -65,14 +65,14 @@
     <section class="section container">
         <h3 class="title is-3">Zagotavljanje varnosti podatkov</h3>
         <div class="block">
-            Podatki, ki jih uporabnik posreduje preko spletne strani anaplesec.si so zaupni in se obravnavajo v skladu z veljavno slovensko zakonodajo in Splošno uredbo EU o varstvu osebnih podatkov. Evropsko združenje psihoanalitičnih pristopov bo osebne podatke varovala in preprečevala njihovo zlorabo. Osebni podatki bodo uporabljeni le za namene, za katere je uporabnik dal svoje soglasje. Dostop do osebnih podatkov imajo zgolj s strani ezpps.org pooblaščene osebe (zaposleni, pogodbeni partnerji) in sicer z uporabniškim imenom in geslom. Za prenose vseh osebnih podatkov uporabnika se uporablja varen protokol SSL.
+            Podatki, ki jih uporabnik posreduje preko spletne strani anaplesec.si so zaupni in se obravnavajo v skladu z veljavno slovensko zakonodajo in Splošno uredbo EU o varstvu osebnih podatkov. Evropsko združenje psihoanalitičnih pristopov bo osebne podatke varovala in preprečevala njihovo zlorabo. Osebni podatki bodo uporabljeni le za namene, za katere je uporabnik dal svoje soglasje. Dostop do osebnih podatkov imajo zgolj s strani ezpps.si pooblaščene osebe (zaposleni, pogodbeni partnerji) in sicer z uporabniškim imenom in geslom. Za prenose vseh osebnih podatkov uporabnika se uporablja varen protokol SSL.
         </div>
     </section>
 
     <section class="section container">
         <h3 class="title is-3">Posredovanje podatkov pooblaščenim partnerjem</h3>
         <div class="block">
-            Podatki, ki jih uporabnik zaupa na strani ezpps.org so zaupni. Evropsko združenje psihoanalitičnih pristopov jih ne posreduje nepooblaščenim tretjim osebam. Osebne podatke lahko posreduje svojim pogodbenim obdelovalcem osebnih podatkov ali po uradni zakonski dolžnosti. Podatki so lahko posredovani:
+            Podatki, ki jih uporabnik zaupa na strani ezpps.si so zaupni. Evropsko združenje psihoanalitičnih pristopov jih ne posreduje nepooblaščenim tretjim osebam. Osebne podatke lahko posreduje svojim pogodbenim obdelovalcem osebnih podatkov ali po uradni zakonski dolžnosti. Podatki so lahko posredovani:
         </div>
         <div class="content">
             <ul>
@@ -85,14 +85,14 @@
     <section class="section container">
         <h3 class="title is-3">Privolitev</h3>
         <div class="block">
-            Z uporabo spletne strani ezpps.org se uporabnik strinja s splošnimi pogoji uporabe, ki so objavljeni na tem spletnem mestu. Uporabnik lahko spremlja spremembe splošnih pogojev ter posledično način in namen obdelave zbranih osebnih podatkov.
+            Z uporabo spletne strani ezpps.si se uporabnik strinja s splošnimi pogoji uporabe, ki so objavljeni na tem spletnem mestu. Uporabnik lahko spremlja spremembe splošnih pogojev ter posledično način in namen obdelave zbranih osebnih podatkov.
         </div>
     </section>
 
     <section class="section container">
         <h3 class="title is-3">Povezava z družbenimi omrežji</h3>
         <div class="block">
-            Na spletni strani ezpps.org je ustvarjena povezava do družbenega omrežja (Facebook, Instagram, Youtube).
+            Na spletni strani ezpps.si je ustvarjena povezava do družbenega omrežja (Facebook, Instagram, Youtube).
         </div>
     </section>
 

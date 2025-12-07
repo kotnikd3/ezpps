@@ -47,7 +47,7 @@
                     </div>
                     <RouterLink class="navbar-item" :to="{ name: 'library_view' }" @click="isMenuActive = false;">Publikacije</RouterLink>
                     <RouterLink class="navbar-item" :to="{ name: 'events_view' }" @click="isMenuActive = false;">Dogodki</RouterLink>
-                    <RouterLink class="navbar-item" :to="{ name: 'contact_view' }" @click="isMenuActive = false;">Kontakt</RouterLink>
+                    <RouterLink class="navbar-item" :to="{ name: 'contact_view' }" @click="isMenuActive = false;">Kontakti</RouterLink>
                 </div>
             </div>
         </div>
@@ -58,9 +58,9 @@
     <footer class="footer">
         <div class="container">
             <div class="columns is-mobile is-multiline">
-                <div class="column is-half-mobile is-3-desktop">
+                <div class="column is-half-mobile is-offset-2-desktop is-3-desktop">
                     <figure style="width: 50%;">
-                        <a href="https://ezpps.org" target="_blank" rel="noopener noreferrer">
+                        <a href="https://ezpps.si" target="_blank" rel="noopener noreferrer">
                             <img src="@/assets/images/ezpps_logo_v1.png" alt="EZPPS">
                         </a>
                     </figure>
@@ -82,11 +82,11 @@
                             </a>
                         </li>
                         <li>
-                            <a href="mailto:info@ezpps.org" class="icon-text">
+                            <a href="mailto:info@ezpps.si" class="icon-text">
                                 <span class="icon">
                                     <font-awesome-icon icon="fa-regular fa-envelope" />
                                 </span>
-                                <span>info@ezpps.org</span>
+                                <span>info@ezpps.si</span>
                             </a>
                         </li>
                         <li><br></li>
@@ -124,7 +124,7 @@
                         </li>
                     </ul>
                 </div>
-                <div class="column is-half-mobile is-3-desktop">
+                <div class="column is-full-mobile is-2-desktop">
                     <h5 class="title is-5"><strong>O psihoterapiji</strong></h5>
                     <ul>
                         <li>
@@ -143,31 +143,6 @@
                             <RouterLink :to="{ name: 'connections_view' }">Povezave</RouterLink>
                         </li>
                     </ul>
-                </div>
-                <div class="column is-full-mobile is-3-desktop">
-                    <h5 class="title is-5"><strong>Pošljite nam sporočilo</strong></h5>
-                    <form ref="form">
-                        <div class="field">
-                            <div class="control">
-                                <input class="input" type="text" placeholder="Ime in priimek" required>
-                            </div>
-                        </div>
-                        <div class="field">
-                            <div class="control">
-                                <input class="input" type="text" placeholder="Email" required>
-                            </div>
-                        </div>
-                        <div class="field">
-                            <div class="control">
-                                <textarea class="textarea" type="text" placeholder="Sporočilo ..." required></textarea>
-                            </div>
-                        </div>
-                        <div class="field has-text-centered">
-                            <div class="control">
-                                <button class="button is-outlined is-primary" disabled>Pošlji</button>
-                            </div>
-                        </div>
-                    </form>
                 </div>
             </div>
             <div class="has-text-centered">

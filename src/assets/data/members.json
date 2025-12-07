@@ -742,7 +742,7 @@
         "image_name": "ines-majcen.jpg"
     },
     {
-        "name": "Irena Zagajšek",
+        "name": "mag. Irena Zagajšek",
         "title": "Psihoanalitična psihoterapija (psihoterapevtka)",
         "image_source": "https://ezpps.org/wp-content/uploads/2025/02/sedeca-best.jpeg",
         "website": "https://psihoanaliza.org",
@@ -768,7 +768,7 @@
         "phone": "+386 31 425 289",
         "works_online": true,
         "id": "irena-zagajsek",
-        "image_name": "irena-zagajsek.jpg"
+        "image_name": null
     },
     {
         "name": "Iza Valič",

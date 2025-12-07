@@ -68,7 +68,7 @@
                         V pristopni izjavi kandidat izrazi željo postati član društva in pripravljenost sodelovati pri uresničevanju osnovnih namenov in ciljev društva ter se zaveže, da bo deloval v skladu s Statutom društva in društvenim etičnim kodeksom ter da bo redno plačeval članarino.
                     </div>
                     <div class="block">
-                        Vsi obrazci so dostopni na spletni strani društva ali pri predsedniku, podpredsedniku in tajniku društva. Izpolnjena pristopna izjava z vsemi potrebnimi dokazili se pošlje na elektronski naslov društva: <a href="mailto:info@ezpps.org" class="icon-text">info@ezpps.org</a>.
+                        Vsi obrazci so dostopni na spletni strani društva ali pri predsedniku, podpredsedniku in tajniku društva. Izpolnjena pristopna izjava z vsemi potrebnimi dokazili se pošlje na elektronski naslov društva: <a href="mailto:info@ezpps.si" class="icon-text">info@ezpps.si</a>.
                     </div>
                 </div>
             </div>

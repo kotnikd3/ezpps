@@ -8,6 +8,40 @@
     <section class="section">
         <div class="container">
             <div class="columns">
+                <div class="column is-size-4">
+                    <h3 class="title is-3 has-text-primary">Predsednica</h3>
+                    <h3 class="subtitle is-4">Dr. Urška Battelino</h3>
+                    <a href="mailto:ubattelino@gmail.com" class="block icon-text">
+                        <span class="icon">
+                            <font-awesome-icon icon="fa-regular fa-envelope" />
+                        </span>
+                        <span>ubattelino@gmail.com</span>
+                    </a>
+                </div>
+                <div class="column is-size-4">
+                    <h3 class="title is-3 has-text-primary">Tajnica</h3>
+                    <h3 class="subtitle is-4">Saga L. Škerlep</h3>
+                    <a href="mailto:tajnistvo@ezpps.si" class="block icon-text">
+                        <span class="icon">
+                            <font-awesome-icon icon="fa-regular fa-envelope" />
+                        </span>
+                        <span>tajnistvo@ezpps.si</span>
+                    </a>
+                    <br>
+                    <a href="tel:0038631833621" class="icon-text">
+                        <span class="icon">
+                            <font-awesome-icon icon="fa-solid fa-phone" />
+                        </span>
+                        <span>031 833 621</span>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="section">
+        <div class="container">
+            <div class="columns">
                 <div class="column">
                     <h3 class="title is-3">Skupščina</h3>
                     <div class="block">
@@ -46,7 +80,7 @@
                         Častno razsodišče je avtonomno v svojih odločitvah in o svojem delu poroča Strokovnemu svetu EZPPS in Skupščini enkrat letno.
                     </div>
                     <div class="block">
-                        Kontakt: <a href="mailto:castno.razsodisce@ezpps.org">castno.razsodisce@ezpps.org</a>
+                        Kontakt: <a href="mailto:castno.razsodisce@ezpps.si">castno.razsodisce@ezpps.si</a>
                     </div>
                 </div>
                 <div class="column">
