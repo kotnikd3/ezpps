@@ -1,6 +1,6 @@
 <script setup>
     import { GOOGLE_MAPS_API_KEY, GOOGLE_MAPS_MAP_ID } from '@/services/constants';
-    import { GoogleMap, AdvancedMarker, InfoWindow } from 'vue3-google-map'
+    import { GoogleMap, AdvancedMarker, InfoWindow, MarkerCluster } from 'vue3-google-map'
     import { computed } from "vue";
     import { useRouter } from "vue-router"
 
@@ -13,14 +13,21 @@
         }
     })
 
-    // Filter members that have at least one valid location with lat/lng
-    const membersWithLocations = computed(() =>
-        props.members.filter(member =>
-            member.locations?.some(
-                loc => loc.latitude && loc.longitude && loc.show_on_map
-            )
-        )
-    )
+    /**
+     * Flatten all member locations into one array:
+     * [
+     *   { member, loc },
+     *   { member, loc },
+     *   ...
+     * ]
+     */
+    const flatLocations = computed(() => {
+        return props.members.flatMap((member) =>
+            (member.locations ?? [])
+            .filter((l) => l.latitude && l.longitude && l.show_on_map)
+            .map((loc) => ({ member, loc }))
+        );
+    });
 
     function memberDetail(member) {
         router.push({ name: 'member_details', params: { id: member.id } });
@@ -39,27 +46,36 @@
         :map-type-control="false"
         :clickable-icons="false"
     >
-        <div v-for="member in membersWithLocations" :key="member.id">
+        <MarkerCluster>
             <AdvancedMarker
-                v-for="(loc, i) in member.locations"
-                :key="`${member.id}-${i}`"
-                :options="{ position: { lat: loc.latitude, lng: loc.longitude } }"
+                v-for="(item, i) in flatLocations"
+                :key="i"
+                :options="{ position: { lat: item.loc.latitude, lng: item.loc.longitude } }"
                 :pin-options="{ scale: 1, glyphColor: '#ffffff', borderColor: '#ffffff', background: '#15489f' }"
             >
                 <InfoWindow>
                     <div id="content" style="max-width: 200px;">
-                        <a class="has-text-primary is-size-6 has-text-weight-bold" @click="memberDetail(member)">
-                            {{ member.name }}
+                        <a class="has-text-primary is-size-6 has-text-weight-bold" @click="memberDetail(item.member)">
+                            {{ item.member.name }}
                         </a>
                         <p>
-                            {{ member.title }}
+                            {{ item.member.title }}
                         </p>
-                        <p v-if="loc.approx" class="has-text-grey pt-2 has-text-weight-light is-italic">
+                        <p v-if="item.loc.approx" class="has-text-grey pt-2 has-text-weight-light is-italic">
                             *Zaradi varovanja zasebnosti je prikazana zgolj približna lokacija.
                         </p>
                     </div>
                 </InfoWindow>
             </AdvancedMarker>
-        </div>
+        </MarkerCluster>
     </GoogleMap>
 </template>
+
+<style scoped lang="scss">
+    @use '@/assets/variables.scss' as *;
+
+    // Use the Vue "deep" selector to penetrate child component DOM
+    ::v-deep gmp-advanced-marker svg {
+        fill: $color-blue-main !important;
+    }
+</style>

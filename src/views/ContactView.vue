@@ -17,7 +17,7 @@
                                     <span class="icon">
                                         <font-awesome-icon icon="fa-regular fa-envelope" />
                                     </span>
-                                    <span>info@ezzps.si</span>
+                                    <span>info@ezpps.si</span>
                                 </a>
                             </div>
                             <div class="block">
@@ -53,11 +53,11 @@
                                 </a>
                             </div>
                             <div class="block">
-                                <a href="mailto:it@ezzps.si" class="icon-text" style="text-decoration: none;">
+                                <a href="mailto:it@ezpps.si" class="icon-text" style="text-decoration: none;">
                                     <span class="icon">
                                         <font-awesome-icon icon="fa-regular fa-envelope" />
                                     </span>
-                                    <span>it@ezzps.si</span>
+                                    <span>it@ezpps.si</span>
                                 </a>
                             </div>
                         </div>
