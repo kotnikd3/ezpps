@@ -4,7 +4,7 @@
             <div class="container">
                 <div class="columns is-vcentered">
                     <div class="column has-text-right">
-                        <h1 class="title is-1 is-size-2-mobile has-text-primary" style="font-size: 3.2rem;">Evropsko združenje psihoanalitičnih pristopov – Slovenija (EZPPS)</h1>
+                        <h1 class="title is-1 is-size-2-mobile has-text-primary">Evropsko združenje psihoanalitičnih pristopov – Slovenija (EZPPS)</h1>
                     </div>
                     <div class="column">
                         <div class="is-size-4 is-size-5-mobile">
