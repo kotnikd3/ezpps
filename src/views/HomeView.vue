@@ -4,10 +4,10 @@
             <div class="container">
                 <div class="columns is-vcentered">
                     <div class="column has-text-right">
-                        <h1 class="title is-1 is-size-2-mobile has-text-primary">Evropsko združenje psihoanalitičnih pristopov – Slovenija (EZPPS)</h1>
+                        <h1 class="title is-2 is-size-3-mobile has-text-primary">Evropsko združenje psihoanalitičnih pristopov – Slovenija (EZPPS)</h1>
                     </div>
                     <div class="column">
-                        <div class="is-size-4 is-size-5-mobile">
+                        <div class="is-size-5 is-size-6-mobile">
                             Društvo, ki združuje slovenske psihoterapevte in psihoterapevtke, katerih delo temelji na psihoanalitičnih principih razumevanja človekove duševnosti.
                         </div>
                     </div>
@@ -22,7 +22,7 @@
                 <div class="hero-body">
                 <nav class="level">
                     <div class="level-item">
-                        <h3 class="title is-3">Poiščite psihoterapevta v svoji bližini.</h3>
+                        <h3 class="title is-4">Poiščite psihoterapevta v svoji bližini.</h3>
                     </div>
                     <div class="level-item">
                         <RouterLink class="button is-white is-rounded is-medium" :to="{ name: 'members_view' }">Seznam članov</RouterLink>
@@ -38,7 +38,7 @@
 
     <section class="section">
         <div class="container">
-            <p class="is-size-4 has-text-centered mb-5">
+            <p class="is-size-5 has-text-centered mb-5">
                 EZPPS je članica Slovenske krovne zveze za psihoterapijo (SKZP), Evropske zveze za psihoterapijo (EAP) ter Evropske konfederacije za psihoanalitično psihoterapijo (ECPP).
             </p>
             <div class="columns is-desktop is-vcentered">
