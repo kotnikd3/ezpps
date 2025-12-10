@@ -1109,10 +1109,10 @@
         "locations": [
             {
                 "city": "Ljubljana",
-                "address": null,
-                "latitude": 46.07936,
-                "longitude": 14.48772,
-                "approx": true,
+                "address": "Resljeva c. 30",
+                "latitude": 46.056508197404426,
+                "longitude": 14.511768140003413,
+                "approx": false,
                 "show_on_map": true
             }
         ],
