@@ -33,7 +33,7 @@
                                     <span class="icon">
                                         <font-awesome-icon icon="fa-regular fa-envelope" />
                                     </span>
-                                    <span>izobrazevanje@ezpps.si</span>
+                                    <span>izobrazevanja@ezpps.si</span>
                                 </a>
                             </div>
                             <div class="block">
