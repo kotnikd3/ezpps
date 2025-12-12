@@ -6,10 +6,10 @@ import 'bulma-list/css/bulma-list.css'
 // FontAwesome
 import { library } from '@fortawesome/fontawesome-svg-core'
 import { FontAwesomeIcon } from '@fortawesome/vue-fontawesome'
-import { faCopyright, faEnvelope, faFile } from '@fortawesome/free-regular-svg-icons'
+import { faCopyright, faEnvelope, faFile, faClock } from '@fortawesome/free-regular-svg-icons'
 import { faLocationDot, faPhone, faGlobe } from '@fortawesome/free-solid-svg-icons'
 
-library.add(faCopyright, faEnvelope, faLocationDot, faFile, faPhone, faGlobe)
+library.add(faCopyright, faEnvelope, faLocationDot, faFile, faPhone, faGlobe, faClock)
 
 import { createApp } from 'vue'
 import App from './App.vue'

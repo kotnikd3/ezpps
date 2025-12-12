@@ -1,17 +1,19 @@
 [
     {
-        "title": "Predavanje SKZP: Zasvojenost s seksualnostjo in internetno pornografijo – 2.del, Peter Topić",
-        "content": "Seminar je oblikovan kot samostojna celota in je primeren tudi za tiste, ki se prvega dela niste udeležili. Zasvojenost je verjetno eden najbolj proučevanih in pojasnjevanih fenomenov, povezanih z duševnim zdravjem.",
-        "datetime": "18. 2. 2021",
-        "place": null,
-        "image_name": "18-02-2021.png",
-        "redirect_to": "https://www.skzp.si/2021/02/03/zasvojenost-s-seksualnostjo-in-internetno-pornografijo/"
+        "id": "nevidne-niti-odnosa",
+        "title": "Nevidne niti odnosa: »Ali zares prepoznamo transfer in kontratransfer v psihoterapevtskem procesu?«",
+        "content": "Prvo predavanje bo predstavilo transfer in kontratransfer kot ključna vodnika v terapevtskem procesu. Posvetili se bomo delu s transferjem, razumevanju kontratransferja in njegovega sporočila, ki terapevtu pomaga do globljih uvidov ter njuni dinamiki v praksi. Drugo predavanje pa bo posvečeno telesnemu kontratransferju in uporabi telesnih odzivov kot diagnostičnega ter relacijskega orodja. Raziskali bomo, kako terapevtovo telo soustvarja odnos, razlike med analitičnim in dinamskim pogledom ter vlogo zavestnih in nezavednih somatskih odzivov. Vključene bodo tudi kratke izkustvene vaje somatskega zaznavanja",
+        "datetime": "4.1.2026 med 9:00 in 17:30",
+        "place": "City hotel, Ljubljana ali online",
+        "image_name": null,
+        "redirect_to": null
     },
     {
-        "title": "Predavanje SKZP: Katarina Kompan Erzar",
-        "content": "",
-        "datetime": "25. 3. 2021",
-        "place": null,
+        "id": "skupinska-supervizija-2025-1",
+        "title": "Skupinsko supervizija",
+        "content": "Dr. Urška Battelino, psihoanalitična psihoterapevtka, učna terapevtka in supervizorka, odpira novo skupinsko supervizijo. Skupina je odprta za psihoterapevte vseh modalitet. Dela se na kliničnih primerih (predstavljanje primerov iz prakse). Srečanja bodo ob petkih od 10h do 11:30, 1x na mesec. V skupini se predvideva okvirno 8 udeležencev.",
+        "datetime": "januar ali februar 2026",
+        "place": "Ljubljana",
         "image_name": null,
         "redirect_to": null
     }

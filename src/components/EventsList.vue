@@ -1,32 +1,40 @@
 <template>
     <div>
-        <div class="list has-hoverable-list-items has-visible-pointer-controls">
-            <a 
-                v-for="event in events" 
-                :key="event.title"
-                class="list-item"
-                :href="event.redirect_to"
-                target="_blank" 
-                rel="noopener noreferrer"
-            >
-                <div class="list-item-image is-hidden-mobile">
-                    <figure class="image" style="max-width: 200px;">
-                        <img v-if="event?.image_name" :src="`/images/events/${event.image_name}`" :alt="event?.title">
-                        <img v-else src="@/assets/images/home_for_members.jpg" :alt="event?.title"/>
-                    </figure>
+        <article 
+            class="media list-item py-5"
+            v-for="event in events" 
+            :key="event.id"
+            @click.stop="$emit('detail-event', event)"
+        >
+            <figure class="media-left">
+                <p class="image is-64x64">
+                    <img src="@/assets/images/undraw_conversation_15p8.svg" />
+                </p>
+            </figure>
+            <div class="media-content">
+                <div class="content">
+                    <p class="has-text-primary has-text-weight-bold">{{ truncate(event?.title) }}</p>
+                    <p v-html="truncate(event.content)"></p>
                 </div>
-
-                <div class="list-item-content">
-                    <h1 class="title is-4">{{ truncate(event?.title) }}</h1>
-
-                    <div class="subtitle is-4 has-text-primary">
-                        {{ event?.datetime }}
+                <div class="has-text-primary">
+                    <div class="icon-text">
+                        <span class="icon">
+                            <font-awesome-icon icon="fa-regular fa-clock" />
+                        </span>
+                        <span>{{ event?.datetime }}</span>
                     </div>
-                    
-                    <div class="list-item-description">{{ truncate(event.content) }}</div>
+                    <div class="icon-text">
+                        <span class="icon">
+                            <font-awesome-icon icon="fa-solid fa-location-dot" />
+                        </span>
+                        <span>{{ event?.place }}</span>
+                    </div>
                 </div>
-            </a>
-        </div>
+            </div>
+            <div class="media-right">
+                <button class="delete"></button>
+            </div>
+        </article>
     </div>
 </template>
 

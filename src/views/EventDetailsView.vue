@@ -1,7 +1,8 @@
 <template>
     <section class="hero is-medium">
         <div class="hero-body has-text-centered">
-            {{ event?.title }}
+            <p class="has-text-primary has-text-weight-bold">{{ event?.title }}</p>
+            <br><br><br></br>
             {{ event?.content }}
         </div>
     </section>

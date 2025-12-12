@@ -7,21 +7,9 @@
 
     <section class="section">
         <div class="container">
-            Trenutno ni aktualnih dogodkov.
-        </div>
-    </section>
-
-    <!-- <section class="section">
-        <div class="container">
-            <h2 class="title is-2">Pretekli dogodki</h2>
-        </div>
-    </section>
-
-    <section class="section">
-        <div class="container">
             <EventsList :events="events" @detail-event="eventDetail"/>
         </div>
-    </section> -->
+    </section>
 
     <div class="container">
         <hr>

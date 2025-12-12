@@ -107,7 +107,7 @@ const router = createRouter({
         props: true
     },
     {
-        path: '/kontakt',
+        path: '/kontakti',
         name: 'contact_view',
         component: ContactView
     },
