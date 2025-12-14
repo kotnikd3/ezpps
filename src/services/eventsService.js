@@ -17,7 +17,7 @@ async function fetchData() {
     return cache
 }
 
-export async function getAll() {
+export async function getAllEvents() {
     return await fetchData()
 }
 

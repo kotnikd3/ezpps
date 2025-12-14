@@ -75,13 +75,13 @@
     import { useRouter } from "vue-router"
 
     import EventsList from "@/components/EventsList.vue"
-    import { getAll } from "@/services/eventsService.js"
+    import { getAllEvents } from "@/services/eventsService.js"
 
     const events = ref([])
     const router = useRouter()
 
     onMounted(async () => {
-        events.value = await getAll()
+        events.value = await getAllEvents()
     })
 
     function eventDetail(event) {

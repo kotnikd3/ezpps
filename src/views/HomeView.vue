@@ -18,6 +18,13 @@
 
     <section class="section">
         <div class="container">
+            <h2 class="title is-4">Aktualni dogodki</h2>
+            <EventsList :events="events" @detail-event="eventDetail"/>
+        </div>
+    </section>
+
+    <section class="section">
+        <div class="container">
             <div class="hero is-primary is-small">
                 <div class="hero-body">
                 <nav class="level">
@@ -85,14 +92,23 @@
 
 <script setup>
     import { ref, onMounted } from "vue"
+    import { useRouter } from "vue-router"
     import GoogleMap from "@/components/Map.vue"
     import { getAll } from "@/services/membersService.js"
+    import EventsList from "@/components/EventsList.vue"
+    import { getAllEvents } from "@/services/eventsService.js"
 
     const members = ref([])
+    const events = ref([])
+    const router = useRouter()
 
     onMounted(async () => {
         members.value = await getAll()
+        events.value = await getAllEvents()
     })
 
+    function eventDetail(event) {
+        router.push({ name: 'event_details', params: { id: event.id } });
+    }
 
 </script>
