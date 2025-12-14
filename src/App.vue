@@ -47,7 +47,7 @@
                             <RouterLink :to="{ name: 'connections_view' }" class="navbar-item" @click="isMenuActive = false;">Povezave</RouterLink>
                         </div>
                     </div>
-                    <RouterLink class="navbar-item" :to="{ name: 'library_view' }" @click="isMenuActive = false;">Publikacije</RouterLink>
+                    <!-- <RouterLink class="navbar-item" :to="{ name: 'library_view' }" @click="isMenuActive = false;">Publikacije</RouterLink> -->
                     <RouterLink class="navbar-item" :to="{ name: 'events_view' }" @click="isMenuActive = false;">Dogodki</RouterLink>
                     <RouterLink class="navbar-item" :to="{ name: 'contact_view' }" @click="isMenuActive = false;">Kontakti</RouterLink>
                 </div>
@@ -118,9 +118,9 @@
                         <li>
                             <RouterLink :to="{ name: 'members_view' }">Člani</RouterLink>
                         </li>
-                        <li>
+                        <!-- <li>
                             <RouterLink :to="{ name: 'library_view' }">Publikacije</RouterLink>
-                        </li>
+                        </li> -->
                         <li>
                             <RouterLink :to="{ name: 'events_view' }">Dogodki</RouterLink>
                         </li>
