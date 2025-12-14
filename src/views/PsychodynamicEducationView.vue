@@ -1,7 +1,7 @@
 <template>
     <section class="section">
         <div class="container">
-            <h2 class="title is-2">Študij psihodinamske psihoterapije v Sloveniji</h2>
+            <h2 class="title is-3">Študij psihodinamske psihoterapije v Sloveniji</h2>
         </div>
     </section>
 
@@ -14,7 +14,7 @@
                     </figure>
                 </div>
                 <div class="column">
-                    <h3 class="title is-3">Inštitut za psihodinamsko psihoterapijo</h3>
+                    <h3 class="title is-4">Inštitut za psihodinamsko psihoterapijo</h3>
                     <div class="block">
                         Šola psihodinamskega psihoterapevtskega pristopa je organizirana v okviru Inštituta za psihodinamsko psihoterapijo, ki deluje od leta 2012. Predavanja potekajo na lokaciji šole v Ljubljani in delno drugod.
                     </div>

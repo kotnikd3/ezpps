@@ -1,7 +1,7 @@
 <template>
     <section class="section">
         <div class="container">
-            <h2 class="title is-2">Kontakti</h2>
+            <h2 class="title is-3">Kontakti</h2>
         </div>
     </section>
 
@@ -11,8 +11,8 @@
                 <div class="message-body">
                     <div class="columns is-size-4">
                         <div class="column">
-                            <h3 class="title is-3">E-pošta</h3>
-                            <div class="block">
+                            <h3 class="title is-4">E-pošta</h3>
+                            <div>
                                 <a href="mailto:info@ezpps.si" class="icon-text" style="text-decoration: none;">
                                     <span class="icon">
                                         <font-awesome-icon icon="fa-regular fa-envelope" />
@@ -20,7 +20,7 @@
                                     <span>info@ezpps.si</span>
                                 </a>
                             </div>
-                            <div class="block">
+                            <div>
                                 <a href="mailto:tajnistvo@ezpps.si" class="icon-text" style="text-decoration: none;">
                                     <span class="icon">
                                         <font-awesome-icon icon="fa-regular fa-envelope" />
@@ -28,7 +28,7 @@
                                     <span>tajnistvo@ezpps.si</span>
                                 </a>
                             </div>
-                            <div class="block">
+                            <div>
                                 <a href="mailto:izobrazevanje@ezpps.si" class="icon-text" style="text-decoration: none;">
                                     <span class="icon">
                                         <font-awesome-icon icon="fa-regular fa-envelope" />
@@ -36,7 +36,7 @@
                                     <span>izobrazevanja@ezpps.si</span>
                                 </a>
                             </div>
-                            <div class="block">
+                            <div>
                                 <a href="mailto:castno.razsodisce@ezpps.si" class="icon-text" style="text-decoration: none;">
                                     <span class="icon">
                                         <font-awesome-icon icon="fa-regular fa-envelope" />
@@ -44,7 +44,7 @@
                                     <span>castno.razsodisce@ezpps.si</span>
                                 </a>
                             </div>
-                            <div class="block">
+                            <div>
                                 <a href="mailto:pr@ezpps.si" class="icon-text" style="text-decoration: none;">
                                     <span class="icon">
                                         <font-awesome-icon icon="fa-regular fa-envelope" />
@@ -52,7 +52,7 @@
                                     <span>pr@ezpps.si</span>
                                 </a>
                             </div>
-                            <div class="block">
+                            <div>
                                 <a href="mailto:it@ezpps.si" class="icon-text" style="text-decoration: none;">
                                     <span class="icon">
                                         <font-awesome-icon icon="fa-regular fa-envelope" />
@@ -62,7 +62,7 @@
                             </div>
                         </div>
                         <div class="column">
-                            <h3 class="title is-3">Naslov</h3>
+                            <h3 class="title is-4">Naslov</h3>
                             <div class="block">
                                 <a href="https://maps.app.goo.gl/xBjaAZjrPVtmRtYKA" target="_blank" rel="noopener noreferrer" class="icon-text" style="text-decoration: none;">
                                     <span class="icon">

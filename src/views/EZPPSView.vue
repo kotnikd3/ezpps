@@ -1,7 +1,7 @@
 <template>
     <section class="section">
         <div class="container">
-            <h2 class="title is-2">O EZPPS</h2>
+            <h2 class="title is-3">O EZPPS</h2>
         </div>
     </section>
     

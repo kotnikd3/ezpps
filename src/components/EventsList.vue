@@ -10,7 +10,7 @@
                 <div class="card-content">
                     <div class="media">
                         <div class="media-content">
-                            <p class="title is-6" v-text="event?.title"></p>
+                            <p class="title is-6 is-italic" v-text="event?.title"></p>
                             <h3 class="subtitle is-6 mt-2 has-text-primary">
                                 <div class="icon-text">
                                     <span class="icon">

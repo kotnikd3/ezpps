@@ -1,13 +1,13 @@
 <template>
     <section class="section">
         <div class="container">
-            <h2 class="title is-2">Včlanitev in članstvo v EZPPS</h2>
+            <h2 class="title is-3">Včlanitev in članstvo v EZPPS</h2>
         </div>
     </section>
 
     <section class="section">
         <div class="container">
-            <h3 class="title is-3">Član društva</h3>
+            <h3 class="title is-4">Član društva</h3>
             <div class="block">
                 Lahko postane vsak, ki se ukvarja s psihoterapevtsko dejavnostjo na podlagi strokovne usposobljenosti v okviru psihoanalitičnega psihoterapevtskega pristopa.
             </div>
@@ -29,7 +29,7 @@
                 <div class="column">
                     <div class="message">
                         <div class="message-body">
-                            <h3 class="title is-3">Redni član društva</h3>
+                            <h3 class="title is-4">Redni član društva</h3>
                             <div class="block">
                                 Lahko postane vsak polnoleten državljan Republike Slovenije, ki je zaprosil za certifikat ECPP in mu je bil ta s strani Evropske konfederacije psihoanalitičnih psihoterapij (ECPP) podeljen, oziroma vsak imetnik sorodnega certifikata, podeljenega na podlagi izpolnjevanja ustreznih primerljivih kompetenc.
                             </div>
@@ -39,7 +39,7 @@
                 <div class="column">
                     <div class="message">
                         <div class="message-body">
-                            <h3 class="title is-3">Izredni član društva</h3>
+                            <h3 class="title is-4">Izredni član društva</h3>
                             <div class="block">
                                 Lahko postane vsak študent/edukant psihoanalitično usmerjenega psihoterapevtskega pristopa oziroma vsak specializant psihoanalitičnega psihoterapevtskega pristopa, ki že dela s pacienti pod supervizijo, a še ni imetnik certifikata ECPP (ali na podlagi usvojenih ustreznih kompetenc temu sorodnega certifikata) in se je pripravljen zavezati pravicam in dolžnostim, ki pripadajo članstvu. Izredni člani so zavezani plačati polovično članarino.
                             </div>
@@ -54,7 +54,7 @@
         <div class="container">
             <div class="columns">
                 <div class="column">
-                    <h3 class="title is-3">Kdor želi postati redni ali izredni član društva, mora Strokovnemu svetu predložiti:</h3>
+                    <h3 class="title is-4">Kdor želi postati redni ali izredni član društva, mora Strokovnemu svetu predložiti:</h3>
                     <div class="content">
                         <ul>
                             <li><a href="./dokumenti/EZPPS-Pristopna-izjava.pdf" target="_blank" rel="noopener noreferrer">pristopno izjavo</a></li>
@@ -79,7 +79,7 @@
         <div class="container">
             <div class="columns">
                 <div class="column">
-                    <h3 class="title is-3">Odločanje o sprejemu v članstvo</h3>
+                    <h3 class="title is-4">Odločanje o sprejemu v članstvo</h3>
                     <div class="block">
                         O sprejemu v članstvo odloča Strokovni svet društva na prvem sestanku Strokovnega sveta, ki sledi dnevu prejema pristopne izjave. Član se vpiše v evidenco članstva, ki jo vodita predsednik in tajnik društva.
                     </div>
@@ -95,7 +95,7 @@
                 </div>
                 <div class="column">
                     <div class="block">
-                        <h3 class="title is-3">Članarina</h3>
+                        <h3 class="title is-4">Članarina</h3>
                         <div class="block">
                             Redni in izredni člani društva plačujejo članarino. Članarina se plačuje letno. Višino članarine določi Skupščina. Članarino vplačajo člani najkasneje do konca meseca marca za tekoče leto oziroma ob včlanitvi v društvo za tekoče leto. Način plačevanja članarine določi Strokovni svet društva.
                         </div>

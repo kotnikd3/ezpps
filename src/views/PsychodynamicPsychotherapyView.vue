@@ -1,7 +1,7 @@
 <template>
     <section class="section">
         <div class="container">
-            <h2 class="title is-2">O psihodinamski psihoterapiji</h2>
+            <h2 class="title is-3">O psihodinamski psihoterapiji</h2>
             <div class="block">
                 Začetki psihodinamskega pristopa v Sloveniji segajo v leto 1997, ko se je pri nas odprla prva psihoterapevtska skupina pod vodstvom nizozemskih in nemških psihoterapevtov.
             </div>
@@ -18,7 +18,7 @@
 
     <section class="section">
         <div class="container">
-            <h3 class="title is-3">Kako deluje?</h3>
+            <h3 class="title is-4">Kako deluje?</h3>
             <div class="block">
                 Pozornost psihodinamskega psihoterapevta je usmerjena na raziskovanje zgodnjih izkušenj v otroštvu, odnosov s primarnimi objekti (materjo, očetom, sorojenci) in drugimi pomembnimi figurami. Cilj terapevtskega procesa je odkrivanje in odprava vzrokov simptomatike, kar posledično privede do njenega izzvenenja.
             </div>

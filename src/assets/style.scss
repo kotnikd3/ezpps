@@ -18,7 +18,9 @@
 @use "bulma/sass/themes";
 
 // Elements
-@use "bulma/sass/elements/title";
+@use "bulma/sass/elements/title" with (
+    $title-color: $title-color
+);
 @use "bulma/sass/elements/button";
 @use "bulma/sass/elements/icon";
 @use "bulma/sass/elements/content";

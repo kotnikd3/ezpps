@@ -1,7 +1,7 @@
 <template>
     <section class="section">
         <div class="container">
-            <h2 class="title is-2">Dogodki</h2>
+            <h2 class="title is-3">Dogodki</h2>
         </div>
     </section>
 
@@ -22,7 +22,7 @@
                     </figure>
                 </div>
                 <div class="column">
-                    <h3 class="title is-3">Priložnost za predstavitev – predavanja SKZP</h3>
+                    <h3 class="title is-4">Priložnost za predstavitev – predavanja SKZP</h3>
                     <div class="block">
                         Krovna organizacija SKZP pripravlja mesečna predavanja. Namenjena so psihoterapevtom in edukantom psihoterapije ter širši strokovni javnosti (socialni delavci, specialni pedagogi, psihologi in drugi). Vsebine mesečnih predavanj so izbrane na podlagi izraženega strokovnega interesa. Predavanja so honorirana.
                     </div>
@@ -52,7 +52,7 @@
                     </figure>
                 </div>
                 <div class="column">
-                    <h3 class="title is-3">Poziv za objavo podatkov na spletni strani ECPP</h3>
+                    <h3 class="title is-4">Poziv za objavo podatkov na spletni strani ECPP</h3>
                     <div class="block">
                         Člane s certifikatom ECPP vljudno pozivamo k oddaji podatkov za spletno stran ECPP. Podatke oddajte s pomočjo obrazca na e-naslov:
                         <br>

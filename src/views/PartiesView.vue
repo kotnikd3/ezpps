@@ -1,7 +1,7 @@
 <template>
     <section class="section">
         <div class="container">
-            <h2 class="title is-2">Organi društva</h2>
+            <h2 class="title is-3">Organi društva</h2>
         </div>
     </section>
 
@@ -9,8 +9,8 @@
         <div class="container">
             <div class="columns">
                 <div class="column is-size-4">
-                    <h3 class="title is-3 has-text-primary">Predsednica</h3>
-                    <h3 class="subtitle is-4">Dr. Urška Battelino</h3>
+                    <h3 class="title is-4 has-text-primary">Predsednica</h3>
+                    <h3 class="subtitle is-5">Dr. Urška Battelino</h3>
                     <a href="mailto:ubattelino@gmail.com" class="block icon-text">
                         <span class="icon">
                             <font-awesome-icon icon="fa-regular fa-envelope" />
@@ -19,8 +19,8 @@
                     </a>
                 </div>
                 <div class="column is-size-4">
-                    <h3 class="title is-3 has-text-primary">Tajnica</h3>
-                    <h3 class="subtitle is-4">Saga L. Škerlep</h3>
+                    <h3 class="title is-4 has-text-primary">Tajnica</h3>
+                    <h3 class="subtitle is-5">Saga L. Škerlep</h3>
                     <a href="mailto:tajnistvo@ezpps.si" class="block icon-text">
                         <span class="icon">
                             <font-awesome-icon icon="fa-regular fa-envelope" />
@@ -43,7 +43,7 @@
         <div class="container">
             <div class="columns">
                 <div class="column">
-                    <h3 class="title is-3">Skupščina</h3>
+                    <h3 class="title is-4">Skupščina</h3>
                     <div class="block">
                         Skupščina je najvišji organ društva in jo sestavljajo vsi člani. Redno skupščino sklicuje Strokovni svet najmanj enkrat letno. Izredno skupščino lahko skliče predsednik ali Strokovni svet na zahtevo Nadzornega sveta ali na zahtevo tretjine članov društva.
                     </div>
@@ -52,7 +52,7 @@
                     </div>
                 </div>
                 <div class="column">
-                    <h3 class="title is-3">Strokovni svet</h3>
+                    <h3 class="title is-4">Strokovni svet</h3>
                     <div class="block">
                         Strokovni svet je izvršilni organ Skupščine, ki opravlja organizacijska, strokovna, tehnična in administrativna dela ter vodi delo društva med dvema skupščinama. Strokovni svet šteje 10 članov in se sestaja vsake tri mesece oz. po potrebi.
                     </div>
@@ -63,7 +63,7 @@
             </div>
             <div class="columns">
                 <div class="column">
-                    <h3 class="title is-3">Častno razsodišče</h3>
+                    <h3 class="title is-4">Častno razsodišče</h3>
                     <div class="block">
                         Častno razsodišče sestavljajo trije člani, ki jih izvoli Skupščina. Člani Častnega razsodišča izmed sebe izvolijo predsednika.
                     </div>
@@ -84,7 +84,7 @@
                     </div>
                 </div>
                 <div class="column">
-                    <h3 class="title is-3">Nadzorni svet</h3>
+                    <h3 class="title is-4">Nadzorni svet</h3>
                     <div class="block">
                         Nadzorni svet spremlja delo Strokovnega sveta in drugih organov društva ter opravlja nadzor nad finančno-materialnim poslovanjem društva. Nadzorni svet enkrat letno poroča Skupščini, ki ji je tudi odgovoren za svoje delo. Sestavljen je iz treh članov, ki jih izvoli Skupščina.
                     </div>
@@ -96,7 +96,7 @@
         <div class="container">
             <div class="message">
                 <div class="message-body is-size-5">
-                    <h3 class="title is-3">Člani organov</h3>
+                    <h3 class="title is-4">Člani organov</h3>
                     <div class="block">
                         Strokovni svet sestavljajo: Matija Pajer, Saga Škerlep, Mateja Švetak, Irena Zagajšek, Ana Kocjančič, Nuša Kovačevič Tojnko, Lan Pečjak, Anja Košir, Urška Battelino, Sandra Ferenc.
                     </div>

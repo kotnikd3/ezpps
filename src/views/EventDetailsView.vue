@@ -1,7 +1,7 @@
 <template>
     <section class="section">
         <div class="container">
-            <h2 class="title is-2 is-spaced has-text-grey-dark" v-text="event?.title"></h2>
+            <h2 class="title is-2 is-spaced" v-text="event?.title"></h2>
             <h3 class="subtitle has-text-primary">
                 <div class="icon-text">
                     <span class="icon">
