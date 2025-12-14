@@ -1,7 +1,7 @@
 <template>
     <section class="section">
         <div class="container">
-            <h2 class="title is-2">Aktualni dogodki</h2>
+            <h2 class="title is-2">Dogodki</h2>
         </div>
     </section>
 
@@ -10,10 +10,6 @@
             <EventsList :events="events" @detail-event="eventDetail"/>
         </div>
     </section>
-
-    <div class="container">
-        <hr>
-    </div>
 
     <section class="section">
         <div class="container">

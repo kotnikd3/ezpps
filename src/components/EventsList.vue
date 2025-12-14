@@ -1,40 +1,42 @@
 <template>
     <div>
-        <article 
-            class="media list-item py-5"
-            v-for="event in events" 
-            :key="event.id"
-            @click.stop="$emit('detail-event', event)"
-        >
-            <figure class="media-left">
-                <p class="image is-64x64">
-                    <img src="@/assets/images/undraw_conversation_15p8.svg" />
-                </p>
-            </figure>
-            <div class="media-content">
-                <div class="content">
-                    <p class="has-text-primary has-text-weight-bold">{{ truncate(event?.title) }}</p>
-                    <p v-html="truncate(event.content)"></p>
-                </div>
-                <div class="has-text-primary">
-                    <div class="icon-text">
-                        <span class="icon">
-                            <font-awesome-icon icon="fa-regular fa-clock" />
-                        </span>
-                        <span>{{ event?.datetime }}</span>
+        <div class="list-item" v-for="event in events" :key="event.id">
+            <article class="media py-4" @click.stop="$emit('detail-event', event)">
+                <figure class="media-left">
+                    <p class="image is-64x64">
+                        <img :src="`/images/events/${event.image_name}`" />
+                    </p>
+                </figure>
+                <div class="media-content">
+                    <h2 class="title is-6 has-text-grey-dark" v-text="event?.title"></h2>
+                    <h3 class="subtitle is-6 mt-2 has-text-primary">
+                        <div class="icon-text">
+                            <span class="icon">
+                                <font-awesome-icon icon="fa-regular fa-clock" />
+                            </span>
+                            <span>{{ event?.datetime }}</span>
+                        </div>
+                        <div class="icon-text">
+                            <span class="icon">
+                                <font-awesome-icon icon="fa-solid fa-location-dot" />
+                            </span>
+                            <span>{{ event?.place }}</span>
+                        </div>
+                        <div v-if="event?.facebook" class="icon-text">
+                            <span class="icon">
+                                <font-awesome-icon icon="fa-brands fa-facebook-f" />
+                            </span>
+                            <span>
+                                <a :href="event?.facebook" target="_blank" rel="noopener noreferrer">Facebook</a>
+                            </span>
+                        </div>
+                    </h3>
+                    <div class="content">
+                        <p v-html="truncate(event.content)"></p>
                     </div>
-                    <div class="icon-text">
-                        <span class="icon">
-                            <font-awesome-icon icon="fa-solid fa-location-dot" />
-                        </span>
-                        <span>{{ event?.place }}</span>
-                    </div>
                 </div>
-            </div>
-            <div class="media-right">
-                <button class="delete"></button>
-            </div>
-        </article>
+            </article>
+        </div>
     </div>
 </template>
 
@@ -54,7 +56,7 @@
 
 <style scoped>
     .list-item {
-        display: flex;
+        /* display: flex; */
         cursor: pointer;
         transition: transform 0.3s ease, box-shadow 0.3s ease;
     }

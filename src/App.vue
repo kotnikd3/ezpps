@@ -40,8 +40,10 @@
                         <div class="navbar-dropdown">
                             <RouterLink :to="{ name: 'psychoanalytic_psychotherapy_view' }" class="navbar-item" @click="isMenuActive = false;">O psihoanalitični psihoterapiji</RouterLink>
                             <RouterLink :to="{ name: 'psychoanalytic_education_view' }" class="navbar-item" @click="isMenuActive = false;">Psihoanalitično izobraževanje</RouterLink>
+                            <hr class="dropdown-divider" />
                             <RouterLink :to="{ name: 'psychodynamic_psychotherapy_view' }" class="navbar-item" @click="isMenuActive = false;">O psihodinamski psihoterapiji</RouterLink>
                             <RouterLink :to="{ name: 'psychodynamic_education_view' }" class="navbar-item" @click="isMenuActive = false;">Psihodinamsko izobraževanje</RouterLink>
+                            <hr class="dropdown-divider" />
                             <RouterLink :to="{ name: 'connections_view' }" class="navbar-item" @click="isMenuActive = false;">Povezave</RouterLink>
                         </div>
                     </div>
