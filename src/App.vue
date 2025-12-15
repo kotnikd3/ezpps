@@ -54,6 +54,7 @@
             </div>
         </div>
     </nav>
+    <p class="container mt-5 has-text-success is-italic">Stran je v izdelavi (december 2025)</p>
     <div class="my-6">
         <RouterView />
     </div>
