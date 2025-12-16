@@ -55,12 +55,8 @@
             >
                 <InfoWindow>
                     <div id="content" style="max-width: 200px;">
-                        <a class="has-text-primary is-size-6 has-text-weight-bold" @click="memberDetail(item.member)">
-                            {{ item.member.name }}
-                        </a>
-                        <p>
-                            {{ item.member.title }}
-                        </p>
+                        <RouterLink class="has-text-primary is-size-6 has-text-weight-bold" :to="{ name: 'member_details', params: { id: item.member.id }}" v-text="item.member.name"></RouterLink>
+                        <p v-text="item.member.title"></p>
                         <p v-if="item.loc.approx" class="has-text-grey pt-2 has-text-weight-light is-italic">
                             *Zaradi varovanja zasebnosti je prikazana zgolj približna lokacija.
                         </p>
@@ -75,7 +71,7 @@
     @use '@/assets/variables.scss' as *;
 
     // Use the Vue "deep" selector to penetrate child component DOM
-    ::v-deep gmp-advanced-marker svg {
+    :deep(gmp-advanced-marker svg) {
         fill: $color-blue-main !important;
     }
 </style>
