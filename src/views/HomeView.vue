@@ -93,7 +93,7 @@
 <script setup>
     import { ref, onMounted } from "vue"
     import { useRouter } from "vue-router"
-    import GoogleMap from "@/components/Map.vue"
+    import GoogleMap from "@/components/GoogleMap.vue"
     import { getAll } from "@/services/membersService.js"
     import EventsList from "@/components/EventsList.vue"
     import { getAllEvents } from "@/services/eventsService.js"

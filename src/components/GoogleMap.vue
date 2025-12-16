@@ -2,9 +2,6 @@
     import { GOOGLE_MAPS_API_KEY, GOOGLE_MAPS_MAP_ID } from '@/services/constants';
     import { GoogleMap, AdvancedMarker, InfoWindow, MarkerCluster } from 'vue3-google-map'
     import { computed } from "vue";
-    import { useRouter } from "vue-router"
-
-    const router = useRouter()
 
     const props = defineProps({
         members: {
@@ -28,11 +25,6 @@
             .map((loc) => ({ member, loc }))
         );
     });
-
-    function memberDetail(member) {
-        router.push({ name: 'member_details', params: { id: member.id } });
-    }
-
 </script>
 
 <template>
@@ -55,7 +47,7 @@
             >
                 <InfoWindow>
                     <div id="content" style="max-width: 200px;">
-                        <RouterLink class="has-text-primary is-size-6 has-text-weight-bold" :to="{ name: 'member_details', params: { id: item.member.id }}" v-text="item.member.name"></RouterLink>
+                        <RouterLink class="has-text-primary is-size-6 has-text-weight-bold" :to="{ name: 'member_details', params: { id: item.member.id }}">{{ item.member.name }}</RouterLink>
                         <p v-text="item.member.title"></p>
                         <p v-if="item.loc.approx" class="has-text-grey pt-2 has-text-weight-light is-italic">
                             *Zaradi varovanja zasebnosti je prikazana zgolj približna lokacija.
