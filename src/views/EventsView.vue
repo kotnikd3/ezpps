@@ -13,7 +13,13 @@
 
     <section class="section">
         <div class="container">
-            <div class="columns box is-vcentered">
+            <hr>
+        </div>
+    </section>
+
+    <section class="section">
+        <div class="container">
+            <div class="columns is-vcentered">
                 <div class="column is-one-quarter-tablet has-text-centered">
                     <figure class="is-inline-block" style="width: 50%;">
                         <a href="https://www.skzp.si/" target="_blank" rel="noopener noreferrer">
@@ -43,7 +49,7 @@
 
     <section class="section">
         <div class="container">
-            <div class="columns box is-vcentered">
+            <div class="columns is-vcentered">
                 <div class="column is-one-quarter-tablet has-text-centered">
                     <figure class="is-inline-block" style="width: 50%;">
                         <a href="https://ecpp.ngo" target="_blank" rel="noopener noreferrer">

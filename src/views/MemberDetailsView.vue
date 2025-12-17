@@ -21,7 +21,7 @@
                 </div>
                 <!-- RIGHT: Info -->
                 <div class="column is-half-tablet is-full-mobile">
-                    <h2 class="title is-2 has-text-primary">{{ member?.name }}</h2>
+                    <h2 class="title is-3 has-text-primary">{{ member?.name }}</h2>
                     <h4 class="subtitle is-4">{{ member?.title }}</h4>
 
                     <div class="contact-list">
