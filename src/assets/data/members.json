@@ -1,5 +1,47 @@
 [
     {
+        "name": "Jaka Kovačič",
+        "title": "Psihodinamska psihoterapija (specializant)",
+        "image_source": null,
+        "website": "https://jakakovacic.com/",
+        "locations": [
+            {
+                "city": "Ljubljana",
+                "address": "Parmova ulica 14",
+                "latitude": 46.058989305358956,
+                "longitude": 14.505471631170387,
+                "approx": false,
+                "show_on_map": true
+            }
+        ],
+        "email": "jk.psihoterapija@gmail.com",
+        "phone": "041 575 240",
+        "works_online": false,
+        "id": "jaka-kovacic",
+        "image_name": "jaka-kovacic.jpg"
+    },
+    {
+        "name": "Staša Frank",
+        "title": "Psihoanalitična psihoterapija (psihoterapevtka)",
+        "image_source": null,
+        "website": "https://psihoterapija-frank.si/",
+        "locations": [
+            {
+                "city": "Ljubljana",
+                "address": "Linhartova cesta 13",
+                "latitude": 46.06461912692668,
+                "longitude": 14.513913411492135,
+                "approx": false,
+                "show_on_map": true
+            }
+        ],
+        "email": "stasa.f@gmail.com",
+        "phone": "040 265 331",
+        "works_online": true,
+        "id": "stasa-frank",
+        "image_name": "stasa-frank.jpg"
+    },
+    {
         "name": "Urška Marinšek",
         "title": "Psihoanalitična (specializantka) in psihodinamska psihoterapija (učna psihoterapevtka)",
         "image_source": null,
@@ -1680,7 +1722,7 @@
         "phone": "+386 41 913 086",
         "works_online": false,
         "id": "romana-kress",
-        "image_name": null
+        "image_name": "romana-kress.jpg"
     },
     {
         "name": "Sabrina Lever",
@@ -1711,10 +1753,10 @@
         "locations": [
             {
                 "city": "Ljubljana",
-                "address": null,
-                "latitude": 46.02177,
-                "longitude": 14.54942,
-                "approx": true,
+                "address": "Cankarjeva cesta 9",
+                "latitude": 46.05265198679804,
+                "longitude": 14.501682233650005,
+                "approx": false,
                 "show_on_map": true
             }
         ],
