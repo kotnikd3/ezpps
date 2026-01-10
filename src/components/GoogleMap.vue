@@ -41,7 +41,7 @@
         <MarkerCluster>
             <AdvancedMarker
                 v-for="(item, i) in flatLocations"
-                :key="i"
+                :key="`${item.member.id}-${i}`"
                 :options="{ position: { lat: item.loc.latitude, lng: item.loc.longitude } }"
                 :pin-options="{ scale: 1, glyphColor: '#ffffff', borderColor: '#ffffff', background: '#15489f' }"
             >
