@@ -1,16 +1,9 @@
 <template>
-    <section class="hero mt-6">
+    <section class="hero is-small">
         <div class="hero-body">
-            <div class="container">
-                <div class="columns is-vcentered">
-                    <div class="column has-text-right">
-                        <h1 class="title is-2 is-size-3-mobile has-text-primary">Evropsko združenje psihoanalitičnih pristopov – Slovenija (EZPPS)</h1>
-                    </div>
-                    <div class="column">
-                        <div class="is-size-5 is-size-6-mobile">
-                            Društvo, ki združuje slovenske psihoterapevte in psihoterapevtke, katerih delo temelji na psihoanalitičnih principih razumevanja človekove duševnosti.
-                        </div>
-                    </div>
+            <div class="container has-text-centered">
+                <div class="notification has-text-primary">
+                    Dobrodošli na strani <strong>Evropskega združenja psihoanalitičnih pristopov - Slovenija (EZPPS)</strong>. <br>Smo društvo, ki združuje slovenske psihoterapevte in psihoterapevtke, katerih delo temelji na psihoanalitičnih principih razumevanja človekove duševnosti.
                 </div>
             </div>
         </div>
@@ -26,13 +19,13 @@
     <section class="section">
         <div class="container">
             <div class="hero is-primary is-small">
-                <div class="hero-body">
+                <div class="hero-body-custom">
                 <nav class="level">
                     <div class="level-item">
                         <h3 class="title is-4">Poiščite psihoterapevta v svoji bližini.</h3>
                     </div>
                     <div class="level-item">
-                        <RouterLink class="button is-white is-rounded is-medium" :to="{ name: 'members_view' }">Seznam članov</RouterLink>
+                        <RouterLink class="button is-white is-rounded" :to="{ name: 'members_view' }">Seznam članov</RouterLink>
                     </div>
                 </nav>
                 </div>
@@ -112,3 +105,15 @@
     }
 
 </script>
+
+<style scoped lang="scss">
+    @use '@/assets/variables.scss' as *;
+
+    .section {
+        padding: 10px 0px;
+    }
+
+    .hero-body-custom {
+        padding: 12px 24px;
+    }
+</style>

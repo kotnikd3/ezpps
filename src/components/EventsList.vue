@@ -3,34 +3,25 @@
         <div 
             v-for="event in events" 
             :key="event.id" 
-            class="list-item column is-full-mobile is-one-third-tablet"
+            class="list-item column is-full-mobile is-half-tablet"
             @click.stop="$emit('detail-member', member)"
         >
             <div class="card" @click.stop="$emit('detail-event', event)">
                 <div class="card-content">
-                    <div class="media">
-                        <div class="media-content">
-                            <p class="title is-6 is-italic" v-text="event?.title"></p>
-                            <h3 class="subtitle is-6 mt-2 has-text-primary">
-                                <div class="icon-text">
-                                    <span class="icon">
-                                        <font-awesome-icon icon="fa-regular fa-clock" />
-                                    </span>
-                                    <span>{{ event?.datetime }}</span>
-                                </div>
-                                <div class="icon-text">
-                                    <span class="icon">
-                                        <font-awesome-icon icon="fa-solid fa-location-dot" />
-                                    </span>
-                                    <span>{{ event?.place }}</span>
-                                </div>
-                            </h3>
+                    <h6 class="title is-5" v-text="event?.title"></h6>
+                    <h6 class="subtitle is-6 my-2 is-italic has-text-primary">
+                        <div class="icon-text">
+                            <span class="icon">
+                                <font-awesome-icon icon="fa-regular fa-clock" />
+                            </span>
+                            <span>{{ event?.datetime }}</span>
                         </div>
-                    </div>
+                    </h6>
 
                     <div class="content">
                         <p v-html="truncate(event.content)"></p>
                     </div>
+                    <button class="button is-small is-success">Preberi več</button>
                 </div>
             </div>
         </div>
@@ -45,7 +36,7 @@
         }
     })
 
-    function truncate(text, length = 200) {
+    function truncate(text, length = 140) {
         if (!text) return ''
         return text.length > length ? text.slice(0, length).trimEnd() + ' ...' : text
     }

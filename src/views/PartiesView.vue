@@ -94,18 +94,27 @@
     </section>
     <section class="section">
         <div class="container">
-            <div class="message">
-                <div class="message-body is-size-5">
-                    <h3 class="title is-4">Člani organov</h3>
-                    <div class="block">
-                        Strokovni svet sestavljajo: Matija Pajer, Saga Škerlep, Mateja Švetak, Irena Zagajšek, Ana Kocjančič, Nuša Kovačevič Tojnko, Lan Pečjak, Anja Košir, Urška Battelino, Sandra Ferenc.
+            <div class="columns is-vcentered">
+                <div class="column is-two-thirds">
+                    <div class="message">
+                        <div class="message-body is-size-5">
+                            <h3 class="title is-4">Člani organov</h3>
+                            <div class="block">
+                                Strokovni svet sestavljajo: Matija Pajer, Saga Škerlep, Mateja Švetak, Irena Zagajšek, Ana Kocjančič, Nuša Kovačevič Tojnko, Lan Pečjak, Anja Košir, Urška Battelino, Sandra Ferenc.
+                            </div>
+                            <div class="block">
+                                Častno razsodišče sestavljajo: Brigita Korpar, Parov Anzelc, Gašper Lesar.
+                            </div>
+                            <div class="block">
+                                Nadzorni svet sestavljajo: Iztok Zver, Barbara Šinkar, Lea Prešern McCann.
+                            </div>
+                        </div>
                     </div>
-                    <div class="block">
-                        Častno razsodišče sestavljajo: Brigita Korpar, Parov Anzelc, Gašper Lesar.
-                    </div>
-                    <div class="block">
-                        Nadzorni svet sestavljajo: Iztok Zver, Barbara Šinkar, Lea Prešern McCann.
-                    </div>
+                </div>
+                <div class="column is-one-third">
+                    <figure class="image is-inline-block" style="width: 60%;">
+                        <img src="@/assets/images/freud.jpg" alt="psihoanaliza">
+                    </figure>
                 </div>
             </div>
         </div>

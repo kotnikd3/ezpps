@@ -54,8 +54,8 @@
             </div>
         </div>
     </nav>
-    <p class="container mt-5 has-text-success is-italic">Stran je v izdelavi (december 2025)</p>
-    <div class="my-6">
+    <!-- <p class="container mt-5 has-text-success is-italic">Stran je v izdelavi (december 2025)</p> -->
+    <div class="my-4">
         <RouterView />
     </div>
     <footer class="footer">
@@ -173,7 +173,7 @@ export default {
     @use '@/assets/variables.scss' as *;
 
     .navbar-end .navbar-item.router-link-exact-active {
-        background-color: $color-blue-select;
+        background-color: $color-primary-select;
     }
     // Fix when user click on navbar-item, so that dropdown menu closes
     .navbar-item.is-hoverable:hover .navbar-dropdown {

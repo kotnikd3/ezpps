@@ -9,8 +9,9 @@
 
 // Override global Sass variables from the /utilities folder
 @use "bulma/sass/utilities" with(
-    $primary: $color-blue-main,
-    $link: $color-blue-main,
+    $primary: $color-primary,
+    $link: $color-primary,
+    $success: $color-secondary,
 );
 
 // Load Bulma's base styles and themes (including the minireset)
@@ -19,7 +20,7 @@
 
 // Elements
 @use "bulma/sass/elements/title" with (
-    $title-color: $title-color
+    $title-color: $color-title
 );
 @use "bulma/sass/elements/button";
 @use "bulma/sass/elements/icon";
@@ -27,6 +28,7 @@
 @use "bulma/sass/elements/block";
 @use "bulma/sass/elements/box";
 @use "bulma/sass/elements/image";
+@use "bulma/sass/elements/notification";
 
 // Grid
 @use "bulma/sass/grid/columns";
@@ -36,7 +38,7 @@
     $navbar-item-img-max-height: 50px,
 );
 @use "bulma/sass/components/card" with (
-    $card-content-padding: 0.7rem
+    $card-content-padding: 0.6rem
 );
 @use "bulma/sass/components/message";
 
@@ -60,7 +62,7 @@
 );
 @use "bulma/sass/layout/level";
 @use "bulma/sass/layout/footer" with (
-    $footer-background-color: $color-blue-select,
+    $footer-background-color: $color-primary-select,
     $footer-padding: 32px,
 );
 @use "bulma/sass/layout/container";

@@ -2,12 +2,26 @@
     <section class="section">
         <div class="container">
             <h2 class="title is-3">O psihodinamski psihoterapiji</h2>
-            <div class="block">
-                Začetki psihodinamskega pristopa v Sloveniji segajo v leto 1997, ko se je pri nas odprla prva psihoterapevtska skupina pod vodstvom nizozemskih in nemških psihoterapevtov.
-            </div>
-            <div class="block">
-                Psihodinamska psihoterapija izhaja iz psihoanalitičnega razumevanja razvoja in delovanja osebnosti. Skuša odkriti nezavedne dejavnike, ki soustvarjajo ali sprožajo neželeno simptomatiko pri posamezniku (nenadni afektivni izbruhi, motnje v funkcioniranju, psihosomatske težave, obsesivno-kompulzivna dejanja idr.). Simptomatika je posledica globljega nezavednega intrapsiničnega konflikta, ki je nastal zaradi negativnih zgodnjih objektnih izkušenj in razvojnih deficitov.
-                Pristop je izrazito integrativno naravnan in poleg tradicionalnega verbalnega dela vključuje tudi različne telesne, ekspresivne, gibalne in psihodramske tehnike iz humanističnih pristopov (integrativne psihoterapije, gestalt terapije idr.). Osrednjo vlogo ima delo s telesom – z dotikom ali brez njega – saj telo nosi spomin zgodnjih (potlačenih) izkušenj in odraža čustvena ter mentalna stanja.
+        </div>
+    </section>
+
+    <section class="section">
+        <div class="container">
+            <div class="columns is-vcentered">
+                <div class="column is-8">
+                    <div class="block">
+                        Začetki psihodinamskega pristopa v Sloveniji segajo v leto 1997, ko se je pri nas odprla prva psihoterapevtska skupina pod vodstvom nizozemskih in nemških psihoterapevtov.
+                    </div>
+                    <div class="block">
+                        Psihodinamska psihoterapija izhaja iz psihoanalitičnega razumevanja razvoja in delovanja osebnosti. Skuša odkriti nezavedne dejavnike, ki soustvarjajo ali sprožajo neželeno simptomatiko pri posamezniku (nenadni afektivni izbruhi, motnje v funkcioniranju, psihosomatske težave, obsesivno-kompulzivna dejanja idr.). Simptomatika je posledica globljega nezavednega intrapsiničnega konflikta, ki je nastal zaradi negativnih zgodnjih objektnih izkušenj in razvojnih deficitov.
+                        Pristop je izrazito integrativno naravnan in poleg tradicionalnega verbalnega dela vključuje tudi različne telesne, ekspresivne, gibalne in psihodramske tehnike iz humanističnih pristopov (integrativne psihoterapije, gestalt terapije idr.). Osrednjo vlogo ima delo s telesom – z dotikom ali brez njega – saj telo nosi spomin zgodnjih (potlačenih) izkušenj in odraža čustvena ter mentalna stanja.
+                    </div>
+                </div>
+                <div class="column has-text-centered is-4">
+                    <figure class="image is-inline-block" style="width: 60%;">
+                        <img src="@/assets/images/freud.jpg" alt="psihoanaliza">
+                    </figure>
+                </div>
             </div>
         </div>
     </section>

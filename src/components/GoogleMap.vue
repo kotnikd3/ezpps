@@ -64,6 +64,6 @@
 
     // Use the Vue "deep" selector to penetrate child component DOM
     :deep(gmp-advanced-marker svg) {
-        fill: $color-blue-main !important;
+        fill: $color-primary !important;
     }
 </style>

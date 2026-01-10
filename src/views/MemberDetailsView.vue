@@ -121,7 +121,7 @@
     }
 
     a.icon-text:hover {
-        color: $color-blue-main;
+        color: $color-primary;
     }
     
     /* Wrap text */
