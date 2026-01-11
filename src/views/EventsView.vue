@@ -26,16 +26,6 @@
                     <div class="block">
                         Krovna organizacija SKZP pripravlja mesečna predavanja. Namenjena so psihoterapevtom in edukantom psihoterapije ter širši strokovni javnosti (socialni delavci, specialni pedagogi, psihologi in drugi). Vsebine mesečnih predavanj so izbrane na podlagi izraženega strokovnega interesa. Predavanja so honorirana.
                     </div>
-                    <div class="block">
-                        Kontaktna oseba je predsednica Strokovnega sveta SKZP Alenka Milič:
-                        <br>
-                        <a href="mailto:alenkamilic@gmail.com" class="icon-text has-text-primary">
-                            <span class="icon">
-                                <font-awesome-icon icon="fa-regular fa-envelope" />
-                            </span>
-                            <span>alenkamilic@gmail.com</span>
-                        </a>
-                    </div>
                 </div>
             </div>
         </div>
@@ -54,14 +44,7 @@
                 <div class="column">
                     <h5 class="title is-5">Poziv za objavo podatkov na spletni strani ECPP</h5>
                     <div class="block">
-                        Člane s certifikatom ECPP vljudno pozivamo k oddaji podatkov za spletno stran ECPP. Podatke oddajte s pomočjo obrazca na e-naslov:
-                        <br>
-                        <a href="mailto:secretary@ecpp.ngo" class="icon-text has-text-primary">
-                            <span class="icon">
-                                <font-awesome-icon icon="fa-regular fa-envelope" />
-                            </span>
-                            <span>secretary@ecpp.ngo</span>
-                        </a>
+                        Člane s certifikatom ECPP vljudno pozivamo k oddaji podatkov za spletno stran ECPP.
                     </div>
                 </div>
             </div>
