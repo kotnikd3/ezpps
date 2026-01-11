@@ -8,8 +8,8 @@
     <section class="section">
         <div class="container">
             <div class="notification">
-                <div class="columns">
-                    <div class="column">
+                <div class="columns is-mobile">
+                    <div class="column is-narrow">
                         <h5 class="title is-5">E-pošta</h5>
                         <div>
                             <a href="mailto:info@ezpps.si" class="icon-text" style="text-decoration: none;">
@@ -60,7 +60,7 @@
                             </a>
                         </div>
                     </div>
-                    <div class="column">
+                    <div class="column is-narrow">
                         <h5 class="title is-5">Naslov</h5>
                         <div class="block">
                             <a href="https://maps.app.goo.gl/xBjaAZjrPVtmRtYKA" target="_blank" rel="noopener noreferrer" class="icon-text" style="text-decoration: none;">

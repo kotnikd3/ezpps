@@ -8,12 +8,12 @@
     <section class="section">
         <div class="container">
             <div class="columns is-vcentered">
-                <div class="column has-text-centered">
-                    <figure class="image is-inline-block" style="width: 50%;">
+                <div class="column is-one-third has-text-centered">
+                    <figure class="image is-inline-block" style="width: 60%;">
                         <img src="@/assets/images/sfu_ljubljana_logo.png" alt="psihoanaliza">
                     </figure>
                 </div>
-                <div class="column">
+                <div class="column is-two-thirds">
                     <h5 class="title is-5">SFU Ljubljana</h5>
                     <div class="block">
                         SFU Ljubljana ponuja fakultetni študij psihoterapevtske znanosti, ki poteka po bolonjski shemi na dveh stopnjah: triletna prva stopnja (bakalavreat) ter dvoletna druga stopnja (magisterij).

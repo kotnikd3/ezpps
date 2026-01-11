@@ -8,12 +8,12 @@
     <section class="section">
         <div class="container">
             <div class="columns is-vcentered">
-                <div class="column has-text-centered">
-                    <figure class="image is-inline-block" style="width: 50%;">
+                <div class="column is-one-third has-text-centered">
+                    <figure class="image is-inline-block" style="width: 70%;">
                         <img src="@/assets/images/psihodinamska_logo.png" alt="psihoanaliza">
                     </figure>
                 </div>
-                <div class="column">
+                <div class="column is-two-thirds">
                     <h5 class="title is-5">Inštitut za psihodinamsko psihoterapijo</h5>
                     <div class="block">
                         Šola psihodinamskega psihoterapevtskega pristopa je organizirana v okviru Inštituta za psihodinamsko psihoterapijo, ki deluje od leta 2012. Predavanja potekajo na lokaciji šole v Ljubljani in delno drugod.
