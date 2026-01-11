@@ -1,5 +1,34 @@
 [
     {
+        "name": "Irena Habe",
+        "title": "Psihodinamska psihoterapija (specializantka)",
+        "image_source": null,
+        "website": "https://psihoterapija-irenahabe.com/",
+        "locations": [
+            {
+                "city": "Ljubljana-Črnuče",
+                "address": "Pot v smrečje 3",
+                "latitude": 46.10954347297136,
+                "longitude": 14.527412812065863,
+                "approx": false,
+                "show_on_map": true
+            },
+            {
+                "city": "Domžale",
+                "address": "Ulica Nikola Tesla 18",
+                "latitude": 46.14368434476925,
+                "longitude": 14.596885071729846,
+                "approx": false,
+                "show_on_map": true
+            }
+        ],
+        "email": "psihoterapija.irena.habe@gmail.com",
+        "phone": "+386 31 375 475",
+        "works_online": false,
+        "id": "irena-habe",
+        "image_name": "irena-habe.jpg"
+    },
+    {
         "name": "Jaka Kovačič",
         "title": "Psihodinamska psihoterapija (specializant)",
         "image_source": null,
