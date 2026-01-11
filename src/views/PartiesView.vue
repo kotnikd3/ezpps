@@ -7,8 +7,8 @@
 
     <section class="section">
         <div class="container">
-            <div class="columns">
-                <div class="column is-size-6">
+            <div class="columns is-mobile">
+                <div class="column is-narrow">
                     <h5 class="title is-5 has-text-primary">Predsednica</h5>
                     <h6 class="subtitle is-6">Dr. Urška Battelino</h6>
                     <a href="mailto:ubattelino@gmail.com" class="block icon-text">
@@ -18,7 +18,7 @@
                         <span>ubattelino@gmail.com</span>
                     </a>
                 </div>
-                <div class="column is-size-6">
+                <div class="column is-narrow">
                     <h5 class="title is-5 has-text-primary">Tajnica</h5>
                     <h6 class="subtitle is-6">Saga L. Škerlep</h6>
                     <a href="mailto:tajnistvo@ezpps.si" class="block icon-text">

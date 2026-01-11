@@ -8,14 +8,14 @@
     <section class="section">
         <div class="container">
             <div class="columns is-vcentered">
-                <div class="column has-text-centered">
-                    <figure class="is-inline-block" style="width: 30%;">
+                <div class="column is-one-third has-text-centered">
+                    <figure class="is-inline-block" style="width: 50%;">
                         <a href="https://ecpp.ngo" target="_blank" rel="noopener noreferrer">
                             <img src="@/assets/images/ecpp_logo.svg" alt="ECPP">
                         </a>
                     </figure>
                 </div>
-                <div class="column">
+                <div class="column is-two-thirds">
                     <h5 class="title is-5">ECPP</h5>
                     <h6 class="subtitle is-6">Evropska konfederacija za psihoanalitično psihoterapijo</h6>
                     <div class="block">
@@ -35,14 +35,14 @@
     <section class="section">
         <div class="container">
             <div class="columns is-vcentered">
-                <div class="column has-text-centered">
-                    <figure class="is-inline-block" style="width: 25%;">
+                <div class="column is-one-third has-text-centered">
+                    <figure class="is-inline-block" style="width: 35%;">
                         <a href="https://www.skzp.si/" target="_blank" rel="noopener noreferrer">
                             <img src="@/assets/images/skzp_logo.png" alt="SKZP">
                         </a>
                     </figure>
                 </div>
-                <div class="column">
+                <div class="column is-two-thirds">
                     <h5 class="title is-5">SKZP</h5>
                     <h6 class="subtitle is-6">Slovenska krovna zveza za psihoterapijo</h6>
                     <div class="block">
@@ -64,14 +64,14 @@
     <section class="section">
         <div class="container">
             <div class="columns is-vcentered">
-                <div class="column has-text-centered">
-                    <figure class="is-inline-block" style="width: 40%;">
+                <div class="column is-one-third has-text-centered">
+                    <figure class="is-inline-block" style="width: 60%;">
                         <a href="https://www.europsyche.org/" target="_blank" rel="noopener noreferrer">
                             <img src="@/assets/images/eap_logo.png" alt="EAP">
                         </a>
                     </figure>
                 </div>
-                <div class="column">
+                <div class="column is-two-thirds">
                     <h5 class="title is-5">EAP</h5>
                     <h6 class="subtitle is-6">Evropska zveza za psihoterapijo</h6>
                     <div class="block">
