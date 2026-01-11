@@ -1,17 +1,17 @@
 <template>
     <section class="section container">
-        <h2 class="title is-3">Politika zasebnosti</h2>
+        <h4 class="title is-4">Politika zasebnosti</h4>
     </section>
 
     <section class="section container">
-        <h3 class="title is-4">Način in namen obdelave osebnih podatkov</h3>
+        <h5 class="title is-5">Način in namen obdelave osebnih podatkov</h5>
         <div class="block">
             Z uporabo spletne strani ezpps.si se uporabnik strinja z veljavnimi pravili in splošnimi pogoji. Uporabnik lahko redno spremlja spremembe splošnih pogojev in posledično način in namen obdelave zbranih osebnih podatkov. Podatki o uporabnikih niso v nobenem primeru predani nepooblaščenim osebam.
         </div>
     </section>
 
     <section class="section container">
-        <h3 class="title is-4">Prijava na e-novice</h3>
+        <h5 class="title is-5">Prijava na e-novice</h5>
         <div class="block">
             Uporabniki se lahko prijavijo na e-novice, s katerimi jih Evropsko združenje psihoanalitičnih pristopov do preklica obvešča o novostih, ugodnostih, storitvah, dogodkih ipd. S prijavo na e-novice se uporabnik vpiše v seznam prejemnikov e-novic.
         </div>
@@ -24,14 +24,14 @@
     </section>
 
     <section class="section container">
-        <h3 class="title is-4">Kontaktni obrazci in posredovanje e-sporočil</h3>
+        <h5 class="title is-5">Kontaktni obrazci in posredovanje e-sporočil</h5>
         <div class="block">
             Uporabnik lahko svoja vprašanja posreduje tudi preko e-maila, objavljenega na spletni stran ezpps.si. Ti podatki bodo uporabljeni za rešitev uporabnikovega problema. S pošiljanjem e-sporočil se uporabnik strinja s splošnimi pogoji uporabe spletnih strani ezpps.si.
         </div>
     </section>
 
     <section class="section container">
-        <h3 class="title is-4">Pravice uporabnika</h3>
+        <h5 class="title is-5">Pravice uporabnika</h5>
         <div class="block">
             Uporabnik lahko kadar koli zaprosi za seznanitev z osebnimi podatki, ki jih Evropsko združenje psihoanalitičnih pristopov obdeluje, za izbris ali popravke. Podjetje zagotavlja uporabnikom uresničevanje pravic po Splošni uredbi o varstvu osebnih podatkov:
         </div>
@@ -63,14 +63,14 @@
     </section>
 
     <section class="section container">
-        <h3 class="title is-4">Zagotavljanje varnosti podatkov</h3>
+        <h5 class="title is-5">Zagotavljanje varnosti podatkov</h5>
         <div class="block">
             Podatki, ki jih uporabnik posreduje preko spletne strani anaplesec.si so zaupni in se obravnavajo v skladu z veljavno slovensko zakonodajo in Splošno uredbo EU o varstvu osebnih podatkov. Evropsko združenje psihoanalitičnih pristopov bo osebne podatke varovala in preprečevala njihovo zlorabo. Osebni podatki bodo uporabljeni le za namene, za katere je uporabnik dal svoje soglasje. Dostop do osebnih podatkov imajo zgolj s strani ezpps.si pooblaščene osebe (zaposleni, pogodbeni partnerji) in sicer z uporabniškim imenom in geslom. Za prenose vseh osebnih podatkov uporabnika se uporablja varen protokol SSL.
         </div>
     </section>
 
     <section class="section container">
-        <h3 class="title is-4">Posredovanje podatkov pooblaščenim partnerjem</h3>
+        <h5 class="title is-5">Posredovanje podatkov pooblaščenim partnerjem</h5>
         <div class="block">
             Podatki, ki jih uporabnik zaupa na strani ezpps.si so zaupni. Evropsko združenje psihoanalitičnih pristopov jih ne posreduje nepooblaščenim tretjim osebam. Osebne podatke lahko posreduje svojim pogodbenim obdelovalcem osebnih podatkov ali po uradni zakonski dolžnosti. Podatki so lahko posredovani:
         </div>
@@ -83,14 +83,14 @@
     </section>
 
     <section class="section container">
-        <h3 class="title is-4">Privolitev</h3>
+        <h5 class="title is-5">Privolitev</h5>
         <div class="block">
             Z uporabo spletne strani ezpps.si se uporabnik strinja s splošnimi pogoji uporabe, ki so objavljeni na tem spletnem mestu. Uporabnik lahko spremlja spremembe splošnih pogojev ter posledično način in namen obdelave zbranih osebnih podatkov.
         </div>
     </section>
 
     <section class="section container">
-        <h3 class="title is-4">Povezava z družbenimi omrežji</h3>
+        <h5 class="title is-5">Povezava z družbenimi omrežji</h5>
         <div class="block">
             Na spletni strani ezpps.si je ustvarjena povezava do družbenega omrežja (Facebook, Instagram, Youtube).
         </div>

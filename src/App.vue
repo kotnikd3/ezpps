@@ -54,8 +54,7 @@
             </div>
         </div>
     </nav>
-    <!-- <p class="container mt-5 has-text-success is-italic">Stran je v izdelavi (december 2025)</p> -->
-    <div class="my-4">
+    <div class="my-6">
         <RouterView />
     </div>
     <footer class="footer">
@@ -99,7 +98,7 @@
                     </ul>
                 </div>
                 <div class="column is-half-mobile is-3-desktop">
-                    <h5 class="title is-5"><strong>O društvu</strong></h5>
+                    <h5 class="title is-6"><strong>O društvu</strong></h5>
                     <ul>
                         <li>
                             <RouterLink :to="{ name: 'ezpps_view' }">O EZPPS</RouterLink>
@@ -128,7 +127,7 @@
                     </ul>
                 </div>
                 <div class="column is-full-mobile is-2-desktop">
-                    <h5 class="title is-5"><strong>O psihoterapiji</strong></h5>
+                    <h5 class="title is-6"><strong>O psihoterapiji</strong></h5>
                     <ul>
                         <li>
                             <RouterLink :to="{ name: 'psychoanalytic_psychotherapy_view' }">O psihoanalitični psihoterapiji</RouterLink>
@@ -149,9 +148,9 @@
                 </div>
             </div>
             <div class="has-text-centered">
-				<p class="is-size-5 has-text-grey pt-2">EZPPS <font-awesome-icon icon="fa-regular fa-copyright" /> 2026</p>
-				<p style="font-size: small;">
-                    <RouterLink class="plain-link" :to="{ name: 'cookies_view' }">Piškotki in politika zasebnosti</RouterLink> | <a class="has-text-grey" href="https://www.kotnik.si" target="_blank" rel="noopener noreferrer">Ustvaril kotnik.si</a>
+				<p class="has-text-grey">EZPPS <font-awesome-icon icon="fa-regular fa-copyright" /> 2026</p>
+				<p>
+                    <RouterLink class="plain-link" :to="{ name: 'cookies_view' }">Piškotki in politika zasebnosti</RouterLink> | <a class="plain-link" href="https://www.kotnik.si" target="_blank" rel="noopener noreferrer">Ustvaril kotnik.si</a>
                 </p>
 			</div>
         </div>
@@ -189,6 +188,6 @@ export default {
     }
 
     .footer {
-        font-size: 16px;
+        font-size: 14px;
     }
 </style>

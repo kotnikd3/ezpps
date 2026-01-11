@@ -1,7 +1,7 @@
 <template>
     <section class="section">
         <div class="container">
-            <h2 class="title is-3">O psihodinamski psihoterapiji</h2>
+            <h4 class="title is-4">O psihodinamski psihoterapiji</h4>
         </div>
     </section>
 
@@ -32,7 +32,7 @@
 
     <section class="section">
         <div class="container">
-            <h3 class="title is-4">Kako deluje?</h3>
+            <h5 class="title is-5">Kako deluje?</h5>
             <div class="block">
                 Pozornost psihodinamskega psihoterapevta je usmerjena na raziskovanje zgodnjih izkušenj v otroštvu, odnosov s primarnimi objekti (materjo, očetom, sorojenci) in drugimi pomembnimi figurami. Cilj terapevtskega procesa je odkrivanje in odprava vzrokov simptomatike, kar posledično privede do njenega izzvenenja.
             </div>

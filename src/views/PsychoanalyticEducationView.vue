@@ -1,7 +1,7 @@
 <template>
     <section class="section">
         <div class="container">
-            <h2 class="title is-3">Študij psihoanalitične psihoterapije v Sloveniji</h2>
+            <h4 class="title is-4">Študij psihoanalitične psihoterapije v Sloveniji</h4>
         </div>
     </section>
 
@@ -14,7 +14,7 @@
                     </figure>
                 </div>
                 <div class="column">
-                    <h3 class="title is-4">SFU Ljubljana</h3>
+                    <h5 class="title is-5">SFU Ljubljana</h5>
                     <div class="block">
                         SFU Ljubljana ponuja fakultetni študij psihoterapevtske znanosti, ki poteka po bolonjski shemi na dveh stopnjah: triletna prva stopnja (bakalavreat) ter dvoletna druga stopnja (magisterij).
                     </div>
@@ -25,7 +25,7 @@
                         V sklopu SFU se izvaja Ambulanta Univerze Sigmunda Freuda na Dunaju – podružnica Ljubljana (Ambulanta SFU Ljubljana), v okviru katere delujejo <a href="https://sfu-ljubljana.si/sl/sfu-ambulanta/psihoterapevtska-ambulanta" target="_blank" rel="noopener noreferrer">Psihoterapevtska ambulanta</a> in <a href="https://sfu-ljubljana.si/sl/sfu-ambulanta/ambulanta-za-otroke-mladostnike" target="_blank" rel="noopener noreferrer">Ambulanta za otroke in mladostnike</a> ter razvojni projekt <a href="https://www.sfu-ljubljana.si/sl/novice/psiholoska-svetovalnica-novi-projekt-sfu-ljubljana" target="_blank" rel="noopener noreferrer">Psihološka svetovalnica</a>. Nahaja se v centru Ljubljane, na Trubarjevi cesti 65. Izpostave Ambulante SFU Ljubljana pa delujejo tudi v Mariboru, Kopru in Ptuju.
                     </div>
                     <div class="block control">
-                        <a class="button is-outlined is-primary" href="https://www.sfu-ljubljana.si/sl" target="_blank" rel="noopener noreferrer">Več o študiju</a>
+                        <a class="button is-outlined is-primary is-small" href="https://www.sfu-ljubljana.si/sl" target="_blank" rel="noopener noreferrer">Več o študiju</a>
                     </div>
                 </div>
             </div>

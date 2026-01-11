@@ -1,7 +1,7 @@
 <template>
     <section class="section">
         <div class="container">
-            <h2 class="title is-3">O psihoanalitični psihoterapiji</h2>
+            <h4 class="title is-4">O psihoanalitični psihoterapiji</h4>
         </div>
     </section>
     <section class="section">
@@ -30,7 +30,7 @@
 
     <section class="section">
         <div class="container">
-            <h3 class="title is-4">Kako deluje?</h3>
+            <h5 class="title is-5">Kako deluje?</h5>
             <div class="block">
                 Psihoanaliza je dolgotrajen proces, ki se osredotoča na odpravljanje vzrokov težav, kar posledično privede do lajšanja simptomov in trajnih sprememb v strukturi osebnosti. Skozi verbalizacijo čustvenih spominov, afektov in pričakovanj se povečuje samozavedanje in razumevanje nezavednih procesov.
             </div>

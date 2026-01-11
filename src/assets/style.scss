@@ -40,7 +40,6 @@
 @use "bulma/sass/components/card" with (
     $card-content-padding: 0.6rem
 );
-@use "bulma/sass/components/message";
 
 // Form
 @use "bulma/sass/form/input-textarea";
@@ -56,7 +55,12 @@
 @use "bulma/sass/helpers/visibility";
 
 // Layout
-@use "bulma/sass/layout/section";
+@use "bulma/sass/layout/section" with (
+    $section-padding-desktop: 10px 50px,
+    $section-padding-medium: 10px 50px,
+    $section-padding-large: 10px 50px,
+    $section-padding: 10px 50px
+);
 @use "bulma/sass/layout/media" with (
     $media-border-size: 0
 );
@@ -89,7 +93,7 @@ html {
 
 body {
     font-family: 'Lato', sans-serif;
-    font-size: 18px;
+    font-size: 14px;
 }
 
 .image img {

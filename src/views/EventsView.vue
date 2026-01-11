@@ -1,19 +1,13 @@
 <template>
     <section class="section">
         <div class="container">
-            <h2 class="title is-3">Dogodki</h2>
+            <h4 class="title is-4">Dogodki</h4>
         </div>
     </section>
 
     <section class="section">
         <div class="container">
-            <EventsList :events="events" @detail-event="eventDetail"/>
-        </div>
-    </section>
-
-    <section class="section">
-        <div class="container">
-            <hr>
+            <EventsList :events="events" :maxLenght=350 @detail-event="eventDetail"/>
         </div>
     </section>
 
@@ -21,14 +15,14 @@
         <div class="container">
             <div class="columns is-vcentered">
                 <div class="column is-one-quarter-tablet has-text-centered">
-                    <figure class="is-inline-block" style="width: 50%;">
+                    <figure class="is-inline-block" style="width: 40%;">
                         <a href="https://www.skzp.si/" target="_blank" rel="noopener noreferrer">
                             <img src="@/assets/images/skzp_logo.png" alt="SKZP">
                         </a>
                     </figure>
                 </div>
                 <div class="column">
-                    <h3 class="title is-4">Priložnost za predstavitev – predavanja SKZP</h3>
+                    <h5 class="title is-5">Priložnost za predstavitev – predavanja SKZP</h5>
                     <div class="block">
                         Krovna organizacija SKZP pripravlja mesečna predavanja. Namenjena so psihoterapevtom in edukantom psihoterapije ter širši strokovni javnosti (socialni delavci, specialni pedagogi, psihologi in drugi). Vsebine mesečnih predavanj so izbrane na podlagi izraženega strokovnega interesa. Predavanja so honorirana.
                     </div>
@@ -58,7 +52,7 @@
                     </figure>
                 </div>
                 <div class="column">
-                    <h3 class="title is-4">Poziv za objavo podatkov na spletni strani ECPP</h3>
+                    <h5 class="title is-5">Poziv za objavo podatkov na spletni strani ECPP</h5>
                     <div class="block">
                         Člane s certifikatom ECPP vljudno pozivamo k oddaji podatkov za spletno stran ECPP. Podatke oddajte s pomočjo obrazca na e-naslov:
                         <br>

@@ -1,7 +1,7 @@
 <template>
     <section class="section">
         <div class="container">
-            <h2 class="title is-3">Certifikacijski proces ECPP</h2>
+            <h4 class="title is-4">Certifikacijski proces ECPP</h4>
         </div>
     </section>
 
@@ -24,15 +24,13 @@
                     </div>
                 </div>
                 <div class="column">
-                    <div class="message">
-                        <div class="message-body content">
-                            <h3 class="title is-4">Vloga za pridobitev certifikata ECPP</h3>
-                            <div class="block control">
-                                <a class="button is-outlined is-primary" href="https://ecpp.ngo/certification/#forms" target="_blank" rel="noopener noreferrer">Pridobi vlogo</a>
-                            </div>
-                            <div class="block">
-                                Vsi kandidati za certifikat ECPP morajo komisiji poslati popolno dokumentacijo v angleškem jeziku v dveh izvodih na e-naslov <a href="mailto:info@ezpps.si" class="icon-text">info@ezpps.si</a>.
-                            </div>
+                    <div class="notification">
+                        <h5 class="title is-5">Vloga za pridobitev certifikata ECPP</h5>
+                        <div class="block control">
+                            <a class="button is-outlined is-primary is-small" href="https://ecpp.ngo/certification/#forms" target="_blank" rel="noopener noreferrer">Pridobi vlogo</a>
+                        </div>
+                        <div class="block">
+                            Vsi kandidati za certifikat ECPP morajo komisiji poslati popolno dokumentacijo v angleškem jeziku v dveh izvodih na e-naslov <a href="mailto:info@ezpps.si" class="icon-text">info@ezpps.si</a>.
                         </div>
                     </div>
                 </div>

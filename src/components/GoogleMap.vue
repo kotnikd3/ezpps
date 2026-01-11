@@ -31,9 +31,9 @@
     <GoogleMap
         :api-key="`${GOOGLE_MAPS_API_KEY}`"
         :map-id="`${GOOGLE_MAPS_MAP_ID}`"
-        style="width: 100%; height: 700px"
+        style="width: 100%; height: 400px"
         :center="{ lat: 46.1397336676993, lng: 14.962530069374042 }"
-        :zoom="8.8"
+        :zoom="8.0"
         :street-view-control="false"
         :map-type-control="false"
         :clickable-icons="false"

@@ -1,7 +1,7 @@
 <template>
     <section class="section">
         <div class="container">
-            <h2 class="title is-3">O EZPPS</h2>
+            <h4 class="title is-4">O EZPPS</h4>
         </div>
     </section>
     
@@ -23,16 +23,14 @@
     </section>
     <section class="section">
         <div class="container">
-            <div class="message">
-                <div class="message-body content">
-                    <h5 class="title is-5">Akti društva EZPPS:</h5>
-                    <ul>
-                        <li>Statut EZPPS</li>
-                        <li>Etični kodeks EZPPS</li>
-                        <li>Pravilnik o delovanju Častnega razsodišča EZPPS</li>
-                        <li>GDPR</li>
-                    </ul>
-                </div>
+            <div class="content notification">
+                <h6 class="title is-6">Akti društva EZPPS:</h6>
+                <ul>
+                    <li>Statut EZPPS</li>
+                    <li>Etični kodeks EZPPS</li>
+                    <li>Pravilnik o delovanju Častnega razsodišča EZPPS</li>
+                    <li>GDPR</li>
+                </ul>
             </div>
         </div>
     </section>

@@ -6,7 +6,7 @@
             class="list-item column is-half-mobile is-one-third-tablet is-one-fifth-widescreen"
             @click.stop="$emit('detail-member', member)"
         >
-            <div class="card is-size-6">
+            <div class="card">
                 <div class="card-image">
                     <figure class="image">
                         <img v-if="member.image_name" :src="`/images/members/${member.image_name}`" :alt="member.name" class="member-photo"/>
@@ -15,7 +15,7 @@
                 </div>
                 <div class="card-content">
                     <!-- Name and Title -->
-                    <h5 class="title is-5 has-text-primary" v-text="member.name"></h5>
+                    <h6 class="title is-6 has-text-primary" v-text="member.name"></h6>
                     <h6 class="subtitle is-6" v-text="member.title"></h6>
 
                     <!-- Location -->
@@ -85,7 +85,6 @@
     }
     
     .icon-text {
-        margin-top: 5px;
         display: flex;
         align-items: flex-start;
         word-break: break-all;
@@ -113,6 +112,6 @@
 
     .list-item:hover .card {
         transform: scale(1.03);
-        box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.15);
+        box-shadow: 3px 3px 8px rgba(0, 0, 0, 0.15);
     }
 </style>

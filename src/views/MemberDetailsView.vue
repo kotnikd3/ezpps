@@ -21,10 +21,10 @@
                 </div>
                 <!-- RIGHT: Info -->
                 <div class="column is-half-tablet is-full-mobile">
-                    <h2 class="title is-3 has-text-primary">{{ member?.name }}</h2>
-                    <h4 class="subtitle is-4">{{ member?.title }}</h4>
+                    <h4 class="title is-4 has-text-primary">{{ member?.name }}</h4>
+                    <h5 class="subtitle is-5">{{ member?.title }}</h5>
 
-                    <div class="contact-list">
+                    <div class="contact-list is-size-5">
                         <!-- Location -->
                         <div v-if="member?.locations?.length" class="icon-text">
                             <span class="icon">
@@ -41,11 +41,7 @@
                         </div>
 
                         <!-- Email -->
-                        <a
-                        v-if="member?.email"
-                        :href="`mailto:${member.email}`"
-                        class="icon-text"
-                        >
+                        <a v-if="member?.email" :href="`mailto:${member.email}`" class="icon-text">
                             <span class="icon">
                                 <font-awesome-icon icon="fa-regular fa-envelope" />
                             </span>
@@ -53,11 +49,7 @@
                         </a>
 
                         <!-- Phone -->
-                        <a
-                        v-if="member?.phone"
-                        :href="`tel:${member.phone}`"
-                        class="icon-text"
-                        >
+                        <a v-if="member?.phone" :href="`tel:${member.phone}`" class="icon-text">
                             <span class="icon">
                                 <font-awesome-icon icon="fa-solid fa-phone" />
                             </span>
@@ -65,13 +57,7 @@
                         </a>
 
                         <!-- Website -->
-                        <a
-                        v-if="member?.website"
-                        :href="member.website"
-                        class="icon-text"
-                        target="_blank"
-                        rel="noopener noreferrer"
-                        >
+                        <a v-if="member?.website" :href="member.website" class="icon-text" target="_blank" rel="noopener noreferrer">
                             <span class="icon">
                                 <font-awesome-icon icon="fa-solid fa-globe" />
                             </span>

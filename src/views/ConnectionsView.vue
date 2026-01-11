@@ -1,7 +1,7 @@
 <template>
     <section class="section">
         <div class="container">
-            <h2 class="title is-3">Povezave</h2>
+            <h4 class="title is-4">Povezave</h4>
         </div>
     </section>
 
@@ -15,9 +15,9 @@
                             <img src="@/assets/images/skzp_logo.png" alt="SKZP">
                         </a>
                     </figure>
-                    <h3 class="title is-4">SKZP</h3>
+                    <h5 class="title is-5">SKZP</h5>
                     <div class="block control">
-                        <a class="button is-outlined is-primary" href="https://www.skzp.si/" target="_blank" rel="noopener noreferrer">Obiščite</a>
+                        <a class="button is-outlined is-primary is-small" href="https://www.skzp.si/" target="_blank" rel="noopener noreferrer">Obiščite</a>
                     </div>
                 </div>
                 <!-- ECPP -->
@@ -27,9 +27,9 @@
                             <img src="@/assets/images/ecpp_logo.svg" alt="ECPP">
                         </a>
                     </figure>
-                    <h3 class="title is-4">ECPP</h3>
+                    <h5 class="title is-5">ECPP</h5>
                     <div class="block control">
-                        <a class="button is-outlined is-primary" href="https://ecpp.ngo" target="_blank" rel="noopener noreferrer">Obiščite</a>
+                        <a class="button is-outlined is-primary is-small" href="https://ecpp.ngo" target="_blank" rel="noopener noreferrer">Obiščite</a>
                     </div>
                 </div>
                 <!-- EAP -->
@@ -39,9 +39,9 @@
                             <img src="@/assets/images/eap_logo.png" alt="EAP">
                         </a>
                     </figure>
-                    <h3 class="title is-4">EAP</h3>
+                    <h5 class="title is-5">EAP</h5>
                     <div class="block control">
-                        <a class="button is-outlined is-primary" href="https://www.europsyche.org/" target="_blank" rel="noopener noreferrer">Obiščite</a>
+                        <a class="button is-outlined is-primary is-small" href="https://www.europsyche.org/" target="_blank" rel="noopener noreferrer">Obiščite</a>
                     </div>
                 </div>
             </div>
@@ -53,9 +53,9 @@
                             <img src="@/assets/images/sfu_ljubljana_logo.png" alt="SFU_Ljubljana">
                         </a>
                     </figure>
-                    <h3 class="title is-4">SFU Ljubljana</h3>
+                    <h5 class="title is-5">SFU Ljubljana</h5>
                     <div class="block control">
-                        <a class="button is-outlined is-primary" href="https://www.sfu-ljubljana.si/sl" target="_blank" rel="noopener noreferrer">Obiščite</a>
+                        <a class="button is-outlined is-primary is-small" href="https://www.sfu-ljubljana.si/sl" target="_blank" rel="noopener noreferrer">Obiščite</a>
                     </div>
                 </div>
                 <!-- SFU -->
@@ -65,9 +65,9 @@
                             <img src="@/assets/images/sfu_vienna_logo.png" alt="SFU_Vienna">
                         </a>
                     </figure>
-                    <h3 class="title is-4">SFU Dunaj</h3>
+                    <h5 class="title is-5">SFU Dunaj</h5>
                     <div class="block control">
-                        <a class="button is-outlined is-primary" href="https://www.sfu.ac.at/en/" target="_blank" rel="noopener noreferrer">Obiščite</a>
+                        <a class="button is-outlined is-primary is-small" href="https://www.sfu.ac.at/en/" target="_blank" rel="noopener noreferrer">Obiščite</a>
                     </div>
                 </div>
                 <!-- IPP -->
@@ -77,9 +77,9 @@
                             <img src="@/assets/images/psihodinamska_logo.png" alt="Psihodinamska">
                         </a>
                     </figure>
-                    <h3 class="title is-4">IPP</h3>
+                    <h5 class="title is-5">IPP</h5>
                     <div class="block control">
-                        <a class="button is-outlined is-primary" href="https://www.psihodinamska-psihoterapija.org/" target="_blank" rel="noopener noreferrer">Obiščite</a>
+                        <a class="button is-outlined is-primary is-small" href="https://www.psihodinamska-psihoterapija.org/" target="_blank" rel="noopener noreferrer">Obiščite</a>
                     </div>
                 </div>
             </div>

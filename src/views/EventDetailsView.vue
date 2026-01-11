@@ -1,8 +1,8 @@
 <template>
     <section class="section">
         <div class="container">
-            <h2 class="title is-2 is-spaced" v-text="event?.title"></h2>
-            <h3 class="subtitle has-text-primary">
+            <h4 class="title is-4 is-spaced" v-text="event?.title"></h4>
+            <h6 class="subtitle is-6 has-text-primary">
                 <div class="icon-text">
                     <span class="icon">
                         <font-awesome-icon icon="fa-regular fa-clock" />
@@ -23,9 +23,9 @@
                         <a :href="event?.facebook" target="_blank" rel="noopener noreferrer">Facebook</a>
                     </span>
                 </div>
-            </h3>
+            </h6>
         </div>
-        <div class="container content mt-6">
+        <div class="container content mt-5">
             <p v-html="event?.content"></p>
         </div>
     </section>
