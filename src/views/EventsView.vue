@@ -14,18 +14,18 @@
     <section class="section">
         <div class="container">
             <div class="columns is-vcentered">
-                <div class="column is-one-quarter-tablet has-text-centered">
-                    <figure class="is-inline-block" style="width: 40%;">
-                        <a href="https://www.skzp.si/" target="_blank" rel="noopener noreferrer">
-                            <img src="@/assets/images/skzp_logo.png" alt="SKZP">
-                        </a>
-                    </figure>
-                </div>
-                <div class="column">
+                <div class="column is-three-quarters">
                     <h5 class="title is-5">Priložnost za predstavitev – predavanja SKZP</h5>
                     <div class="block">
                         Krovna organizacija SKZP pripravlja mesečna predavanja. Namenjena so psihoterapevtom in edukantom psihoterapije ter širši strokovni javnosti (socialni delavci, specialni pedagogi, psihologi in drugi). Vsebine mesečnih predavanj so izbrane na podlagi izraženega strokovnega interesa. Predavanja so honorirana.
                     </div>
+                </div>
+                <div class="column has-text-centered">
+                    <figure class="is-inline-block" style="width: 30%;">
+                        <a href="https://www.skzp.si/" target="_blank" rel="noopener noreferrer">
+                            <img src="@/assets/images/skzp_logo.png" alt="SKZP">
+                        </a>
+                    </figure>
                 </div>
             </div>
         </div>
@@ -34,18 +34,18 @@
     <section class="section">
         <div class="container">
             <div class="columns is-vcentered">
-                <div class="column is-one-quarter-tablet has-text-centered">
-                    <figure class="is-inline-block" style="width: 50%;">
-                        <a href="https://ecpp.ngo" target="_blank" rel="noopener noreferrer">
-                            <img src="@/assets/images/ecpp_logo.svg" alt="ECPP">
-                        </a>
-                    </figure>
-                </div>
-                <div class="column">
+                <div class="column is-three-quarters">
                     <h5 class="title is-5">Poziv za objavo podatkov na spletni strani ECPP</h5>
                     <div class="block">
                         Člane s certifikatom ECPP vljudno pozivamo k oddaji podatkov za spletno stran ECPP.
                     </div>
+                </div>
+                <div class="column has-text-centered">
+                    <figure class="is-inline-block" style="width: 40%;">
+                        <a href="https://ecpp.ngo" target="_blank" rel="noopener noreferrer">
+                            <img src="@/assets/images/ecpp_logo.svg" alt="ECPP">
+                        </a>
+                    </figure>
                 </div>
             </div>
         </div>

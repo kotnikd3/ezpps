@@ -88,7 +88,7 @@
     <section class="section">
         <div class="container">
             <div class="columns is-vcentered">
-                <div class="column is-two-thirds notification">
+                <div class="column is-three-quarters notification">
                     <h5 class="title is-5">Člani organov</h5>
                     <div class="block">
                         Strokovni svet sestavljajo: Matija Pajer, Saga Škerlep, Mateja Švetak, Irena Zagajšek, Ana Kocjančič, Nuša Kovačevič Tojnko, Lan Pečjak, Anja Košir, Urška Battelino, Sandra Ferenc.
@@ -100,9 +100,10 @@
                         Nadzorni svet sestavljajo: Iztok Zver, Barbara Šinkar, Lea Prešern McCann.
                     </div>
                 </div>
-                <div class="column is-one-third">
+                <div class="column is-one-quarter has-text-centered">
                     <figure class="image is-inline-block" style="width: 60%;">
                         <img src="@/assets/images/freud.jpg" alt="psihoanaliza">
+                        <figcaption><i>Slika: Bori Zupančič, 2025</i></figcaption>
                     </figure>
                 </div>
             </div>

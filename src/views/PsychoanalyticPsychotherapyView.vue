@@ -7,7 +7,7 @@
     <section class="section">
         <div class="container">
             <div class="columns is-vcentered">
-                <div class="column is-8">
+                <div class="column is-three-quarters">
                     <div class="block">
                         Sigmund Freud je postavil temelje psihoanalitične teorije, ki se od takrat neprestano razvija in nadgrajuje. Kot prvi je sistematično proučeval nezavedno in principe njegovega delovanja ter odkril ključne koncepte, kot sta prenos in protiprenos, ki predstavljajo temelj razumevanja terapevtskega odnosa. Ugotovil je, da je naša zavest le vrh ledene gore, medtem ko se v potopljeni globini skriva nezavedno, polno primarnih želja in impulzov. V njem so zapisane vse naše prilagoditve na okolje in obrambni mehanizmi, ki smo jih vzpostavili v najzgodnejšem razvoju. Ti notranji zapisi oziroma nevronske povezave, ki so se oblikovale v prvih letih življenja, vodijo naše delovanje skozi življenje. Človek deluje po vzorcih, ki si jih je ustvaril v prvem obdobju svojega razvoja, kasneje pa se te zgodnje izkušnje kompulzivno ponavljajo.
                     </div>
@@ -15,9 +15,10 @@
                         Psihoanalitična psihoterapija omogoča vpogled v te nezavedne procese ter njihovo predelavo znotraj varnega terapevtskega odnosa.
                     </div>
                 </div>
-                <div class="column has-text-centered is-4">
+                <div class="column has-text-centered is-one-quarter">
                     <figure class="image is-inline-block" style="width: 60%;">
                         <img src="@/assets/images/freud.jpg" alt="psihoanaliza">
+                        <figcaption><i>Slika: Bori Zupančič, 2025</i></figcaption>
                     </figure>
                 </div>
             </div>

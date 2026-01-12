@@ -8,7 +8,7 @@
     <section class="section">
         <div class="container">
             <div class="columns is-vcentered">
-                <div class="column is-8">
+                <div class="column is-three-quarters">
                     <div class="block">
                         Začetki psihodinamskega pristopa v Sloveniji segajo v leto 1997, ko se je pri nas odprla prva psihoterapevtska skupina pod vodstvom nizozemskih in nemških psihoterapevtov.
                     </div>
@@ -17,9 +17,10 @@
                         Pristop je izrazito integrativno naravnan in poleg tradicionalnega verbalnega dela vključuje tudi različne telesne, ekspresivne, gibalne in psihodramske tehnike iz humanističnih pristopov (integrativne psihoterapije, gestalt terapije idr.). Osrednjo vlogo ima delo s telesom – z dotikom ali brez njega – saj telo nosi spomin zgodnjih (potlačenih) izkušenj in odraža čustvena ter mentalna stanja.
                     </div>
                 </div>
-                <div class="column has-text-centered is-4">
+                <div class="column has-text-centered is-one-quarter">
                     <figure class="image is-inline-block" style="width: 60%;">
                         <img src="@/assets/images/freud.jpg" alt="psihoanaliza">
+                        <figcaption><i>Slika: Bori Zupančič, 2025</i></figcaption>
                     </figure>
                 </div>
             </div>

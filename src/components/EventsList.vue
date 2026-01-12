@@ -7,7 +7,7 @@
             @click.stop="$emit('detail-member', member)"
         >
             <h6 class="title is-6" v-text="event?.title"></h6>
-            <h6 class="subtitle is-6 my-2 is-italic has-text-primary">
+            <h6 class="subtitle is-6 my-1 is-italic has-text-primary">
                 <div class="icon-text">
                     <span class="icon">
                         <font-awesome-icon icon="fa-regular fa-clock" />
@@ -16,13 +16,13 @@
                 </div>
             </h6>
 
-            <div class="content">
+            <div class="content mb-2">
                 <p v-html="truncate(event.content, maxLenght)"></p>
             </div>
 
             <RouterLink class="button is-small is-success" :to="{ name: 'event_details', params: { id: event.id } }">Preberi več</RouterLink>
             
-            <hr>
+            <hr class="my-2">
         </div>
     </div>
 </template>
