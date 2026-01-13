@@ -37,7 +37,7 @@
                     </div>
                 </div>
                 <div class="column is-one-quarter has-text-centered">
-                    <figure class="image is-inline-block" style="width: 80%;">
+                    <figure class="image is-inline-block" style="width: 80%; max-width: 200px;">
                         <img src="@/assets/images/psihodinamska_logo.png" alt="psihoanaliza">
                     </figure>
                 </div>

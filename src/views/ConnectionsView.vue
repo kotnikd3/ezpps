@@ -10,7 +10,7 @@
             <div class="columns is-align-items-flex-end">
                 <!-- SKZP -->
                 <div class="column mb-6">
-                    <figure class="is-inline-block" style="width: 30%;">
+                    <figure class="is-inline-block" style="width: 30%; max-width: 200px;">
                         <a href="https://www.skzp.si/" target="_blank" rel="noopener noreferrer">
                             <img src="@/assets/images/skzp_logo.png" alt="SKZP">
                         </a>
@@ -22,7 +22,7 @@
                 </div>
                 <!-- ECPP -->
                 <div class="column mb-6">
-                    <figure class="is-inline-block" style="width: 50%;">
+                    <figure class="is-inline-block" style="width: 50%; max-width: 200px;">
                         <a href="https://ecpp.ngo" target="_blank" rel="noopener noreferrer">
                             <img src="@/assets/images/ecpp_logo.svg" alt="ECPP">
                         </a>
@@ -34,7 +34,7 @@
                 </div>
                 <!-- EAP -->
                 <div class="column mb-6">
-                    <figure class="is-inline-block" style="width: 70%;">
+                    <figure class="is-inline-block" style="width: 70%; max-width: 200px;">
                         <a href="https://www.europsyche.org/" target="_blank" rel="noopener noreferrer">
                             <img src="@/assets/images/eap_logo.png" alt="EAP">
                         </a>
@@ -48,7 +48,7 @@
             <div class="columns is-align-items-flex-end">
                 <!-- SFU -->
                 <div class="column mb-6">
-                    <figure class="is-inline-block" style="width: 50%;">
+                    <figure class="is-inline-block" style="width: 50%; max-width: 200px;">
                         <a href="https://www.sfu-ljubljana.si/sl" target="_blank" rel="noopener noreferrer">
                             <img src="@/assets/images/sfu_ljubljana_logo.png" alt="SFU_Ljubljana">
                         </a>
@@ -60,7 +60,7 @@
                 </div>
                 <!-- SFU -->
                 <div class="column mb-6">
-                    <figure class="is-inline-block" style="width: 50%;">
+                    <figure class="is-inline-block" style="width: 50%; max-width: 200px;">
                         <a href="https://www.sfu.ac.at/en/" target="_blank" rel="noopener noreferrer">
                             <img src="@/assets/images/sfu_vienna_logo.png" alt="SFU_Vienna">
                         </a>
@@ -72,7 +72,7 @@
                 </div>
                 <!-- IPP -->
                 <div class="column mb-6">
-                    <figure class="is-inline-block" style="width: 50%;">
+                    <figure class="is-inline-block" style="width: 50%; max-width: 200px;">
                         <a href="https://www.psihodinamska-psihoterapija.org/" target="_blank" rel="noopener noreferrer">
                             <img src="@/assets/images/psihodinamska_logo.png" alt="Psihodinamska">
                         </a>

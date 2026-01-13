@@ -11,11 +11,11 @@
     <section class="section">
         <div class="container">
             <div class="columns">
-                <div class="column is-one-third-tablet">
+                <div class="column is-one-third-tablet is-2-desktop">
                     <h5 class="title is-5">Aktualni dogodki</h5>
                     <EventsList :events="events" :maxLenght=130 @detail-event="eventDetail"/>
                 </div>
-                <div class="column is-two-thirds-tablet">
+                <div class="column is-two-thirds-tablet is-10-desktop">
                     <div class="hero is-primary is-small">
                         <div class="hero-body-custom">
                         <nav class="level">
@@ -28,7 +28,9 @@
                         </nav>
                         </div>
                     </div>
-                    <GoogleMap :members="members"/>
+                    <div>
+                        <GoogleMap :members="members"/>
+                    </div>
                 </div>
             </div>
         </div>

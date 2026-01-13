@@ -21,7 +21,7 @@
                     </div>
                 </div>
                 <div class="column has-text-centered">
-                    <figure class="is-inline-block" style="width: 30%;">
+                    <figure class="is-inline-block" style="width: 30%; max-width: 150px;">
                         <a href="https://www.skzp.si/" target="_blank" rel="noopener noreferrer">
                             <img src="@/assets/images/skzp_logo.png" alt="SKZP">
                         </a>
@@ -41,7 +41,7 @@
                     </div>
                 </div>
                 <div class="column has-text-centered">
-                    <figure class="is-inline-block" style="width: 40%;">
+                    <figure class="is-inline-block" style="width: 40%; max-width: 150px;">
                         <a href="https://ecpp.ngo" target="_blank" rel="noopener noreferrer">
                             <img src="@/assets/images/ecpp_logo.svg" alt="ECPP">
                         </a>
