@@ -34,7 +34,7 @@
             required: true
         },
         maxLenght: {
-            type: Int16Array,
+            type: Number,
             required: false
         }
     })
