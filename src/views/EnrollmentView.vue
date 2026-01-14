@@ -34,6 +34,8 @@
                     Lahko postane vsak študent/edukant psihoanalitično usmerjenega psihoterapevtskega pristopa oziroma vsak specializant psihoanalitičnega psihoterapevtskega pristopa, ki že dela s pacienti pod supervizijo, a še ni imetnik certifikata ECPP (ali na podlagi usvojenih ustreznih kompetenc temu sorodnega certifikata) in se je pripravljen zavezati pravicam in dolžnostim, ki pripadajo članstvu. Izredni člani so zavezani plačati polovično članarino.
                 </div>
             </div>
+            
+            <hr>
 
             <h5 class="title is-5">Kdor želi postati redni ali izredni član društva, mora Strokovnemu svetu predložiti:</h5>
             <div class="content">

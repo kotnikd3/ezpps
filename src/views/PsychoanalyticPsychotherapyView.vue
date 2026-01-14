@@ -26,7 +26,7 @@
     </section>
 
     <div class="container">
-        <hr class="my-2">
+        <hr>
     </div>
 
     <section class="section">

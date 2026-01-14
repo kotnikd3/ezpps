@@ -112,7 +112,6 @@
     
     /* Wrap text */
     a.icon-text {
-        margin-top: 5px;
         display: flex;
         align-items: flex-start;
         word-break: break-all;

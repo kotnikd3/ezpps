@@ -30,7 +30,7 @@
         </div>
     </section>
     <div class="container">
-        <hr class="my-0">
+        <hr>
     </div>
     <section class="section">
         <div class="container">
@@ -59,7 +59,7 @@
         </div>
     </section>
     <div class="container">
-        <hr class="my-0">
+        <hr>
     </div>
     <section class="section">
         <div class="container">

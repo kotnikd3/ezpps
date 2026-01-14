@@ -101,7 +101,7 @@
                     </div>
                 </div>
                 <div class="column is-one-quarter has-text-centered">
-                    <figure class="image is-inline-block" style="width: 60%;">
+                    <figure class="image is-inline-block" style="width: 50%;">
                         <img src="@/assets/images/freud.jpg" alt="psihoanaliza">
                         <figcaption><i>Slika: Bori Zupančič, 2025</i></figcaption>
                     </figure>

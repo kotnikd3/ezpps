@@ -22,7 +22,7 @@
 
             <RouterLink class="button is-small is-success" :to="{ name: 'event_details', params: { id: event.id } }">Preberi več</RouterLink>
             
-            <hr class="my-2">
+            <hr>
         </div>
     </div>
 </template>

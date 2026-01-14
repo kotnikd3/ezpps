@@ -99,3 +99,13 @@ body {
 .image img {
     border-radius: 1.5rem;
 }
+
+// Override for Bulma's <block> element
+:root {
+  --bulma-block-spacing: 10px;
+}
+
+hr {
+    margin-bottom: 10px;
+    margin-top: 10px;
+}

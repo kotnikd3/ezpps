@@ -1,9 +1,9 @@
 <template>
-    <div class="columns is-mobile is-multiline">
+    <div class="columns is-mobile is-multiline is-variable is-1">
         <div 
             v-for="member in members" 
             :key="member.name" 
-            class="list-item column is-half-mobile is-one-third-tablet is-one-fifth-widescreen"
+            class="list-item column is-half-mobile is-one-quarter-tablet is-2-widescreen"
             @click.stop="$emit('detail-member', member)"
         >
             <div class="card">
@@ -16,45 +16,47 @@
                 <div class="card-content">
                     <!-- Name and Title -->
                     <h6 class="title is-6 has-text-primary" v-text="member.name"></h6>
-                    <h6 class="subtitle is-6" v-text="member.title"></h6>
+                    <h6 class="subtitle is-7" v-text="member.title"></h6>
 
-                    <!-- Location -->
-                    <div v-if="member.locations && member.locations.length > 0" class="icon-text">
-                        <span class="icon">
-                            <font-awesome-icon icon="fa-solid fa-location-dot" />
-                        </span>
-                        <span>{{ formatLocations(member?.locations) }}</span>
-                    </div>
+                    <div class="contact-list is-hidden-mobile">
+                        <!-- Location -->
+                        <div v-if="member.locations && member.locations.length > 0" class="icon-text">
+                            <span class="icon">
+                                <font-awesome-icon icon="fa-solid fa-location-dot" />
+                            </span>
+                            <span>{{ formatLocations(member?.locations) }}</span>
+                        </div>
 
-                    <div v-if="member?.works_online" class="icon-text">
-                        <span class="icon">
-                            <font-awesome-icon icon="fa-solid fa-location-dot" />
-                        </span>
-                        <span>Online</span>
-                    </div>
+                        <div v-if="member?.works_online" class="icon-text">
+                            <span class="icon">
+                                <font-awesome-icon icon="fa-solid fa-location-dot" />
+                            </span>
+                            <span>Online</span>
+                        </div>
 
-                    <!-- Email -->
-                    <div v-if="member.email" class="icon-text">
-                        <span class="icon">
-                            <font-awesome-icon icon="fa-regular fa-envelope" />
-                        </span>
-                        <span v-text="member.email"></span>
-                    </div>
+                        <!-- Email -->
+                        <div v-if="member.email" class="icon-text">
+                            <span class="icon">
+                                <font-awesome-icon icon="fa-regular fa-envelope" />
+                            </span>
+                            <span v-text="member.email"></span>
+                        </div>
 
-                    <!-- Phone -->
-                    <div v-if="member.phone" class="icon-text">
-                        <span class="icon">
-                            <font-awesome-icon icon="fa-solid fa-phone" />
-                        </span>
-                        <span v-text="member.phone"></span>
-                    </div>
+                        <!-- Phone -->
+                        <div v-if="member.phone" class="icon-text">
+                            <span class="icon">
+                                <font-awesome-icon icon="fa-solid fa-phone" />
+                            </span>
+                            <span v-text="member.phone"></span>
+                        </div>
 
-                    <!-- Website -->
-                    <div v-if="member.website" class="icon-text">
-                        <span class="icon">
-                            <font-awesome-icon icon="fa-solid fa-globe" />
-                        </span>
-                        <span v-text="member.website"></span>
+                        <!-- Website -->
+                        <div v-if="member.website" class="icon-text">
+                            <span class="icon">
+                                <font-awesome-icon icon="fa-solid fa-globe" />
+                            </span>
+                            <span v-text="member.website"></span>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -78,6 +80,11 @@
 </script>
 
 <style scoped>
+    .card-content {
+        padding: 0.4rem;
+    }
+
+
     .member-photo {
         max-width: 280px;
         max-height: 260px;
@@ -90,6 +97,7 @@
         word-break: break-all;
         overflow-wrap: break-word;
         hyphens: auto;
+        /* align-items: center; */
     }
 
     .icon-text span:last-child {
@@ -97,6 +105,13 @@
         overflow-wrap: anywhere;
         word-break: break-word;
     }
+
+    .contact-list {
+        display: flex;
+        flex-direction: column;
+        font-size: 12px;
+    }
+    
 
     .list-item {
         display: flex;
