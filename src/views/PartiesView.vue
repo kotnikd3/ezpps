@@ -91,13 +91,13 @@
                 <div class="column is-three-quarters notification">
                     <h5 class="title is-5">Člani organov</h5>
                     <div class="block">
-                        Strokovni svet sestavljajo: Matija Pajer, Saga Škerlep, Mateja Švetak, Irena Zagajšek, Ana Kocjančič, Nuša Kovačevič Tojnko, Lan Pečjak, Anja Košir, Urška Battelino, Sandra Ferenc.
+                        Strokovni svet sestavljajo: Urška Battelino, Sandra Ferenc, Ana Kocjančič, Anja Košir, Nuša Kovačevič Tojnko, Matija Pajer, Lan Pečjak, Saga Škerlep, Mateja Švetak, Irena Zagajšek.
                     </div>
                     <div class="block">
-                        Častno razsodišče sestavljajo: Brigita Korpar, Parov Anzelc, Gašper Lesar.
+                        Častno razsodišče sestavljajo: Parov Anzelc, Brigita Korpar, Gašper Lesar.
                     </div>
                     <div class="block">
-                        Nadzorni svet sestavljajo: Iztok Zver, Barbara Šinkar, Lea Prešern McCann.
+                        Nadzorni svet sestavljajo: Lea Prešern McCann, Barbara Šinkar, Iztok Zver.
                     </div>
                 </div>
                 <div class="column is-one-quarter has-text-centered">
