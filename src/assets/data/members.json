@@ -1662,7 +1662,16 @@
         "title": "Psihoanalitična psihoterapija (specializantka)",
         "image_source": "https://ezpps.org/wp-content/uploads/2025/07/Natasa_Serenvita.jpg",
         "website": "https://www.serenvita.si",
-        "locations": [],
+        "locations": [
+            {
+                "city": "Ljubljana",
+                "address": "Kotnikova ulica 28",
+                "latitude": 46.056508012506846,
+                "longitude": 14.514233932098906,
+                "approx": false,
+                "show_on_map": true
+            }
+        ],
         "email": "info@serenvita.si",
         "phone": null,
         "works_online": false,
