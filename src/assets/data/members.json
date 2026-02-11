@@ -311,16 +311,16 @@
     },
     {
         "name": "Ana Matijević",
-        "title": "Psihoanalitična psihoterapija (psihoterapevtka)",
+        "title": "Psihoanalitična psihoterapija (psihoterapevtka, učna terapevtka, supervizorka)",
         "image_source": "https://ezpps.org/wp-content/uploads/2019/02/Ana-Matijevic-1a-ilovepdf-web-e1708985043784.jpg",
         "website": "http://www.psihoterapija-matijevic.si/",
         "locations": [
             {
                 "city": "Ljubljana",
-                "address": null,
-                "latitude": 46.03526,
-                "longitude": 14.48117,
-                "approx": true,
+                "address": "Maurerjeva ulica 29",
+                "latitude": 46.06662764695198,
+                "longitude": 14.497187908114721,
+                "approx": false,
                 "show_on_map": true
             }
         ],
