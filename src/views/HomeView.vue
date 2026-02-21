@@ -13,7 +13,8 @@
             <div class="columns">
                 <div class="column is-one-third-tablet is-2-desktop">
                     <h5 class="title is-5">Aktualni dogodki</h5>
-                    <EventsList :events="events" :maxLenght=130 @detail-event="eventDetail"/>
+                    <EventsList v-if="events && events.length" :events="events" :maxLenght=130 @detail-event="eventDetail"/>
+                    <p v-else>Trenutno ni napovedanih dogodkov.</p>
                 </div>
                 <div class="column is-two-thirds-tablet is-10-desktop">
                     <div class="hero is-primary is-small">
@@ -89,7 +90,7 @@
     import GoogleMap from "@/components/GoogleMap.vue"
     import { getAll } from "@/services/membersService.js"
     import EventsList from "@/components/EventsList.vue"
-    import { getAllEvents } from "@/services/eventsService.js"
+    import { getNewEvents } from "@/services/eventsService.js"
 
     const members = ref([])
     const events = ref([])
@@ -97,7 +98,7 @@
 
     onMounted(async () => {
         members.value = await getAll()
-        events.value = await getAllEvents()
+        events.value = await getNewEvents()
     })
 
     function eventDetail(event) {

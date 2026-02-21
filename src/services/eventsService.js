@@ -21,6 +21,10 @@ export async function getAllEvents() {
     return await fetchData()
 }
 
+export async function getNewEvents() {
+    return await []
+}
+
 export async function getById(id) {
     await fetchData()
     return byIdIndex.get(id) || null
