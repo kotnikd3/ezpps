@@ -24,14 +24,14 @@
             <div class="notification">
                 <h5 class="title is-5">Redni član društva</h5>
                 <div class="block">
-                    Lahko postane vsak polnoleten državljan Republike Slovenije, ki je zaprosil za certifikat ECPP in mu je bil ta s strani Evropske konfederacije psihoanalitičnih psihoterapij (ECPP) podeljen, oziroma vsak imetnik sorodnega certifikata, podeljenega na podlagi izpolnjevanja ustreznih primerljivih kompetenc.
+                    Lahko postane vsak polnoleten državljan Republike Slovenije, ki je zaprosil za certifikat ECPPP in mu je bil ta s strani Evropske konfederacije psihoanalitičnih psihoterapij (ECPP) podeljen, oziroma vsak imetnik sorodnega certifikata, podeljenega na podlagi izpolnjevanja ustreznih primerljivih kompetenc.
                 </div>
             </div>
 
             <div class="notification">
                 <h5 class="title is-5">Izredni član društva</h5>
                 <div class="block">
-                    Lahko postane vsak študent/edukant psihoanalitično usmerjenega psihoterapevtskega pristopa oziroma vsak specializant psihoanalitičnega psihoterapevtskega pristopa, ki že dela s pacienti pod supervizijo, a še ni imetnik certifikata ECPP (ali na podlagi usvojenih ustreznih kompetenc temu sorodnega certifikata) in se je pripravljen zavezati pravicam in dolžnostim, ki pripadajo članstvu. Izredni člani so zavezani plačati polovično članarino.
+                    Lahko postane vsak študent/edukant psihoanalitično usmerjenega psihoterapevtskega pristopa oziroma vsak specializant psihoanalitičnega psihoterapevtskega pristopa, ki že dela s pacienti pod supervizijo, a še ni imetnik certifikata ECPPP (ali na podlagi usvojenih ustreznih kompetenc temu sorodnega certifikata) in se je pripravljen zavezati pravicam in dolžnostim, ki pripadajo članstvu. Izredni člani so zavezani plačati polovično članarino.
                 </div>
             </div>
             
@@ -41,8 +41,8 @@
             <div class="content">
                 <ul>
                     <li><a href="./dokumenti/EZPPS-Pristopna-izjava.pdf" target="_blank" rel="noopener noreferrer">pristopno izjavo</a></li>
-                    <li>izjavo o spoštovanju <a href="./dokumenti/Eticni-kodeks-EZPPS.pdf" target="_blank" rel="noopener noreferrer">Etičnega kodeksa EZPPS (sovpadajočega s kodeksoma ECPP in SKZP)</a></li>
-                    <li>kopijo certifikata ECPP ALI ustrezna dokazila o sorodni strokovni usposobljenosti iz psihoanalitično usmerjenega psihoterapevtskega pristopa (o ustreznosti dokazil in sorodnosti strokovne usposobljenosti odloča Strokovni svet društva) oziroma v primeru kandidature za izredno članstvo potrdilo mentorja o dovoljenju za začetek psihoterapevtskega dela pod supervizijo ALI aktualno kopijo pogodbe o vključenosti v psihoterapevtski študij, če je posameznik študent/edukant psihoanalitično usmerjenega psihoterapevtskega pristopa</li>
+                    <li>izjavo o spoštovanju <a href="./dokumenti/Eticni-kodeks-EZPPS.pdf" target="_blank" rel="noopener noreferrer">Etičnega kodeksa EZPPS (sovpadajočega s kodeksoma ECPPP in SKZP)</a></li>
+                    <li>kopijo certifikata ECPPP ALI ustrezna dokazila o sorodni strokovni usposobljenosti iz psihoanalitično usmerjenega psihoterapevtskega pristopa (o ustreznosti dokazil in sorodnosti strokovne usposobljenosti odloča Strokovni svet društva) oziroma v primeru kandidature za izredno članstvo potrdilo mentorja o dovoljenju za začetek psihoterapevtskega dela pod supervizijo ALI aktualno kopijo pogodbe o vključenosti v psihoterapevtski študij, če je posameznik študent/edukant psihoanalitično usmerjenega psihoterapevtskega pristopa</li>
                 </ul>
             </div>
             <div class="block">

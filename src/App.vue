@@ -27,7 +27,7 @@
                         <a class="navbar-link">O društvu</a>
                         <div class="navbar-dropdown">
                             <RouterLink :to="{ name: 'ezpps_view' }" class="navbar-item" @click="isMenuActive = false;">O EZPPS</RouterLink>
-                            <RouterLink :to="{ name: 'relationships_view' }" class="navbar-item" @click="isMenuActive = false;">O zvezah društev ECPP, SKZP in EAP</RouterLink>
+                            <RouterLink :to="{ name: 'relationships_view' }" class="navbar-item" @click="isMenuActive = false;">O zvezah društev ECPPP, SKZP in EAP</RouterLink>
                             <RouterLink :to="{ name: 'parties_view' }" class="navbar-item" @click="isMenuActive = false;">Organi društva</RouterLink>
                             <hr class="navbar-divider">
                             <RouterLink :to="{ name: 'enrollment_view' }" class="navbar-item" @click="isMenuActive = false;">Včlanitev</RouterLink>
@@ -104,7 +104,7 @@
                             <RouterLink :to="{ name: 'ezpps_view' }">O EZPPS</RouterLink>
                         </li>
                         <li>
-                            <RouterLink :to="{ name: 'relationships_view' }">O zvezah društev ECPP, SKZP in EAP</RouterLink>
+                            <RouterLink :to="{ name: 'relationships_view' }">O zvezah društev ECPPP, SKZP in EAP</RouterLink>
                         </li>
                         <li>
                             <RouterLink :to="{ name: 'parties_view' }">Organi društva</RouterLink>

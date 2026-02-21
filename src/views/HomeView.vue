@@ -39,19 +39,19 @@
     <section class="section">
         <div class="container">
             <p class="is-size-6 has-text-centered mb-5">
-                EZPPS je članica Slovenske krovne zveze za psihoterapijo (SKZP), Evropske zveze za psihoterapijo (EAP) ter Evropske konfederacije za psihoanalitično psihoterapijo (ECPP).
+                EZPPS je članica Slovenske krovne zveze za psihoterapijo (SKZP), Evropske zveze za psihoterapijo (EAP) ter Evropske konfederacije za psihoanalitično in psihodinamsko psihoterapijo (ECPPP).
             </p>
             <div class="columns is-desktop is-vcentered">
                 <div class="column">
                     <div class="columns is-vcentered is-mobile">
                         <div class="column">
-                            <figure class="is-pulled-right" style="max-width: 120px;">
+                            <figure class="is-pulled-right" style="max-width: 200px;">
                                 <a href="https://ecpp.ngo" target="_blank" rel="noopener noreferrer">
-                                    <img src="@/assets/images/ecpp_logo.svg" alt="ECPP">
+                                    <img src="@/assets/images/ecppp_logo.png" alt="ECPPP">
                                 </a>
                             </figure>
                         </div>
-                        <div class="column">Strokovno združenje, ki predstavlja slovensko podružnico mednarodnega psihoanalitičnega psihoterapevtskega združenja ECPP.</div>
+                        <div class="column">Strokovno združenje, ki predstavlja slovensko podružnico mednarodnega psihoanalitičnega psihoterapevtskega združenja ECPPP.</div>
                     </div>
                 </div>
                 <div class="column">
@@ -75,7 +75,7 @@
                                 </a>
                             </figure>
                         </div>
-                        <div class="column">Evropska zveza za psihoterapijo je krovna evropska psihoterapevtska organizacija, katere članici sta tako SKZP kot ECPP in pod okriljem katere posredno deluje tudi EZPPS.</div>
+                        <div class="column">Evropska zveza za psihoterapijo je krovna evropska psihoterapevtska organizacija, katere članici sta tako SKZP kot ECPPP in pod okriljem katere posredno deluje tudi EZPPS.</div>
                     </div>
                 </div>
             </div>

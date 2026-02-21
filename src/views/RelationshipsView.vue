@@ -1,7 +1,7 @@
 <template>
     <section class="section">
         <div class="container">
-            <h4 class="title is-4">O zvezah društev ECPP, SKZP in EAP</h4>
+            <h4 class="title is-4">O zvezah društev ECPPP, SKZP in EAP</h4>
         </div>
     </section>
 
@@ -13,16 +13,16 @@
                     <h6 class="subtitle is-6">Evropska konfederacija za psihoanalitično psihoterapijo</h6>
                     <div class="block mb-3">
                         Evropska konfederacija za psihoanalitično psihoterapijo je bila uradno ustanovljena v Ukrajini leta 2003 z namenom promocije psihoanalitičnih psihoterapij v javnosti in stroki.
-                        ECPP je članica Evropske zveze za psihoterapijo (EAP). Priznana in sprejeta je kot Evropska organizacija za široko modaliteto (EWAO), katere standardi usposabljanja in prakse so na napredni strokovni in znanstveni ravni. Ima svoje mesto v upravnem odboru Evropske zveze za psihoterapijo. ECPP je združenje, ustanovljeno po avstrijski civilni zakonodaji.
+                        ECPPP je članica Evropske zveze za psihoterapijo (EAP). Priznana in sprejeta je kot Evropska organizacija za široko modaliteto (EWAO), katere standardi usposabljanja in prakse so na napredni strokovni in znanstveni ravni. Ima svoje mesto v upravnem odboru Evropske zveze za psihoterapijo. ECPPP je združenje, ustanovljeno po avstrijski civilni zakonodaji.
                     </div>
                     <div>
-                        <a class="button is-outlined is-primary is-small " href="https://ecpp.ngo" target="_blank" rel="noopener noreferrer">Več o ECPP</a>
+                        <a class="button is-outlined is-primary is-small " href="https://ecpp.ngo" target="_blank" rel="noopener noreferrer">Več o ECPPP</a>
                     </div>
                 </div>
                 <div class="column is-2 has-text-centered">
-                    <figure class="is-inline-block" style="width: 70%; max-width: 150px;">
+                    <figure class="is-inline-block" style="width: 100%;">
                         <a href="https://ecpp.ngo" target="_blank" rel="noopener noreferrer">
-                            <img src="@/assets/images/ecpp_logo.svg" alt="ECPP">
+                            <img src="@/assets/images/ecppp_logo.png" alt="ECPPP">
                         </a>
                     </figure>
                 </div>

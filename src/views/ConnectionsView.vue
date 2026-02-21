@@ -20,14 +20,14 @@
                         <a class="button is-outlined is-primary is-small" href="https://www.skzp.si/" target="_blank" rel="noopener noreferrer">Obiščite</a>
                     </div>
                 </div>
-                <!-- ECPP -->
+                <!-- ECPPP -->
                 <div class="column mb-6">
-                    <figure class="is-inline-block" style="width: 50%; max-width: 200px;">
+                    <figure class="is-inline-block" style="width: 100%; max-width: 300px;">
                         <a href="https://ecpp.ngo" target="_blank" rel="noopener noreferrer">
-                            <img src="@/assets/images/ecpp_logo.svg" alt="ECPP">
+                            <img src="@/assets/images/ecppp_logo.png" alt="ECPPP">
                         </a>
                     </figure>
-                    <h5 class="title is-5">ECPP</h5>
+                    <h5 class="title is-5">ECPPP</h5>
                     <div class="block control">
                         <a class="button is-outlined is-primary is-small" href="https://ecpp.ngo" target="_blank" rel="noopener noreferrer">Obiščite</a>
                     </div>

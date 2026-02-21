@@ -14,9 +14,9 @@
                     </div>
                     <div class="block content">
                         <ol>
-                            <li>Certifikat ECPP za psihoanalitičnega psihoterapevta praktika</li>
-                            <li>Certifikat ECPP za učnega psihoterapevta</li>
-                            <li>Certifikat ECPP za supervizorja</li>
+                            <li>Certifikat ECPPP za psihoanalitičnega psihoterapevta praktika</li>
+                            <li>Certifikat ECPPP za učnega psihoterapevta</li>
+                            <li>Certifikat ECPPP za supervizorja</li>
                         </ol>
                     </div>
                     <div class="block">
@@ -30,7 +30,7 @@
                             <a class="button is-outlined is-primary is-small" href="https://ecpp.ngo/certification/#forms" target="_blank" rel="noopener noreferrer">Pridobi vlogo</a>
                         </div>
                         <div class="block">
-                            Vsi kandidati za certifikat ECPP morajo komisiji poslati popolno dokumentacijo v angleškem jeziku v dveh izvodih na e-naslov <a href="mailto:info@ezpps.si" class="icon-text">info@ezpps.si</a>.
+                            Vsi kandidati za certifikat ECPPP morajo komisiji poslati popolno dokumentacijo v angleškem jeziku v dveh izvodih na e-naslov <a href="mailto:info@ezpps.si" class="icon-text">info@ezpps.si</a>.
                         </div>
                     </div>
                 </div>

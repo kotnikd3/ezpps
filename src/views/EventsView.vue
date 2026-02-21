@@ -35,15 +35,15 @@
         <div class="container">
             <div class="columns is-vcentered">
                 <div class="column is-three-quarters">
-                    <h5 class="title is-5">Poziv za objavo podatkov na spletni strani ECPP</h5>
+                    <h5 class="title is-5">Poziv za objavo podatkov na spletni strani ECPPP</h5>
                     <div class="block">
-                        Člane s certifikatom ECPP vljudno pozivamo k oddaji podatkov za spletno stran ECPP.
+                        Člane s certifikatom ECPPP vljudno pozivamo k oddaji podatkov za spletno stran ECPPP.
                     </div>
                 </div>
                 <div class="column has-text-centered">
-                    <figure class="is-inline-block" style="width: 40%; max-width: 150px;">
+                    <figure class="is-inline-block" style="width: 100%; max-width: 220px;">
                         <a href="https://ecpp.ngo" target="_blank" rel="noopener noreferrer">
-                            <img src="@/assets/images/ecpp_logo.svg" alt="ECPP">
+                            <img src="@/assets/images/ecppp_logo.png" alt="ECPPP">
                         </a>
                     </figure>
                 </div>
