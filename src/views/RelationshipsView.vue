@@ -9,10 +9,10 @@
         <div class="container">
             <div class="columns is-vcentered">
                 <div class="column is-10">
-                    <h5 class="title is-5">ECPP</h5>
-                    <h6 class="subtitle is-6">Evropska konfederacija za psihoanalitično psihoterapijo</h6>
+                    <h5 class="title is-5">ECPPP</h5>
+                    <h6 class="subtitle is-6">Evropska konfederacija za psihoanalitično in psihodinamsko psihoterapijo</h6>
                     <div class="block mb-3">
-                        Evropska konfederacija za psihoanalitično psihoterapijo je bila uradno ustanovljena v Ukrajini leta 2003 z namenom promocije psihoanalitičnih psihoterapij v javnosti in stroki.
+                        Evropska konfederacija za psihoanalitično in psihodinamsko psihoterapijo je bila uradno ustanovljena v Ukrajini leta 2003 z namenom promocije psihoanalitičnih psihoterapij v javnosti in stroki.
                         ECPPP je članica Evropske zveze za psihoterapijo (EAP). Priznana in sprejeta je kot Evropska organizacija za široko modaliteto (EWAO), katere standardi usposabljanja in prakse so na napredni strokovni in znanstveni ravni. Ima svoje mesto v upravnem odboru Evropske zveze za psihoterapijo. ECPPP je združenje, ustanovljeno po avstrijski civilni zakonodaji.
                     </div>
                     <div>

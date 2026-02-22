@@ -52,7 +52,7 @@
                                 </a>
                             </figure>
                         </div>
-                        <div class="column">Strokovno združenje, ki predstavlja slovensko podružnico mednarodnega psihoanalitičnega psihoterapevtskega združenja ECPPP.</div>
+                        <div class="column">Strokovno združenje, ki predstavlja slovensko podružnico mednarodnega psihoanalitičnega in psihodinamskega psihoterapevtskega združenja ECPPP.</div>
                     </div>
                 </div>
                 <div class="column">
