@@ -59,6 +59,3 @@ npm run build
 ```sh
 npm run lint
 ```
-
-## Hosting
-- **Static website hosting provider**: Cloudflare Pages (hosts the static website)
