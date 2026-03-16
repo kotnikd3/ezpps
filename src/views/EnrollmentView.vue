@@ -40,7 +40,7 @@
             <h5 class="title is-5">Kdor želi postati redni ali izredni član društva, mora Strokovnemu svetu predložiti:</h5>
             <div class="content">
                 <ul>
-                    <li><a href="./dokumenti/EZPPS-Pristopna-izjava.pdf" target="_blank" rel="noopener noreferrer">pristopno izjavo</a></li>
+                    <li><a href="./dokumenti/EZPPS-Pristopna-izjava-2026.pdf" target="_blank" rel="noopener noreferrer">pristopno izjavo</a></li>
                     <li>izjavo o spoštovanju <a href="./dokumenti/Eticni-kodeks-EZPPS.pdf" target="_blank" rel="noopener noreferrer">Etičnega kodeksa EZPPS (sovpadajočega s kodeksoma ECPPP in SKZP)</a></li>
                     <li>kopijo certifikata ECPPP ALI ustrezna dokazila o sorodni strokovni usposobljenosti iz psihoanalitično usmerjenega psihoterapevtskega pristopa (o ustreznosti dokazil in sorodnosti strokovne usposobljenosti odloča Strokovni svet društva) oziroma v primeru kandidature za izredno članstvo potrdilo mentorja o dovoljenju za začetek psihoterapevtskega dela pod supervizijo ALI aktualno kopijo pogodbe o vključenosti v psihoterapevtski študij, če je posameznik študent/edukant psihoanalitično usmerjenega psihoterapevtskega pristopa</li>
                 </ul>
