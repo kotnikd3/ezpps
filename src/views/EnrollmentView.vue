@@ -12,7 +12,7 @@
                 Lahko postane vsak, ki se ukvarja s psihoterapevtsko dejavnostjo na podlagi strokovne usposobljenosti v okviru psihoanalitičnega psihoterapevtskega pristopa.
             </div>
             <div class="block">
-                Članstvo v društvu je obvezno za vse psihoterapevte in specializante psihoterapije, ko začnejo s psihoterapevtskim delom pod supervizijo – če izobraževalno telo posameznega psihoterapevtskega pristopa to postavi kot pogoj za vključitev v psihoterapevtsko izobraževanje – ali najkasneje ob prijavi za pridobitev certifikata ECPP.
+                Članstvo v društvu je obvezno za vse psihoterapevte in specializante psihoterapije, ko začnejo s psihoterapevtskim delom pod supervizijo – če izobraževalno telo posameznega psihoterapevtskega pristopa to postavi kot pogoj za vključitev v psihoterapevtsko izobraževanje – ali najkasneje ob prijavi za pridobitev certifikata ECPPP.
             </div>
             <div class="block">
                 Član društva lahko postane pod enakimi pogoji tudi tuj državljan, če ima urejeno redno bivališče na območju Republike Slovenije.
@@ -24,7 +24,7 @@
             <div class="notification">
                 <h5 class="title is-5">Redni član društva</h5>
                 <div class="block">
-                    Lahko postane vsak polnoleten državljan Republike Slovenije, ki je zaprosil za certifikat ECPPP in mu je bil ta s strani Evropske konfederacije psihoanalitičnih psihoterapij (ECPP) podeljen, oziroma vsak imetnik sorodnega certifikata, podeljenega na podlagi izpolnjevanja ustreznih primerljivih kompetenc.
+                    Lahko postane vsak polnoleten državljan Republike Slovenije, ki je zaprosil za certifikat ECPPP in mu je bil ta s strani Evropske konfederacije psihoanalitičnih in psihodinamskih psihoterapij (ECPPP) podeljen, oziroma vsak imetnik sorodnega certifikata, podeljenega na podlagi izpolnjevanja ustreznih primerljivih kompetenc.
                 </div>
             </div>
 

@@ -17,7 +17,7 @@
                 Društvo deluje v javnem interesu tako, da organizira okrogle mize, konference, predavanja, seminarje, izobraževalne programe in druge javne dogodke, ki pripomorejo k večji ozaveščenosti o pomenu duševnega zdravja in vlogi psihoterapije v njem.
             </div>
             <div class="block">
-                EZPPS je pristojen za podeljevanje <RouterLink :to="{ name: 'certification_view' }">certifikatov Evropske konfederacije psihoanalitičnih pristopov (ECPP)</RouterLink>.
+                EZPPS je pristojen za podeljevanje <RouterLink :to="{ name: 'certification_view' }">certifikatov Evropske konfederacije psihoanalitičnih in psihodinamskih psihoterapij (ECPPP)</RouterLink>.
             </div>
         </div>
     </section>

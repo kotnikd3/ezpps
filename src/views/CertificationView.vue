@@ -1,7 +1,7 @@
 <template>
     <section class="section">
         <div class="container">
-            <h4 class="title is-4">Certifikacijski proces ECPP</h4>
+            <h4 class="title is-4">Certifikacijski proces ECPPP</h4>
         </div>
     </section>
 
@@ -10,7 +10,7 @@
             <div class="columns">
                 <div class="column">
                     <div class="block">
-                        EZPPS omogoča pridobivanje certifikatov Evropske konfederacije psihoanalitičnih pristopov (ECPP) po različnih stopnjah:
+                        EZPPS omogoča pridobivanje certifikatov Evropske konfederacije psihoanalitičnih in psihodinamskih psihoterapij (ECPPP) po različnih stopnjah:
                     </div>
                     <div class="block content">
                         <ol>
@@ -20,12 +20,12 @@
                         </ol>
                     </div>
                     <div class="block">
-                        Več o pogojih si preberite v <a href="./dokumenti/Normativi-EZPPS-za-pridobitev-certifikata-ECPP_pop.pdf" target="_blank" rel="noopener noreferrer">normativih EZPPS za pridobitev certifikata ECPP</a>.
+                        Več o pogojih si preberite v <a href="./dokumenti/Normativi-EZPPS-za-pridobitev-certifikata-ECPP_pop.pdf" target="_blank" rel="noopener noreferrer">normativih EZPPS za pridobitev certifikata ECPPP</a>.
                     </div>
                 </div>
                 <div class="column">
                     <div class="notification">
-                        <h5 class="title is-5">Vloga za pridobitev certifikata ECPP</h5>
+                        <h5 class="title is-5">Vloga za pridobitev certifikata ECPPP</h5>
                         <div class="block control">
                             <a class="button is-outlined is-primary is-small" href="https://ecpp.ngo/certification/#forms" target="_blank" rel="noopener noreferrer">Pridobi vlogo</a>
                         </div>

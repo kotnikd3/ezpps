@@ -14,14 +14,14 @@
                         Šola psihodinamskega psihoterapevtskega pristopa je organizirana v okviru Inštituta za psihodinamsko psihoterapijo, ki deluje od leta 2012. Predavanja potekajo na lokaciji šole v Ljubljani in delno drugod.
                     </div>
                     <div class="block">
-                        Inštitut je akreditiran za izobraževanje iz psihoanalitičnih psihoterapevtskih pristopov s strani Evropske konfederacije psihoanalitičnih pristopov (ECPP) s sedežem na Dunaju.
+                        Inštitut je akreditiran za izobraževanje iz psihoanalitičnih psihoterapevtskih pristopov s strani Evropske konfederacije psihoanalitičnih in psihodinamskih psihoterapij (ECPPP) s sedežem na Dunaju.
                     </div>
                     <div class="block">
                         Zaključek študija omogoča pridobitev:
                     </div>
                     <div class="content">
                         <ul>
-                            <li>certifikatov za psihoterapevta, učnega terapevta in supervizorja, ki jih podeljuje Evropska konfederacija psihoanalitičnih pristopov (ECPP),</li>
+                            <li>certifikatov za psihoterapevta, učnega terapevta in supervizorja, ki jih podeljuje Evropska konfederacija psihoanalitičnih in psihodinamskih psihoterapij (ECPPP),</li>
                             <li>Evropske diplome iz psihoterapije, ki jo podeljuje Evropska zveza za psihoterapijo (EAP),</li>
                             <li>Slovenske diplome iz psihoterapije, ki jo podeljuje Slovenska krovna zveza za psihoterapijo (SKZP).</li>
                         </ul>
