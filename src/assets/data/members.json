@@ -1237,9 +1237,9 @@
     },
     {
         "name": "Ljudmila Brezigar",
-        "title": "Psihodinamska psihoterapija, plesno-gibalna psihoterapija (učna terapevtka, supervizorka)",
+        "title": "Psihodinamska psihoterapija, plesno-gibalna psihoterapija (psihoterapevtka, učna terapevtka, supervizorka)",
         "image_source": "https://ezpps.org/wp-content/uploads/2022/11/116A2007-400x600-1-e1709044368113.jpg",
-        "website": "https://trojstvo-poti.si/",
+        "website": "https://www.trojstvo-srca.si",
         "locations": [
             {
                 "city": "Žalec",
@@ -1256,21 +1256,13 @@
                 "longitude": 15.26761,
                 "approx": true,
                 "show_on_map": true
-            },
-            {
-                "city": "Velenje",
-                "address": null,
-                "latitude": 46.35917,
-                "longitude": 15.11028,
-                "approx": true,
-                "show_on_map": true
             }
         ],
-        "email": "ljudmila@trojstvo-poti.si",
+        "email": "ljudmila@trojstvo-srca.si",
         "phone": "+386 41 388 682",
-        "works_online": false,
+        "works_online": true,
         "id": "ljudmila-brezigar",
-        "image_name": "ljudmila-brezigar.jpg"
+        "image_name": "ljudmila-brezigar.webp"
     },
     {
         "name": "Luka Agrež",
