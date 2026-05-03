@@ -1,5 +1,65 @@
 [
     {
+        "name": "Tommaso Lonquich",
+        "title": "Psihoanalitična psihoterapija (psihoterapevt)",
+        "website": "https://www.iclp.si/tommaso-lonquich",
+        "locations": [
+            {
+                "city": "Ljubljana",
+                "address": "Jeranova ulica 5",
+                "latitude": 46.039913452139686,
+                "longitude": 14.504175554592114,
+                "approx": false,
+                "show_on_map": true
+            }
+        ],
+        "email": "info@iclp.si",
+        "phone": "064 225 677",
+        "works_online": false,
+        "id": "tommaso-lonquich",
+        "image_name": "tommaso-lonquich.jpg"
+    },
+    {
+        "name": "Mojca Horn",
+        "title": "Psihoanalitična psihoterapija (specializantka)",
+        "website": "https://psihoterapija-horn.si/",
+        "locations": [
+            {
+                "city": "Ljubljana",
+                "address": null,
+                "latitude": 46.0338361420911,
+                "longitude": 14.497345421872804,
+                "approx": true,
+                "show_on_map": false
+            }
+        ],
+        "email": "mojca.horn@gmail.com",
+        "phone": "+386 31 467 815",
+        "works_online": false,
+        "id": "mojca-horn",
+        "image_name": "mojca-horn.jpg"
+    },
+    {
+        "name": "Nataša Arko",
+        "title": "Psihoanalitična psihoterapija (psihoterapevtka)",
+        "website": null,
+        "locations": [
+            {
+                "city": "Ljubljana",
+                "address": "V Murglah 91",
+                "latitude": 46.0338361420911,
+                "longitude": 14.497345421872804,
+                "approx": false,
+                "show_on_map": true
+            }
+        ],
+        "email": "arko.natasa@gmail.com",
+        "phone": "031 303 232",
+        "works_online": false,
+        "id": "natasa-arko",
+        "image_name": "natasa-arko.jpeg"
+    },
+    {
         "name": "Irena Habe",
         "title": "Psihodinamska psihoterapija (specializantka)",
         "website": "https://psihoterapija-irenahabe.com/",
