@@ -1,5 +1,25 @@
 [
     {
+        "name": "Anja Lesar Podpečan",
+        "title": "Psihoanalitična psihoterapija (specializantka)",
+        "website": null,
+        "locations": [
+            {
+                "city": "Ljubljana",
+                "address": "Jeranova ulica 5",
+                "latitude": 46.039913452139686,
+                "longitude": 14.504175554592114,
+                "approx": true,
+                "show_on_map": false
+            }
+        ],
+        "email": "podpecan.anja@gmail.com",
+        "phone": "031 246 315",
+        "works_online": false,
+        "id": "anja-podpecan",
+        "image_name": "anja-podpecan.jpg"
+    },
+    {
         "name": "Tommaso Lonquich",
         "title": "Psihoanalitična psihoterapija (psihoterapevt)",
         "website": "https://www.iclp.si/tommaso-lonquich",
