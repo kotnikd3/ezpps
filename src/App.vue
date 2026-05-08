@@ -75,14 +75,14 @@
                                 <span>Cesta na Brdo 109<br>1000 Ljubljana</span>
                             </a>
                         </li>
-                        <li>
+                        <!-- <li>
                             <a href="tel:0038631833621" class="icon-text">
                                 <span class="icon">
                                     <font-awesome-icon icon="fa-solid fa-phone" />
                                 </span>
                                 <span>+386 (0)31 833 621</span>
                             </a>
-                        </li>
+                        </li> -->
                         <li>
                             <a href="mailto:info@ezpps.si" class="icon-text">
                                 <span class="icon">

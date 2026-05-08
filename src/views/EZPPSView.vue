@@ -26,7 +26,7 @@
             <div class="content notification">
                 <h6 class="title is-6">Akti društva EZPPS:</h6>
                 <ul>
-                    <li>Statut EZPPS</li>
+                    <li><a href="./dokumenti/STATUT-EZPPS-sprejet-na-redni-seji-skupscine-dne-23.10.2020.pdf" target="_blank" rel="noopener noreferrer">Statut EZPPS</a></li>
                     <li>Etični kodeks EZPPS</li>
                     <li>Pravilnik o delovanju Častnega razsodišča EZPPS</li>
                     <li>GDPR</li>

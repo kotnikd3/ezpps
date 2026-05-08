@@ -20,20 +20,20 @@
                 </div>
                 <div class="column is-narrow">
                     <h5 class="title is-5 has-text-primary">Tajnica</h5>
-                    <h6 class="subtitle is-6">Saga L. Škerlep</h6>
+                    <h6 class="subtitle is-6">Nataša Crnkovič</h6>
                     <a href="mailto:tajnistvo@ezpps.si" class="block icon-text">
                         <span class="icon">
                             <font-awesome-icon icon="fa-regular fa-envelope" />
                         </span>
                         <span>tajnistvo@ezpps.si</span>
                     </a>
-                    <br>
+                    <!-- <br>
                     <a href="tel:0038631833621" class="icon-text">
                         <span class="icon">
                             <font-awesome-icon icon="fa-solid fa-phone" />
                         </span>
                         <span>031 833 621</span>
-                    </a>
+                    </a> -->
                 </div>
             </div>
             <hr>

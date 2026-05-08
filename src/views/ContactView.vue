@@ -70,14 +70,14 @@
                                 <span>Cesta na Brdo 109<br>1000 Ljubljana</span>
                             </a>
                         </div>
-                        <div class="block">
+                        <!-- <div class="block">
                             <a href="tel:0038631833621" class="icon-text" style="text-decoration: none;">
                                 <span class="icon">
                                     <font-awesome-icon icon="fa-solid fa-phone" />
                                 </span>
                                 <span>(+386) 031 833 621</span>
                             </a>
-                        </div>
+                        </div> -->
                     </div>
                 </div>
             </div>
