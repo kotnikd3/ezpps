@@ -1,5 +1,25 @@
 [
     {
+        "name": "Polona Zoja Jambrek",
+        "title": "Psihoanalitična psihoterapija (specializantka)",
+        "website": "https://fsms.nova-uni.si/dejavnosti/ordinacija/",
+        "locations": [
+            {
+                "city": "Ljubljana",
+                "address": null,
+                "latitude": null,
+                "longitude": null,
+                "approx": true,
+                "show_on_map": false
+            }
+        ],
+        "email": "polona.jambrek@ordinacija.nova-uni.si",
+        "phone": "031 501 808",
+        "works_online": false,
+        "id": "polona-jambrek",
+        "image_name": "polona-jambrek.jpeg"
+    },
+    {
         "name": "Anja Lesar Podpečan",
         "title": "Psihoanalitična psihoterapija (specializantka)",
         "website": null,
