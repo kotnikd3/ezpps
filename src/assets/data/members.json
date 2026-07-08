@@ -1,5 +1,16 @@
 [
     {
+        "name": "Eva Požar",
+        "title": "Psihodinamska psihoterapija (specializantka)",
+        "website": "https://www.evapozar.com",
+        "locations": [],
+        "email": "info@evapozar.com",
+        "phone": null,
+        "works_online": true,
+        "id": "eva-pozar",
+        "image_name": "eva-pozar.jpg"
+    },
+    {
         "name": "Polona Zoja Jambrek",
         "title": "Psihoanalitična psihoterapija (specializantka)",
         "website": "https://fsms.nova-uni.si/dejavnosti/ordinacija/",
