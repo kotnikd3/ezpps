@@ -22,7 +22,8 @@ export async function getAllEvents() {
 }
 
 export async function getNewEvents() {
-    return await []
+    const events = await fetchData()
+    return [events[0]]; // TODO separate events.json & newEvents.json
 }
 
 export async function getById(id) {
