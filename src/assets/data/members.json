@@ -1,5 +1,25 @@
 [
     {
+        "name": "Margit Podvornik Alhady",
+        "title": "Psihoanalitična psihoterapija (psihoterapevtka)",
+        "website": null,
+        "locations": [
+            {
+                "city": "Ljubljana",
+                "address": null,
+                "latitude": null,
+                "longitude": null,
+                "approx": true,
+                "show_on_map": false
+            }
+        ],
+        "email": "margit.podvornik@guest.arnes.si",
+        "phone": "070 919 904",
+        "works_online": false,
+        "id": "margit-podvornik-alhady",
+        "image_name": "margit-podvornik-alhady.jpg"
+    },
+    {
         "name": "Eva Požar",
         "title": "Psihodinamska psihoterapija (specializantka)",
         "website": "https://www.evapozar.com",
