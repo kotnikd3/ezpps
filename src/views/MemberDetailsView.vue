@@ -73,6 +73,7 @@
 <script setup>
     import { ref, onMounted } from "vue";
     import { getById } from "@/services/membersService.js";
+    import memberPlaceholder from '@/assets/images/member-placeholder.svg';
 
     const props = defineProps({
         id: {
@@ -98,6 +99,7 @@
 
     .member-photo {
         max-width: 280px;
+        height: 280px;
     }
 
     .contact-list {
