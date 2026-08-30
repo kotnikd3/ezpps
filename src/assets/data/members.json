@@ -1,5 +1,16 @@
 [
     {
+        "name": "Denis Kotnik",
+        "title": "Psihodinamska psihoterapija (specializant)",
+        "website": "https://psihoterapija-kotnik.si/",
+        "locations": [],
+        "email": "info@psihoterapija-kotnik.si",
+        "phone": "+31 628 865 682",
+        "works_online": true,
+        "id": "denis-kotnik",
+        "image_name": null
+    },
+    {
         "name": "Margit Podvornik Alhady",
         "title": "Psihoanalitična psihoterapija (psihoterapevtka)",
         "website": null,
