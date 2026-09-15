@@ -1,0 +1,17 @@
+# EZPPS
+
+> Spletna stran Evropskega združenja psihoanalitičnih pristopov Slovenija (EZPPS).
+
+Spletna stran predstavlja združenje EZPPS, njegove člane ter osnovne informacije o organizaciji in njenem delovanju.
+
+## Glavne strani
+
+- [EZPPS](https://www.ezpps.si/): Domača stran združenja.
+- [Člani](https://www.ezpps.si/clani): Seznam in predstavitve članov združenja.
+- [O EZPPS](https://www.ezpps.si/o-ezpps): Informacije o združenju, njegovem namenu in delovanju.
+
+## Dodatno
+
+- [Sitemap](https://www.ezpps.si/sitemap.xml): Seznam javnih strani spletnega mesta.
+
+Za uradne in najnovejše informacije o združenju preverite vsebino navedenih strani.
