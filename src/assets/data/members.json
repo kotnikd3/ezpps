@@ -1,5 +1,25 @@
 [
     {
+        "name": "Marta Jenko",
+        "title": "Psihoanalitična psihoterapija (psihoterapevtka, učna terapevtka, supervizorka pod metasupervizijo)",
+        "website": "https://www.psihoterapije.net/",
+        "locations": [
+            {
+                "city": "Ljubljana",
+                "address": null,
+                "latitude": null,
+                "longitude": null,
+                "approx": true,
+                "show_on_map": false
+            }
+        ],
+        "email": "marta.jenko1@gmail.com",
+        "phone": "031 350 309",
+        "works_online": false,
+        "id": "marta-jenko",
+        "image_name": "marta-jenko.jpg"
+    },
+    {
         "name": "Denis Kotnik",
         "title": "Psihodinamska psihoterapija (specializant)",
         "website": "https://psihoterapija-kotnik.si/",
