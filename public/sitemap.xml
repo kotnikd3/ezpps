@@ -1,18 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-    <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<url>
-	<loc>https://www.ezpps.si/</loc>
-	<lastmod>2025-11-10T19:00:07+01:00</lastmod>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://www.ezpps.si/clani</loc>
-	<lastmod>2025-11-10T19:00:07+01:00</lastmod>
-	<priority>0.9</priority>
-</url>
-<url>
-	<loc>https://www.ezpps.si/o-ezpps</loc>
-	<lastmod>2025-11-10T19:00:07+01:00</lastmod>
-	<priority>0.7</priority>
-</url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://www.ezpps.si/</loc></url>
+  <url><loc>https://www.ezpps.si/o-ezpps</loc></url>
+  <url><loc>https://www.ezpps.si/o-zvezah</loc></url>
+  <url><loc>https://www.ezpps.si/o-organih-drustva</loc></url>
+  <url><loc>https://www.ezpps.si/vclanitev</loc></url>
+  <url><loc>https://www.ezpps.si/certifikacija</loc></url>
+  <url><loc>https://www.ezpps.si/clani</loc></url>
+  <url><loc>https://www.ezpps.si/o-psihoanaliticni-psihoterapiji</loc></url>
+  <url><loc>https://www.ezpps.si/psihoanaliticno-izobrazevanje</loc></url>
+  <url><loc>https://www.ezpps.si/o-psihodinamski-psihoterapiji</loc></url>
+  <url><loc>https://www.ezpps.si/psihodinamsko-izobrazevanje</loc></url>
+  <url><loc>https://www.ezpps.si/povezave</loc></url>
+  <url><loc>https://www.ezpps.si/publikacije</loc></url>
+  <url><loc>https://www.ezpps.si/dogodki</loc></url>
+  <url><loc>https://www.ezpps.si/kontakti</loc></url>
+  <url><loc>https://www.ezpps.si/dogodki/usposabljanje-iz-psihoanaliticne-psihoterapije</loc></url>
+  <url><loc>https://www.ezpps.si/dogodki/nevidne-niti-odnosa</loc></url>
+  <url><loc>https://www.ezpps.si/dogodki/skupinska-supervizija-2026-1</loc></url>
 </urlset>
