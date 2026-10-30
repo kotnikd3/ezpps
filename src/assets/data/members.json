@@ -17,7 +17,7 @@
         "phone": "031 350 309",
         "works_online": false,
         "id": "marta-jenko",
-        "image_name": "marta-jenko.jpg"
+        "image_name": "marta-jenko.webp"
     },
     {
         "name": "Denis Kotnik",
@@ -48,7 +48,7 @@
         "phone": "070 919 904",
         "works_online": false,
         "id": "margit-podvornik-alhady",
-        "image_name": "margit-podvornik-alhady.jpg"
+        "image_name": "margit-podvornik-alhady.webp"
     },
     {
         "name": "Eva Požar",
@@ -59,7 +59,7 @@
         "phone": null,
         "works_online": true,
         "id": "eva-pozar",
-        "image_name": "eva-pozar.jpg"
+        "image_name": "eva-pozar.webp"
     },
     {
         "name": "Polona Zoja Jambrek",
@@ -79,7 +79,7 @@
         "phone": "031 501 808",
         "works_online": false,
         "id": "polona-jambrek",
-        "image_name": "polona-jambrek.jpeg"
+        "image_name": "polona-jambrek.webp"
     },
     {
         "name": "Anja Lesar Podpečan",
@@ -99,7 +99,7 @@
         "phone": "031 246 315",
         "works_online": false,
         "id": "anja-podpecan",
-        "image_name": "anja-podpecan.jpg"
+        "image_name": "anja-podpecan.webp"
     },
     {
         "name": "Tommaso Lonquich",
@@ -119,7 +119,7 @@
         "phone": "064 225 677",
         "works_online": false,
         "id": "tommaso-lonquich",
-        "image_name": "tommaso-lonquich.jpg"
+        "image_name": "tommaso-lonquich.webp"
     },
     {
         "name": "Mojca Horn",
@@ -139,7 +139,7 @@
         "phone": "+386 31 467 815",
         "works_online": false,
         "id": "mojca-horn",
-        "image_name": "mojca-horn.jpeg"
+        "image_name": "mojca-horn.webp"
     },
     {
         "name": "Nataša Arko",
@@ -159,7 +159,7 @@
         "phone": "031 303 232",
         "works_online": false,
         "id": "natasa-arko",
-        "image_name": "natasa-arko.jpeg"
+        "image_name": "natasa-arko.webp"
     },
     {
         "name": "Irena Habe",
@@ -187,7 +187,7 @@
         "phone": "+386 31 375 475",
         "works_online": false,
         "id": "irena-habe",
-        "image_name": "irena-habe.jpg"
+        "image_name": "irena-habe.webp"
     },
     {
         "name": "Jaka Kovačič",
@@ -207,7 +207,7 @@
         "phone": "041 575 240",
         "works_online": false,
         "id": "jaka-kovacic",
-        "image_name": "jaka-kovacic.jpg"
+        "image_name": "jaka-kovacic.webp"
     },
     {
         "name": "Staša Frank",
@@ -227,7 +227,7 @@
         "phone": "040 265 331",
         "works_online": true,
         "id": "stasa-frank",
-        "image_name": "stasa-frank.jpg"
+        "image_name": "stasa-frank.webp"
     },
     {
         "name": "Urška Marinšek",
@@ -287,7 +287,7 @@
         "phone": "+386 68 691 127",
         "works_online": false,
         "id": "karmen-henigsman",
-        "image_name": "karmen-henigsman.jpg"
+        "image_name": "karmen-henigsman.webp"
     },
     {
         "name": "Maša Pupaher",
@@ -327,7 +327,7 @@
         "phone": null,
         "works_online": false,
         "id": "aisha-kandare",
-        "image_name": "aisha-kandare.jpg"
+        "image_name": "aisha-kandare.webp"
     },
     {
         "name": "Aleksander Lavrini",
@@ -347,7 +347,7 @@
         "phone": "+386 31 568 373",
         "works_online": false,
         "id": "aleksander-lavrini",
-        "image_name": "aleksander-lavrini.jpg"
+        "image_name": "aleksander-lavrini.webp"
     },
     {
         "name": "Aleksandra Strne",
@@ -367,7 +367,7 @@
         "phone": "+386 41 202 602",
         "works_online": false,
         "id": "aleksandra-strne",
-        "image_name": "aleksandra-strne.jpg"
+        "image_name": "aleksandra-strne.webp"
     },
     {
         "name": "Alenka Pečjak",
@@ -415,7 +415,7 @@
         "phone": "+386 41 777 622",
         "works_online": false,
         "id": "alenka-podlogar",
-        "image_name": "alenka-podlogar.jpg"
+        "image_name": "alenka-podlogar.webp"
     },
     {
         "name": "Alenka Turičnik",
@@ -435,7 +435,7 @@
         "phone": null,
         "works_online": false,
         "id": "alenka-turicnik",
-        "image_name": "alenka-turicnik.jpg"
+        "image_name": "alenka-turicnik.webp"
     },
     {
         "name": "Ana Kocjančič",
@@ -455,7 +455,7 @@
         "phone": "+386 41 890 036",
         "works_online": false,
         "id": "ana-kocjancic",
-        "image_name": "ana-kocjancic.jpg"
+        "image_name": "ana-kocjancic.webp"
     },
     {
         "name": "Ana Matijević",
@@ -475,7 +475,7 @@
         "phone": "+386 41 284 323",
         "works_online": false,
         "id": "ana-matijevic",
-        "image_name": "ana-matijevic.jpg"
+        "image_name": "ana-matijevic.webp"
     },
     {
         "name": "Ana Mrovlje",
@@ -495,7 +495,7 @@
         "phone": "+386 31 697 450",
         "works_online": false,
         "id": "ana-mrovlje",
-        "image_name": "ana-mrovlje.jpg"
+        "image_name": "ana-mrovlje.webp"
     },
     {
         "name": "Anamarija S. Rabič",
@@ -515,7 +515,7 @@
         "phone": "+386 30 397 700",
         "works_online": false,
         "id": "anamarija-rabic",
-        "image_name": "anamarija-rabic.jpg"
+        "image_name": "anamarija-rabic.webp"
     },
     {
         "name": "Andrejka Kozlevčar",
@@ -535,7 +535,7 @@
         "phone": "+386 31 303 234",
         "works_online": false,
         "id": "andrejka-kozlevcar",
-        "image_name": "andrejka-kozlevcar.jpg"
+        "image_name": "andrejka-kozlevcar.webp"
     },
     {
         "name": "Anela Klemenc Bešo",
@@ -555,7 +555,7 @@
         "phone": "+386 64 252 200",
         "works_online": true,
         "id": "anela-klemenc-beso",
-        "image_name": "anela-klemenc-beso.jpg"
+        "image_name": "anela-klemenc-beso.webp"
     },
     {
         "name": "Aneta Kovačič",
@@ -583,7 +583,7 @@
         "phone": "+386 31 358 096",
         "works_online": false,
         "id": "aneta-kovacic",
-        "image_name": "aneta-kovacic.jpg"
+        "image_name": "aneta-kovacic.webp"
     },
     {
         "name": "Anja Košir Romandini",
@@ -603,7 +603,7 @@
         "phone": "+386 41 687 330",
         "works_online": false,
         "id": "anja-kosir-romandini",
-        "image_name": "anja-kosir-romandini.jpg"
+        "image_name": "anja-kosir-romandini.webp"
     },
     {
         "name": "Barbara Ivič",
@@ -683,7 +683,7 @@
         "phone": null,
         "works_online": false,
         "id": "bojan-filipic",
-        "image_name": "bojan-filipic.jpg"
+        "image_name": "bojan-filipic.webp"
     },
     {
         "name": "Brigita Korpar",
@@ -703,7 +703,7 @@
         "phone": null,
         "works_online": true,
         "id": "brigita-korpar",
-        "image_name": "brigita-korpar.jpg"
+        "image_name": "brigita-korpar.webp"
     },
     {
         "name": "Damijan Sever",
@@ -743,7 +743,7 @@
         "phone": "+386 40 709 777",
         "works_online": false,
         "id": "darija-stajdohar",
-        "image_name": "darija-stajdohar.jpg"
+        "image_name": "darija-stajdohar.webp"
     },
     {
         "name": "Darja Trivan Gril",
@@ -783,7 +783,7 @@
         "phone": "+386 40 736 155",
         "works_online": false,
         "id": "diana-ploj-zec",
-        "image_name": "diana-ploj-zec.jpg"
+        "image_name": "diana-ploj-zec.webp"
     },
     {
         "name": "dr. Lea Bernik",
@@ -803,7 +803,7 @@
         "phone": "+386 40 165 651",
         "works_online": false,
         "id": "dr-lea-bernik",
-        "image_name": "dr-lea-bernik.jpg"
+        "image_name": "dr-lea-bernik.webp"
     },
     {
         "name": "dr. Nika Nikolič",
@@ -823,7 +823,7 @@
         "phone": "+386 41 971 265",
         "works_online": false,
         "id": "dr-nika-nikolic",
-        "image_name": "dr-nika-nikolic.jpg"
+        "image_name": "dr-nika-nikolic.webp"
     },
     {
         "name": "dr. Nuša Kovačević Tojnko",
@@ -843,7 +843,7 @@
         "phone": "+386 31 510 342",
         "works_online": false,
         "id": "dr-nusa-kovacevic-tojnko",
-        "image_name": "dr-nusa-kovacevic-tojnko.jpg"
+        "image_name": "dr-nusa-kovacevic-tojnko.webp"
     },
     {
         "name": "Emil Benedik",
@@ -883,7 +883,7 @@
         "phone": null,
         "works_online": false,
         "id": "dr-gasper-lesar",
-        "image_name": "dr-gasper-lesar.jpg"
+        "image_name": "dr-gasper-lesar.webp"
     },
     {
         "name": "Gregor Knežič",
@@ -903,7 +903,7 @@
         "phone": null,
         "works_online": false,
         "id": "gregor-knezic",
-        "image_name": "gregor-knezic.jpg"
+        "image_name": "gregor-knezic.webp"
     },
     {
         "name": "Ines Majcen",
@@ -923,7 +923,7 @@
         "phone": "+386 31 678 971",
         "works_online": false,
         "id": "ines-majcen",
-        "image_name": "ines-majcen.jpg"
+        "image_name": "ines-majcen.webp"
     },
     {
         "name": "mag. Irena Zagajšek",
@@ -951,7 +951,7 @@
         "phone": "+386 31 425 289",
         "works_online": true,
         "id": "irena-zagajsek",
-        "image_name": "irena-zagajsek.jpg"
+        "image_name": "irena-zagajsek.webp"
     },
     {
         "name": "Iza Valič",
@@ -971,7 +971,7 @@
         "phone": "+386 51 430 621",
         "works_online": false,
         "id": "iza-valic",
-        "image_name": "iza-valic.jpg"
+        "image_name": "iza-valic.webp"
     },
     {
         "name": "Iztok Zver",
@@ -991,7 +991,7 @@
         "phone": "+386 41 888 799",
         "works_online": false,
         "id": "iztok-zver",
-        "image_name": "iztok-zver.jpg"
+        "image_name": "iztok-zver.webp"
     },
     {
         "name": "Jaka Henigman",
@@ -1011,7 +1011,7 @@
         "phone": "+386 31 491 250",
         "works_online": true,
         "id": "jaka-henigman",
-        "image_name": "jaka-henigman.jpg"
+        "image_name": "jaka-henigman.webp"
     },
     {
         "name": "Jakica Kristovski",
@@ -1031,7 +1031,7 @@
         "phone": "+386 41 660 968",
         "works_online": false,
         "id": "jakica-kristovski",
-        "image_name": "jakica-kristovski.jpg"
+        "image_name": "jakica-kristovski.webp"
     },
     {
         "name": "Jana Vodlan",
@@ -1071,7 +1071,7 @@
         "phone": "+386 31 898 466",
         "works_online": false,
         "id": "kaja-leskovsek-nagode",
-        "image_name": "kaja-leskovsek-nagode.jpg"
+        "image_name": "kaja-leskovsek-nagode.webp"
     },
     {
         "name": "Kaja Širok",
@@ -1091,7 +1091,7 @@
         "phone": "+386 31 248 142",
         "works_online": false,
         "id": "kaja-sirok",
-        "image_name": "kaja-sirok.jpg"
+        "image_name": "kaja-sirok.webp"
     },
     {
         "name": "Katja Biščak",
@@ -1131,7 +1131,7 @@
         "phone": "+386 41 956 824",
         "works_online": false,
         "id": "katja-lesar",
-        "image_name": "katja-lesar.jpg"
+        "image_name": "katja-lesar.webp"
     },
     {
         "name": "Katja Štucin",
@@ -1151,7 +1151,7 @@
         "phone": "051 472 017",
         "works_online": false,
         "id": "katja-stucin",
-        "image_name": "katja-stucin.jpg"
+        "image_name": "katja-stucin.webp"
     },
     {
         "name": "Kristijan Senekovič",
@@ -1179,7 +1179,7 @@
         "phone": "+386 69 950 127",
         "works_online": false,
         "id": "kristijan-senekovic",
-        "image_name": "kristijan-senekovic.png"
+        "image_name": "kristijan-senekovic.webp"
     },
     {
         "name": "Kristina Kosmač",
@@ -1207,7 +1207,7 @@
         "phone": "+386 40 604 964",
         "works_online": false,
         "id": "kristina-kosmac",
-        "image_name": "kristina-kosmac.jpg"
+        "image_name": "kristina-kosmac.webp"
     },
     {
         "name": "Lan Pečjak",
@@ -1267,7 +1267,7 @@
         "phone": "+386 31 806 419",
         "works_online": false,
         "id": "lea-hosnjak",
-        "image_name": "lea-hosnjak.jpg"
+        "image_name": "lea-hosnjak.webp"
     },
     {
         "name": "Lea Prešern McCann",
@@ -1287,7 +1287,7 @@
         "phone": "040 55 33 66",
         "works_online": false,
         "id": "lea-presern-mccann",
-        "image_name": "lea-presern-mccann.jpg"
+        "image_name": "lea-presern-mccann.webp"
     },
     {
         "name": "Leja Lončar Mikić",
@@ -1307,7 +1307,7 @@
         "phone": "+386 40 177 798",
         "works_online": false,
         "id": "leja-loncar-mikic",
-        "image_name": "leja-loncar-mikic.jpg"
+        "image_name": "leja-loncar-mikic.webp"
     },
     {
         "name": "Lina Debeljak",
@@ -1338,7 +1338,7 @@
         "phone": null,
         "works_online": false,
         "id": "lina-ogris",
-        "image_name": "lina-ogris.jpg"
+        "image_name": "lina-ogris.webp"
     },
     {
         "name": "Ljudmila Brezigar",
@@ -1386,7 +1386,7 @@
         "phone": "+386 31 825 668",
         "works_online": false,
         "id": "luka-agrez",
-        "image_name": "luka-agrez.jpg"
+        "image_name": "luka-agrez.webp"
     },
     {
         "name": "Maja Zajc",
@@ -1426,7 +1426,7 @@
         "phone": "+386 71 411 717",
         "works_online": false,
         "id": "marina-louise-rajapakse",
-        "image_name": "marina-louise-rajapakse.jpg"
+        "image_name": "marina-louise-rajapakse.webp"
     },
     {
         "name": "Marjeta Baričevič",
@@ -1446,7 +1446,7 @@
         "phone": "+386 40 187 969",
         "works_online": false,
         "id": "marjeta-baricevic",
-        "image_name": "marjeta-baricevic.jpg"
+        "image_name": "marjeta-baricevic.webp"
     },
     {
         "name": "Martina Mihić Fabčič",
@@ -1474,7 +1474,7 @@
         "phone": "+386 40 470 095",
         "works_online": false,
         "id": "martina-mihic",
-        "image_name": "martina-mihic.jpg"
+        "image_name": "martina-mihic.webp"
     },
     {
         "name": "Mateja Hajšek Semrajc",
@@ -1494,7 +1494,7 @@
         "phone": "+386 31 366 106",
         "works_online": false,
         "id": "mateja-hajsek-semrajc",
-        "image_name": "mateja-hajsek-semrajc.jpg"
+        "image_name": "mateja-hajsek-semrajc.webp"
     },
     {
         "name": "Mateja Kolenc",
@@ -1514,7 +1514,7 @@
         "phone": "+386 30 311 969",
         "works_online": false,
         "id": "mateja-kolenc",
-        "image_name": "mateja-kolenc.jpg"
+        "image_name": "mateja-kolenc.webp"
     },
     {
         "name": "Mateja Simčič",
@@ -1534,7 +1534,7 @@
         "phone": "+386 31 349 945",
         "works_online": false,
         "id": "mateja-simcic",
-        "image_name": "mateja-simcic.jpg"
+        "image_name": "mateja-simcic.webp"
     },
     {
         "name": "Mateja Švetak",
@@ -1554,7 +1554,7 @@
         "phone": "+386 51 223 791",
         "works_online": false,
         "id": "mateja-svetak",
-        "image_name": "mateja-svetak.jpg"
+        "image_name": "mateja-svetak.webp"
     },
     {
         "name": "Matija Pajer",
@@ -1574,7 +1574,7 @@
         "phone": "+386 31 703 961",
         "works_online": false,
         "id": "matija-pajer",
-        "image_name": "matija-pajer.jpg"
+        "image_name": "matija-pajer.webp"
     },
     {
         "name": "Metka Zalaznik Furlani",
@@ -1594,7 +1594,7 @@
         "phone": "+386 40 758 833",
         "works_online": true,
         "id": "metka-zalaznik-furlani",
-        "image_name": "metka-zalaznik-furlani.jpg"
+        "image_name": "metka-zalaznik-furlani.webp"
     },
     {
         "name": "mag. Miha Štrukelj",
@@ -1614,7 +1614,7 @@
         "phone": "031 759 205",
         "works_online": false,
         "id": "miha-strukelj",
-        "image_name": "miha-strukelj.jpg"
+        "image_name": "miha-strukelj.webp"
     },
     {
         "name": "Miloš Židanik",
@@ -1642,7 +1642,7 @@
         "phone": "+386 40 289 174",
         "works_online": false,
         "id": "milos-zidanik",
-        "image_name": "milos-zidanik.jpg"
+        "image_name": "milos-zidanik.webp"
     },
     {
         "name": "Mojca Benko",
@@ -1662,7 +1662,7 @@
         "phone": "+386 40 838 773",
         "works_online": false,
         "id": "mojca-benko",
-        "image_name": "mojca-benko.jpg"
+        "image_name": "mojca-benko.webp"
     },
     {
         "name": "Mojca Žirovnik",
@@ -1682,7 +1682,7 @@
         "phone": "+386 41 595 848",
         "works_online": false,
         "id": "mojca-zirovnik",
-        "image_name": "mojca-zirovnik.jpg"
+        "image_name": "mojca-zirovnik.webp"
     },
     {
         "name": "Urška Žgank Jerant",
@@ -1702,7 +1702,7 @@
         "phone": "041 629 407",
         "works_online": false,
         "id": "urska-zgank-jerant",
-        "image_name": "urska-zgank-jerant.jpg"
+        "image_name": "urska-zgank-jerant.webp"
     },
     {
         "name": "Naja Petek",
@@ -1722,7 +1722,7 @@
         "phone": null,
         "works_online": false,
         "id": "naja-petek",
-        "image_name": "naja-petek.jpg"
+        "image_name": "naja-petek.webp"
     },
     {
         "name": "Nataša Crnkovič",
@@ -1742,7 +1742,7 @@
         "phone": null,
         "works_online": false,
         "id": "natasa-crnkovic",
-        "image_name": "natasa-crnkovic.jpg"
+        "image_name": "natasa-crnkovic.webp"
     },
     {
         "name": "Parov Anzelc",
@@ -1762,7 +1762,7 @@
         "phone": "+386 31 556 367",
         "works_online": false,
         "id": "parov-anzelc",
-        "image_name": "parov-anzelc.jpg"
+        "image_name": "parov-anzelc.webp"
     },
     {
         "name": "Petra Česen",
@@ -1782,7 +1782,7 @@
         "phone": null,
         "works_online": false,
         "id": "petra-cesen",
-        "image_name": "petra-cesen.jpg"
+        "image_name": "petra-cesen.webp"
     },
     {
         "name": "Petra Furlan Dodič",
@@ -1802,7 +1802,7 @@
         "phone": "+386 40 450 153",
         "works_online": false,
         "id": "petra-furlan-dodic",
-        "image_name": "petra-furlan-dodic.jpg"
+        "image_name": "petra-furlan-dodic.webp"
     },
     {
         "name": "Romana Kress",
@@ -1822,7 +1822,7 @@
         "phone": "+386 41 913 086",
         "works_online": false,
         "id": "romana-kress",
-        "image_name": "romana-kress.jpg"
+        "image_name": "romana-kress.webp"
     },
     {
         "name": "Sabrina Lever",
@@ -1842,7 +1842,7 @@
         "phone": "+386 04 399 674",
         "works_online": false,
         "id": "sabrina-lever",
-        "image_name": "sabrina-lever.jpg"
+        "image_name": "sabrina-lever.webp"
     },
     {
         "name": "Saga L. Škerlep",
@@ -1862,7 +1862,7 @@
         "phone": null,
         "works_online": false,
         "id": "saga-l-skerlep",
-        "image_name": "saga-l-skerlep.jpg"
+        "image_name": "saga-l-skerlep.webp"
     },
     {
         "name": "Samo Babuder",
@@ -1882,7 +1882,7 @@
         "phone": "+386 31 357 698",
         "works_online": false,
         "id": "samo-babuder",
-        "image_name": "samo-babuder.jpg"
+        "image_name": "samo-babuder.webp"
     },
     {
         "name": "Sanja Guček",
@@ -1910,7 +1910,7 @@
         "phone": "+386 41 539 098",
         "works_online": true,
         "id": "sanja-gucek",
-        "image_name": "sanja-gucek.jpg"
+        "image_name": "sanja-gucek.webp"
     },
     {
         "name": "Silvana Kokol",
@@ -1930,7 +1930,7 @@
         "phone": "+386 31 783 579",
         "works_online": false,
         "id": "silvana-kokol",
-        "image_name": "silvana-kokol.jpg"
+        "image_name": "silvana-kokol.webp"
     },
     {
         "name": "Simon Pevec",
@@ -1950,7 +1950,7 @@
         "phone": "+386 70 182 782",
         "works_online": false,
         "id": "simon-pevec",
-        "image_name": "simon-pevec.jpg"
+        "image_name": "simon-pevec.webp"
     },
     {
         "name": "Štefanija Šramel",
@@ -1981,7 +1981,7 @@
         "phone": "+386 41 341 125",
         "works_online": false,
         "id": "tanja-maljevac",
-        "image_name": "tanja-maljevac.jpg"
+        "image_name": "tanja-maljevac.webp"
     },
     {
         "name": "Teja Gašperin",
@@ -2001,7 +2001,7 @@
         "phone": "+386 31 340 036",
         "works_online": false,
         "id": "teja-gasperin",
-        "image_name": "teja-gasperin.jpg"
+        "image_name": "teja-gasperin.webp"
     },
     {
         "name": "Tina Černe",
@@ -2041,7 +2041,7 @@
         "phone": "+386 40 195 757",
         "works_online": false,
         "id": "tina-goluh",
-        "image_name": "tina-goluh.jpg"
+        "image_name": "tina-goluh.webp"
     },
     {
         "name": "Tina Hrovat Kralj",
@@ -2061,7 +2061,7 @@
         "phone": "+386 40 632 110",
         "works_online": false,
         "id": "tina-hrovat-kralj",
-        "image_name": "tina-hrovat-kralj.jpg"
+        "image_name": "tina-hrovat-kralj.webp"
     },
     {
         "name": "Urša Pogačar",
@@ -2081,7 +2081,7 @@
         "phone": "+386 51 389 683",
         "works_online": false,
         "id": "ursa-pogacar",
-        "image_name": "ursa-pogacar.jpg"
+        "image_name": "ursa-pogacar.webp"
     },
     {
         "name": "Urša Adam",
@@ -2101,7 +2101,7 @@
         "phone": "+386 41 864 122",
         "works_online": false,
         "id": "ursa-adam",
-        "image_name": "ursa-adam.jpg"
+        "image_name": "ursa-adam.webp"
     },
     {
         "name": "Urška Kvas",
@@ -2161,7 +2161,7 @@
         "phone": "+386 68 641 476",
         "works_online": false,
         "id": "vesna-lujinovic",
-        "image_name": "vesna-lujinovic.jpg"
+        "image_name": "vesna-lujinovic.webp"
     },
     {
         "name": "Vesna Remškar",
@@ -2181,7 +2181,7 @@
         "phone": null,
         "works_online": false,
         "id": "vesna-remskar",
-        "image_name": "vesna-remskar.jpg"
+        "image_name": "vesna-remskar.webp"
     },
     {
         "name": "Vesna Turk",
@@ -2201,7 +2201,7 @@
         "phone": "+386 41 395 794",
         "works_online": false,
         "id": "vesna-turk",
-        "image_name": "vesna-turk.png"
+        "image_name": "vesna-turk.webp"
     },
     {
         "name": "Viktorija Šušteršič",
@@ -2249,7 +2249,7 @@
         "phone": "+386 31 77 22 40",
         "works_online": false,
         "id": "vitomira-vita-rozman",
-        "image_name": "vitomira-vita-rozman.jpg"
+        "image_name": "vitomira-vita-rozman.webp"
     },
     {
         "name": "Zala Razpotnik",
@@ -2269,7 +2269,7 @@
         "phone": "+386 40 359 539",
         "works_online": true,
         "id": "zala-razpotnik",
-        "image_name": "zala-razpotnik.jpg"
+        "image_name": "zala-razpotnik.webp"
     },
     {
         "name": "Zoltan Pap",
@@ -2289,6 +2289,6 @@
         "phone": "+386 41 210 128",
         "works_online": true,
         "id": "zoltan-pap",
-        "image_name": "zoltan-pap.jpg"
+        "image_name": "zoltan-pap.webp"
     }
 ]
